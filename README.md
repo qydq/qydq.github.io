@@ -1,2 +1,2 @@
-# memleaks.info
-another blog site [memleaks.info](http://memleaks.info/)
+# qydq.github.io
+another blog site [知乎主页](https://zhihu.com/people/qydq/)
