@@ -1,0 +1,33 @@
+theme: jekyll-theme-cayman
+title: "likes"
+author: "http://fengyh.cn"
+description: "我唯一担心一件事，我怕我配不上自己所受的苦难，这一句话一直让我咬紧牙关扛过一次又一次的打击和挫折！我要对得起我自己"
+more: "read more »"
+url: "http://memleaks.info"
+#baseurl: "/contrast" # comment out if in root directory
+
+#comments:
+#  disqus: "likes"
+#  isso: "comments.mysite.org"
+
+style:
+  body: 'white'
+  margin: 0%
+  padding: 20%
+  nav: "#222"
+  articles: 'stripe' # 'light' 'dark' and 'stripe' possible
+  uppercase: true
+
+# see http://fontawesome.io/icons/#brand for all possible icons
+# notice: squared icons only work if supported by font-awesome
+
+links:
+  - github: {url: "https://github.com/qydq/", square: true}
+#  - weibo: {url: "http://weibo.com/qydq", square: true}
+  - google-plus: {url: "https://plus.google.com/111357045355121677637", square: true}
+
+paginate: 10
+excerpt_separator: "\n\n\n" # excerpt ends after two blank lines
+permalink: pretty
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+gems: [jekyll-feed, jekyll-paginate] # include feed plugin (supported by gh-pages)
