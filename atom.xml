@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>kotlinandroid.net</title>
+  <title>likeqy.com</title>
   <subtitle>一个专注发布有关Kotlin、Android相关资源与优秀文章的技术网站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://kotlinandroid.net/"/>
+  <link href="https://likeqy.com/"/>
   <updated>2017-09-03T02:05:29.622Z</updated>
-  <id>https://kotlinandroid.net/</id>
+  <id>https://likeqy.com/</id>
   
   <author>
-    <name>itgoyo</name>
+    <name>sunshuntao</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Text3怎么修改侧边栏的颜色和内容一致</title>
-    <link href="https://kotlinandroid.net/2017/09/03/Text3%E6%80%8E%E4%B9%88%E4%BF%AE%E6%94%B9%E4%BE%A7%E8%BE%B9%E6%A0%8F%E7%9A%84%E9%A2%9C%E8%89%B2%E5%92%8C%E5%86%85%E5%AE%B9%E4%B8%80%E8%87%B4/"/>
-    <id>https://kotlinandroid.net/2017/09/03/Text3怎么修改侧边栏的颜色和内容一致/</id>
+    <link href="https://likeqy.com/2017/09/03/Text3%E6%80%8E%E4%B9%88%E4%BF%AE%E6%94%B9%E4%BE%A7%E8%BE%B9%E6%A0%8F%E7%9A%84%E9%A2%9C%E8%89%B2%E5%92%8C%E5%86%85%E5%AE%B9%E4%B8%80%E8%87%B4/"/>
+    <id>https://likeqy.com/2017/09/03/Text3怎么修改侧边栏的颜色和内容一致/</id>
     <published>2017-09-03T02:04:58.000Z</published>
     <updated>2017-09-03T02:05:29.622Z</updated>
     
@@ -30,7 +30,7 @@
 <p>安装完成之后,效果是这样子的:</p>
 <p><img src="http://omvbl46i3.bkt.clouddn.com/17-9-3/5379561.jpg" alt=""></p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -42,17 +42,17 @@
     
     </summary>
     
-      <category term="编程相关" scheme="https://kotlinandroid.net/categories/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
+      <category term="编程相关" scheme="https://likeqy.com/categories/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
     
     
-      <category term="Program" scheme="https://kotlinandroid.net/tags/Program/"/>
+      <category term="Program" scheme="https://likeqy.com/tags/Program/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu扁平化主题Flatabulous安装教程</title>
-    <link href="https://kotlinandroid.net/2017/09/03/Ubuntu%E6%89%81%E5%B9%B3%E5%8C%96%E4%B8%BB%E9%A2%98Flatabulous%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
-    <id>https://kotlinandroid.net/2017/09/03/Ubuntu扁平化主题Flatabulous安装教程/</id>
+    <link href="https://likeqy.com/2017/09/03/Ubuntu%E6%89%81%E5%B9%B3%E5%8C%96%E4%B8%BB%E9%A2%98Flatabulous%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    <id>https://likeqy.com/2017/09/03/Ubuntu扁平化主题Flatabulous安装教程/</id>
     <published>2017-09-03T01:25:48.000Z</published>
     <updated>2017-09-03T01:46:01.454Z</updated>
     
@@ -75,7 +75,7 @@
 <p>最后完成以上设置的效果图</p>
 <p><img src="http://omvbl46i3.bkt.clouddn.com/17-9-3/47946394.jpg" alt=""></p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -87,17 +87,17 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://kotlinandroid.net/categories/Linux/"/>
+      <category term="Linux" scheme="https://likeqy.com/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://kotlinandroid.net/tags/Linux/"/>
+      <category term="Linux" scheme="https://likeqy.com/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>决策</title>
-    <link href="https://kotlinandroid.net/2017/09/02/%E5%86%B3%E7%AD%96/"/>
-    <id>https://kotlinandroid.net/2017/09/02/决策/</id>
+    <link href="https://likeqy.com/2017/09/02/%E5%86%B3%E7%AD%96/"/>
+    <id>https://likeqy.com/2017/09/02/决策/</id>
     <published>2017-09-02T12:16:15.000Z</published>
     <updated>2017-09-02T13:09:57.524Z</updated>
     
@@ -115,7 +115,7 @@
 <p>“我们必须尽早将尽可能多且有用的行动变成我们自发的和习以为常的决策……我们通过毫不费力的下意识行为解决的日常细节越多，我们就能解放越多应该用来处理高级事务的精神意志力。”——威廉·詹姆斯</p>
 </blockquote>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -127,17 +127,17 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="https://kotlinandroid.net/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://likeqy.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活随笔" scheme="https://kotlinandroid.net/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://likeqy.com/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>Android开发工具大全</title>
-    <link href="https://kotlinandroid.net/2017/07/29/Android%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/"/>
-    <id>https://kotlinandroid.net/2017/07/29/Android开发工具大全/</id>
+    <link href="https://likeqy.com/2017/07/29/Android%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/"/>
+    <id>https://likeqy.com/2017/07/29/Android开发工具大全/</id>
     <published>2017-07-29T06:35:32.000Z</published>
     <updated>2017-07-29T06:44:15.999Z</updated>
     
@@ -3083,7 +3083,7 @@
 <h1 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h1><hr>
 <pre><code>版权归原作者所有，这里仅做收集整理，欢迎自由转载-非商用-非衍生-保持署名和链接。
 </code></pre><hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3093,17 +3093,17 @@
     
     </summary>
     
-      <category term="开发工具" scheme="https://kotlinandroid.net/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+      <category term="开发工具" scheme="https://likeqy.com/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>你真的了解AsyncTask吗</title>
-    <link href="https://kotlinandroid.net/2017/07/26/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3AsyncTask%E5%90%97/"/>
-    <id>https://kotlinandroid.net/2017/07/26/你真的了解AsyncTask吗/</id>
+    <link href="https://likeqy.com/2017/07/26/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3AsyncTask%E5%90%97/"/>
+    <id>https://likeqy.com/2017/07/26/你真的了解AsyncTask吗/</id>
     <published>2017-07-26T12:09:45.000Z</published>
     <updated>2017-07-26T14:05:15.410Z</updated>
     
@@ -3180,7 +3180,7 @@
 <p>原文地址：<a href="http://weishu.me/2016/01/18/dive-into-asynctask/" target="_blank" rel="external">http://weishu.me/2016/01/18/dive-into-asynctask/</a></p>
 </blockquote>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3191,17 +3191,17 @@
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>ViewDragHelper源码解析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/ViewDragHelper%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/ViewDragHelper源码解析/</id>
+    <link href="https://likeqy.com/2017/07/26/ViewDragHelper%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/ViewDragHelper源码解析/</id>
     <published>2017-07-26T12:08:18.000Z</published>
     <updated>2017-07-26T12:08:39.221Z</updated>
     
@@ -3262,7 +3262,7 @@
 </ul>
 <h3 id="6-个人评价"><a href="#6-个人评价" class="headerlink" title="6. 个人评价"></a>6. 个人评价</h3><p><code>ViewDragHelper</code>的出现,大大简化了我们开发相关触摸和拖拽功能的复杂度和代码量,帮助我们比较容易的实现各种效果,让我们开发酷炫的交互更加容易了。但是从一些开源项目中发现,<code>ViewDragHelper</code>中还是有一些不足之处,比如给<code>Scroller</code>提供了一个固定的<code>Interpolator</code>,导致如果我们想实现例如反弹效果的话,还要把<code>ViewDragHelper</code>的代码拷贝一份并修改<code>Interpolator</code>,这样做肯定是不太好的.当然建议我们自己修改一个<code>ViewDragHelper</code>后如果项目里有多处使用,可以包装成一个提供给我们自己项目的模块使用,防止出现更多的多余代码</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3273,17 +3273,17 @@
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>TextView源码解析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/TextView%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/TextView源码解析/</id>
+    <link href="https://likeqy.com/2017/07/26/TextView%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/TextView源码解析/</id>
     <published>2017-07-26T12:07:19.000Z</published>
     <updated>2017-07-26T12:07:37.007Z</updated>
     
@@ -3344,7 +3344,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">commitCompletion</span><span class="params">(CompletionInfo text)</span> </span>&#123;</div><div class="line">        <span class="keyword">if</span> (DEBUG) Log.v(TAG, <span class="string">"commitCompletion "</span> + text);</div><div class="line">        mTextView.beginBatchEdit();</div><div class="line">        mTextView.onCommitCompletion(text);</div><div class="line">        mTextView.endBatchEdit();</div><div class="line">        <span class="keyword">return</span> <span class="keyword">true</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="meta">@Override</span></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">commitCorrection</span><span class="params">(CorrectionInfo correctionInfo)</span> </span>&#123;</div><div class="line">        <span class="keyword">if</span> (DEBUG) Log.v(TAG, <span class="string">"commitCorrection"</span> + correctionInfo);</div><div class="line">        mTextView.beginBatchEdit();</div><div class="line">        mTextView.onCommitCorrection(correctionInfo);</div><div class="line">        mTextView.endBatchEdit();</div><div class="line">        <span class="keyword">return</span> <span class="keyword">true</span>;</div><div class="line">    &#125;</div></pre></td></tr></table></figure>
 <h2 id="8-总结"><a href="#8-总结" class="headerlink" title="8.总结"></a>8.总结</h2><p>一个展示文本+文本编辑器功能的控件需要做的事情很多，要对文本进行排版、处理不同的段落风格、处理段落内的不同emoji和span、进行折行计算，然后还需要做文本编辑、文本选择等。而TextView把这些事情明确分工给不同的类。这样不仅仅把复杂问题拆分成了一个个简单的小功能，同时也大大增加了可扩展性。</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3355,17 +3355,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>TabLayout源码解析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/TabLayout%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/TabLayout源码解析/</id>
+    <link href="https://likeqy.com/2017/07/26/TabLayout%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/TabLayout源码解析/</id>
     <published>2017-07-26T12:06:13.000Z</published>
     <updated>2017-07-26T12:06:32.545Z</updated>
     
@@ -3433,7 +3433,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <li><a href="https://github.com/Aspsine/SwipeToLoadLayout" target="_blank" rel="external">SwipeToLoadLayout</a>的demo</li>
 </ul>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3444,17 +3444,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>SwipeRefreshLayout源码分析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/SwipeRefreshLayout%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/SwipeRefreshLayout源码分析/</id>
+    <link href="https://likeqy.com/2017/07/26/SwipeRefreshLayout%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/SwipeRefreshLayout源码分析/</id>
     <published>2017-07-26T12:04:43.000Z</published>
     <updated>2017-07-26T12:05:30.578Z</updated>
     
@@ -3521,7 +3521,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">private</span> Animation.AnimationListener mRefreshListener = <span class="keyword">new</span> Animation.AnimationListener() &#123;</div><div class="line">   <span class="comment">// .. 省略代码</span></div><div class="line">   <span class="meta">@Override</span></div><div class="line">   <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">onAnimationEnd</span><span class="params">(Animation animation)</span> </span>&#123;</div><div class="line">       <span class="keyword">if</span> (mRefreshing) &#123;</div><div class="line">           mProgress.setAlpha(MAX_ALPHA); <span class="comment">//确保刷新圆圈中间的进度条是完全不透明了</span></div><div class="line">           mProgress.start();</div><div class="line">           <span class="keyword">if</span> (mNotify) &#123; <span class="comment">// 当 mNotify 为 true 时才会回调 onRefresh</span></div><div class="line">               <span class="keyword">if</span> (mListener != <span class="keyword">null</span>) &#123;</div><div class="line">                   <span class="comment">// 回调 listener 的 onRefresh 方法</span></div><div class="line">                   mListener.onRefresh();</div><div class="line">               &#125;</div><div class="line">           &#125;</div><div class="line">           mCurrentTargetOffsetTop = mCircleView.getTop();</div><div class="line">       &#125; <span class="keyword">else</span> &#123;</div><div class="line">           reset();</div><div class="line">       &#125;</div><div class="line">   &#125;</div><div class="line">&#125;;</div></pre></td></tr></table></figure>
 <h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>分析 SwipeRefreshLayout 的流程就是按照平时我们自定义 <code>ViewGroup</code> 的流程，但是其中也有好多需要我们借鉴的地方，如何使用 NestedScrolling相关机制 ，多点触控的处理，onMeasure 中减去了 padding，如何判断子 View 是否可滚动，如何确定 ViewGroup 中某一个 View 的索引等。<br>此外，一个好的下拉刷新框架不仅仅要兼容各种滚动的子控件，还要考虑自己要兼容 NestedScrollingChild 的情况，比如放到 CooCoordinatorLayout 的情况，目前大多数开源的下拉刷新好像都没有达到这个要求，一般都是只考虑了内部嵌套滚动子视图的情况，没有考虑自己作为滚动子视图的情况。</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3532,17 +3532,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>SearchView源码解析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/SearchView%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/SearchView源码解析/</id>
+    <link href="https://likeqy.com/2017/07/26/SearchView%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/SearchView源码解析/</id>
     <published>2017-07-26T11:59:27.000Z</published>
     <updated>2017-07-26T12:03:12.475Z</updated>
     
@@ -3614,7 +3614,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <p>有兴趣的同学可以搜下相关资料，这里就不再深入了。</p>
 <p>如果我哪里分析错了，请大家及时纠正我，谢谢。</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3625,17 +3625,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Scroller源码解析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/Scroller%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/Scroller源码解析/</id>
+    <link href="https://likeqy.com/2017/07/26/Scroller%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/Scroller源码解析/</id>
     <published>2017-07-26T11:58:31.000Z</published>
     <updated>2017-07-26T11:58:54.457Z</updated>
     
@@ -3688,7 +3688,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <p>我并没有看懂这段代码的实际意义。网上也没有找到比较清晰的解释。通过<code>debug</code>得知<code>SPLINE_POSITION</code>是一个长度为<code>101</code>并且从<code>0-1</code>递增数组。猜想这应该是一个函数模型并且最终用于计算出滑动过程中的加速度与位置。至此<code>Scroller</code>的两个主要方法的实现我们就分析完了。</p>
 <h2 id="4-OverScroller解析"><a href="#4-OverScroller解析" class="headerlink" title="4. OverScroller解析"></a>4. OverScroller解析</h2><p><code>OverScroller</code>是对<code>Scroller</code>的拓展，它在<code>Scroller</code>的基础上拓展出了更多的方法。<code>OverScroller</code>的<code>fling</code>方法支持滑动到终点之后并超出一段距离并返回，类似于弹性效果。另外一个<code>springBack()</code>方法是指将指定的点平滑滚动到指定的终点上。这个终点由设置的参数决定。原理我们就不再探究了，大家可以自行研究这两个类的差别。最后具体的使用方法在文章最上面的<code>demo</code>里都有提供。可以<code>clone</code>下来帮助理解。</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3699,17 +3699,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>LruCache源码解析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/LruCache%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/LruCache源码解析/</id>
+    <link href="https://likeqy.com/2017/07/26/LruCache%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/LruCache源码解析/</id>
     <published>2017-07-26T11:57:39.000Z</published>
     <updated>2017-07-26T11:58:00.664Z</updated>
     
@@ -3814,7 +3814,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <p><a href="https://github.com/CaMnter/AndroidLife/blob/master/app/src/main/java/com/camnter/newlife/utils/cache/LruCache.java" target="_blank" rel="external">LruCache 注释源码</a>   </p>
 <p><a href="https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/article/LruCache%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md" target="_blank" rel="external">原文链接</a></p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3825,17 +3825,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>FloatingActionButton源码解析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/FloatingActionButton%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/FloatingActionButton源码解析/</id>
+    <link href="https://likeqy.com/2017/07/26/FloatingActionButton%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/FloatingActionButton源码解析/</id>
     <published>2017-07-26T11:55:14.000Z</published>
     <updated>2017-07-26T11:57:13.408Z</updated>
     
@@ -3941,7 +3941,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <p>微博：<a href="http://weibo.com/u/2331178381?is_all=1" target="_blank" rel="external">楚奕RX</a></p>
 <h2 id="License"><a href="#License" class="headerlink" title="License"></a>License</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div></pre></td><td class="code"><pre><div class="line">The MIT License (MIT)</div><div class="line"></div><div class="line">Copyright (c) 2016 Rowandjj</div><div class="line"></div><div class="line">Permission is hereby granted, free of charge, to any person obtaining a copy</div><div class="line">of this software and associated documentation files (the &quot;Software&quot;), to deal</div><div class="line">in the Software without restriction, including without limitation the rights</div><div class="line">to use, copy, modify, merge, publish, distribute, sublicense, and/or sell</div><div class="line">copies of the Software, and to permit persons to whom the Software is</div><div class="line">furnished to do so, subject to the following conditions:</div><div class="line"></div><div class="line">The above copyright notice and this permission notice shall be included in all</div><div class="line">copies or substantial portions of the Software.</div><div class="line"></div><div class="line">THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR</div><div class="line">IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,</div><div class="line">FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE</div><div class="line">AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER</div><div class="line">LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,</div><div class="line">OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE</div><div class="line">SOFTWARE.</div></pre></td></tr></table></figure>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -3952,17 +3952,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>CoordinatorLayout源码分析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/CoordinatorLayout%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/CoordinatorLayout源码分析/</id>
+    <link href="https://likeqy.com/2017/07/26/CoordinatorLayout%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/CoordinatorLayout源码分析/</id>
     <published>2017-07-26T11:53:52.000Z</published>
     <updated>2017-07-26T11:54:43.516Z</updated>
     
@@ -4086,7 +4086,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 </ol>
 <p>这两个特性导致的子View之间的依赖关系让界面的交互更有意思。有兴趣的同学可以再去看<code>AppBarLayout</code>、<code>FloatingActionButton</code>、<code>SnackBar</code>的源码~~</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -4097,17 +4097,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>CompoundButton源码分析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/CompoundButton%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/CompoundButton源码分析/</id>
+    <link href="https://likeqy.com/2017/07/26/CompoundButton%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/CompoundButton源码分析/</id>
     <published>2017-07-26T11:52:49.000Z</published>
     <updated>2017-07-26T11:53:12.246Z</updated>
     
@@ -4149,7 +4149,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <li><a href="ToggleButton和CheckBox源码分析.md">ToggleButton/Checkbox 的源码分析</a></li>
 </ul>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -4160,17 +4160,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>bindService源码分析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/bindService%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/bindService源码分析/</id>
+    <link href="https://likeqy.com/2017/07/26/bindService%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/bindService源码分析/</id>
     <published>2017-07-26T11:46:44.000Z</published>
     <updated>2017-07-26T11:52:07.551Z</updated>
     
@@ -4216,7 +4216,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">final</span> <span class="keyword">void</span> <span class="title">realStartServiceLocked</span><span class="params">(ServiceRecord r,</span></span></div><div class="line">        ProcessRecord app, <span class="keyword">boolean</span> execInFg) <span class="keyword">throws</span> RemoteException &#123;</div><div class="line">    ...</div><div class="line">    <span class="keyword">try</span> &#123;</div><div class="line">        ...</div><div class="line">        <span class="comment">// 创建服务，服务端最终会响应 onCreate() 方法。</span></div><div class="line">        app.thread.scheduleCreateService(r, r.serviceInfo,</div><div class="line">                mAm.compatibilityInfoForPackageLocked(r.serviceInfo.applicationInfo),</div><div class="line">                app.repProcState);</div><div class="line">        ...</div><div class="line">    &#125; <span class="keyword">catch</span> (DeadObjectException e) &#123;</div><div class="line">        ...</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// 绑定服务， 服务最终端会响应 onBind() 方法</span></div><div class="line">    requestServiceBindingsLocked(r, execInFg);</div><div class="line">    ...</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="http://blog.csdn.net/luoshengyang/article/details/6745181" target="_blank" rel="external">Android应用程序绑定服务（bindService）的过程源代码分析</a></p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -4227,17 +4227,17 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Binder源码分析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/Binder%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/Binder源码分析/</id>
+    <link href="https://likeqy.com/2017/07/26/Binder%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/Binder源码分析/</id>
     <published>2017-07-26T11:44:18.000Z</published>
     <updated>2017-07-26T11:45:24.437Z</updated>
     
@@ -4453,7 +4453,7 @@ inflater.inflate(R.layout.view, root, true);
 <p>4. SystemManager 源码分析</p>
 <p>5. 完善 binder 驱动内容，补充关系图</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -4464,17 +4464,17 @@ inflater.inflate(R.layout.view, root, true);
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>AsyncTask源码分析</title>
-    <link href="https://kotlinandroid.net/2017/07/26/AsyncTask%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
-    <id>https://kotlinandroid.net/2017/07/26/AsyncTask源码分析/</id>
+    <link href="https://likeqy.com/2017/07/26/AsyncTask%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+    <id>https://likeqy.com/2017/07/26/AsyncTask源码分析/</id>
     <published>2017-07-26T11:36:58.000Z</published>
     <updated>2017-07-26T11:42:43.373Z</updated>
     
@@ -4592,7 +4592,7 @@ inflater.inflate(R.layout.view, root, true);
 <h2 id="6-版本兼容AsyncTaskCompat"><a href="#6-版本兼容AsyncTaskCompat" class="headerlink" title="6. 版本兼容AsyncTaskCompat"></a>6. 版本兼容AsyncTaskCompat</h2><p><a href="http://www.jianshu.com/p/b283b5b704e5" target="_blank" rel="external">有兴趣的可以看这篇文章</a></p>
 <h2 id="7-总结"><a href="#7-总结" class="headerlink" title="7. 总结"></a>7. 总结</h2><p>尽管AsyncTask现在已经很少使用了，但是它的一些设计思路可以借鉴到我们的框架中。比如我们的代码中尽量设计灵活一些，就像AysnTask里面存在串行、并行的操作一样，提供用户同的api，让用户在不同的场景下选择不同的业务逻辑处理。</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -4603,17 +4603,17 @@ inflater.inflate(R.layout.view, root, true);
     
     </summary>
     
-      <category term="源码分析" scheme="https://kotlinandroid.net/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+      <category term="源码分析" scheme="https://likeqy.com/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>AndroidStudio插件大全</title>
-    <link href="https://kotlinandroid.net/2017/07/25/AndroidStudio%E6%8F%92%E4%BB%B6%E5%A4%A7%E5%85%A8/"/>
-    <id>https://kotlinandroid.net/2017/07/25/AndroidStudio插件大全/</id>
+    <link href="https://likeqy.com/2017/07/25/AndroidStudio%E6%8F%92%E4%BB%B6%E5%A4%A7%E5%85%A8/"/>
+    <id>https://likeqy.com/2017/07/25/AndroidStudio插件大全/</id>
     <published>2017-07-25T13:30:45.000Z</published>
     <updated>2017-07-26T11:23:12.997Z</updated>
     
@@ -4747,7 +4747,7 @@ inflater.inflate(R.layout.view, root, true);
 <p><img src="https://github.com/githubwing/MVPHelper/raw/master/img/mvp_presenter.gif" alt=""></p>
 <p>如果还有更好玩更好用的插件欢迎fork + pull request</p>
 <hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
+<p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
 <p><img src="/arts/kotlin_group.jpg" alt=""></p>
 ]]></content>
     
@@ -4758,1489 +4758,11 @@ inflater.inflate(R.layout.view, root, true);
     
     </summary>
     
-      <category term="学习资料" scheme="https://kotlinandroid.net/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+      <category term="学习资料" scheme="https://likeqy.com/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
     
     
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android进阶资料大全</title>
-    <link href="https://kotlinandroid.net/2017/07/22/Android%E8%BF%9B%E9%98%B6%E8%B5%84%E6%96%99%E5%A4%A7%E5%85%A8/"/>
-    <id>https://kotlinandroid.net/2017/07/22/Android进阶资料大全/</id>
-    <published>2017-07-22T09:29:25.000Z</published>
-    <updated>2017-07-22T09:39:01.467Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ul>
-<li><a href="#书籍">书籍</a></li>
-<li><a href="#开发环境工具">开发环境/工具</a></li>
-<li><a href="#博客">博客</a></li>
-<li><a href="#社区">社区</a></li>
-<li><a href="#开源项目学习">开源项目学习</a></li>
-<li><a href="#android-开发者杂志周刊">Android 开发者杂志周刊</a></li>
-<li><a href="#awesome-系列">Awesome 系列</a></li>
-<li><a href="#动画系列">动画系列</a></li>
-<li><a href="#material-design-设计">Material Design 设计</a></li>
-<li><a href="#素材">素材</a></li>
-<li><a href="#开源库收集">开源库收集</a></li>
-<li><a href="#设计模式">设计模式</a></li>
-<li><a href="#实践篇">实践篇</a></li>
-<li><a href="#git-教程">Git 教程</a></li>
-<li><a href="#文档">文档</a></li>
-<li><a href="#其它资料收集">其它资料收集</a></li>
-<li><a href="#知乎上的讨论">知乎上的讨论</a></li>
-<li><a href="#贡献者">贡献者</a></li>
-<li><a href="#license">License</a></li>
-</ul>
-<p>=============================================================</p>
-<h2 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h2><table>
-<thead>
-<tr>
-<th>书籍名称</th>
-<th>推荐理由</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="http://www.amazon.cn/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3-%E5%9F%83%E5%8F%B2%E5%B0%94/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&amp;qid=1428138267&amp;sr=8-1&amp;keywords=java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3" target="_blank" rel="external">Thinking In Java 中文版</a></td>
-<td>学习 Android 开发, 首先需要 Java 基础, 这里推荐 Thinking In Java, Thinking In Java 是 Java 的经典书籍, 是学习 Java 语言必备书籍</td>
-</tr>
-<tr>
-<td><a href="http://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B00LVHTI9U/ref=sr_1_1?ie=UTF8&amp;qid=1428138432&amp;sr=8-1&amp;keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94android+%E9%83%AD%E9%9C%96" target="_blank" rel="external">第一行代码</a></td>
-<td>郭霖大神的杰作, 郭神在CSDN中的博客文章非常不错, 书我看了, 非常适合新手, 里面的内容非常棒, 建议结合郭神博客文章一起来学习</td>
-</tr>
-<tr>
-<td><a href="http://item.jd.com/11689014.html" target="_blank" rel="external">疯狂Android讲义第三版</a></td>
-<td>作者是李刚, 这本书是基于 Android 5.0 来讲的, 我看过第二版, 这本书给我第一感觉就是很厚, 但里面内容写的还是很详细的, 代码很多, 可以跟着代码一步步敲</td>
-</tr>
-<tr>
-<td><a href="http://www.amazon.cn/Android%E7%BE%A4%E8%8B%B1%E4%BC%A0-%E5%BE%90%E5%AE%9C%E7%94%9F/dp/B01481RAA4/ref=sr_1_1?m=A1AJ19PSB66TGU&amp;s=books&amp;ie=UTF8&amp;qid=1442198757&amp;sr=1-1&amp;keywords=android%E7%BE%A4%E8%8B%B1%E4%BC%A0" target="_blank" rel="external">Android群英传</a></td>
-<td>本书作者 @Tomcat 的猫, 曾就职于上海 TCL 通讯, 从事 Alcatel(阿尔卡特) Android 手机系统的定制工作, 活跃于 CSDN, 目前就职于上海沪江网 Android 开发部RD项目组, 负责沪江 App 的功能预研</td>
-</tr>
-<tr>
-<td><a href="http://product.china-pub.com/4806147" target="_blank" rel="external">Android开发艺术探索</a></td>
-<td>由@任玉刚Coder所著, 是一本 Android 进阶类书籍, 采用理论, 源码和实践相结合的方式来阐述高水准的 Android 应用开发要点. 本书从三个方面来组织内容: 第一, 介绍 Android 开发者不容易掌握的一些知识点: 第二,结合Android源代码和应用层开发过程, 融会贯通, 介绍一些比较深入的知识点: 第三, 介绍一些核心技术和Android的性能优化思想.</td>
-</tr>
-<tr>
-<td><a href="http://book.douban.com/subject/26649050/" target="_blank" rel="external">App 研发录</a></td>
-<td>本书作者是包建强, 本书是作者多年 App 开发的经验总结, 从 App 架构的角度, 重点总结了 Android 应用开发中常见的实用技巧和疑难问题解决方法, 为打造高质量 App 提供有价值的实践指导, 迅速提升应用开发能力和解决疑难问题的能力. 这本书非常有利于 Android 开发者进阶.</td>
-</tr>
-<tr>
-<td><a href="http://book.douban.com/subject/26644935/" target="_blank" rel="external">Android 设计模式源码分析</a></td>
-<td>本书作者是开发技术前线创立者之一 Mr.Simple, 该书从 Android 源码的角度由浅入深地剖析设计模式的运用, 让工程师们把设计与模式重视起来, 提升自己的设计能力与代码质量</td>
-</tr>
-</tbody>
-</table>
-<h2 id="开发环境-工具"><a href="#开发环境-工具" class="headerlink" title="开发环境/工具"></a>开发环境/工具</h2><p>(附上: 由 <a href="http://weibo.com/234959219" target="_blank" rel="external">@脉脉不得语</a> 收集维护超多开发工具下载地址 <a href="https://github.com/inferjay/AndroidDevTools" target="_blank" rel="external">AndroidDevTools</a>, 后五个工具资料在 <a href="http://stormzhang.com/" target="_blank" rel="external">stormzhang</a> 博客中找到的,<a href="http://stormzhang.com/android/2015/05/26/android-tools/" target="_blank" rel="external">地址</a>)</p>
-<table>
-<thead>
-<tr>
-<th>环境/工具</th>
-<th>简述</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="http://developer.android.com/sdk/index.html" target="_blank" rel="external">Android Studio</a></td>
-<td>这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前 github 上面的绝大多数开源项目都是使用 Android Studio 工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具, 该工具已更新到 2.0 预览版, 性能逐渐稳定提高, 没有之前那么卡了</td>
-</tr>
-<tr>
-<td><a href="https://www.genymotion.com/#!/download" target="_blank" rel="external">Genymotion</a></td>
-<td>强大好用高性能的 Android 模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用 Eclipse 还是 Android Studio 里面都有 Genymotion 插件</td>
-</tr>
-<tr>
-<td><a href="https://github.com/skylot/jadx" target="_blank" rel="external">jadx</a></td>
-<td>一个 Android 反编译神器, 不同于常见的 <a href="https://github.com/pxb1988/dex2jar" target="_blank" rel="external">dex2jar</a>, 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高</td>
-</tr>
-<tr>
-<td><a href="https://github.com/importre/android-selector-intellij-plugin" target="_blank" rel="external">android-selector</a></td>
-<td>可以根据指定颜色生成 Selector Drawable 的插件</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ligi/GradleDependenciesHelperPlugin" target="_blank" rel="external">GradleDependenciesHelperPlugin</a></td>
-<td>Gradle 依赖自动补全插件</td>
-</tr>
-<tr>
-<td><a href="http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/" target="_blank" rel="external">Smali Viewer</a></td>
-<td>sv 是一款免费 APK 分析软件, 对你感兴趣的 APP 分析看看它们都用了些什么, 对你学习借鉴有一定帮助</td>
-</tr>
-<tr>
-<td><a href="https://github.com/dmytrodanylyk/folding-plugin" target="_blank" rel="external">folding-plugin</a></td>
-<td>layout 文件夹里的布局文件一般很长很长没有目录, 这个插件就可以把 layout 分好层级结构, 类似 src 下目录结构</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Vektah/CodeGlance" target="_blank" rel="external">CodeGlance</a></td>
-<td>在编辑代码最右侧, 显示一块代码小地图</td>
-</tr>
-<tr>
-<td><a href="https://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="external">Statistic</a></td>
-<td>统计整个项目行数的插件, 这可表示我们日日夜夜辛辛苦苦必备插件</td>
-</tr>
-<tr>
-<td><a href="https://github.com/nicoulaj/idea-markdown" target="_blank" rel="external">idea-markdown</a></td>
-<td>在 AS 中编写 Markdown 文件, 可以直接预览网页显示效果, 对于你经常编写 Markdown 文件的你值得拥有这个插件</td>
-</tr>
-<tr>
-<td><a href="http://facebook.github.io/stetho/" target="_blank" rel="external">Stetho</a></td>
-<td>Stetho 是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools 查看 App 的布局, 网络请求(仅限使用 Volley, okhttp 的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用 adb, 也不需要 root 你的设备</td>
-</tr>
-<tr>
-<td><a href="https://github.com/google/android-classyshark" target="_blank" rel="external">ClassyShark</a></td>
-<td>ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包方法数量, 类, 字符串, 使用的 NativeLibrary 等</td>
-</tr>
-<tr>
-<td><a href="https://github.com/pedrovgs/AndroidWiFiADB" target="_blank" rel="external">AndroidWiFiADB</a></td>
-<td>使用 WiFi 连接而不需要 USB 连接 Android 设备达到安装, 运行, 调试应用的目的</td>
-</tr>
-<tr>
-<td><a href="https://github.com/jshiell/checkstyle-idea" target="_blank" rel="external">checkstyle-idea</a></td>
-<td>Checkstyle-idea 是一款检查自己写的代码是否符合规范的插件, 该插件是根据 checkstyle.xml 文件来检查的, checkstyle.xml 文件可以由自己自己定义, 也可以使用一些大公司定义的规范, 如果不懂得如何定义, 可以查看 <a href="http://checkstyle.sourceforge.net/checks.html" target="_blank" rel="external">官方文档</a>, 该插件的详细介绍以及使用, 可以看一下咕咚大侠写的 <a href="http://gudong.name/2016/04/07/checkstyle.html" target="_blank" rel="external">文章</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Skykai521/ECTranslation" target="_blank" rel="external">ECTranslation</a></td>
-<td>ECTranslation 是 Android Studio 开发工具的一个翻译插件, 可以将英文翻译为中文, 英语基础差的童鞋装上它就可以轻松阅读 Android 源码啦</td>
-</tr>
-<tr>
-<td><a href="https://plugins.jetbrains.com/plugin/8076?pr=androidstudio" target="_blank" rel="external">Android Methods Count</a></td>
-<td>统计 Android 依赖库中方法的总个数, 避免应用方法数超过 65K 问题</td>
-</tr>
-<tr>
-<td><a href="https://github.com/westlinkin/AndroidLocalizationer" target="_blank" rel="external">AndroidLocalizationer</a></td>
-<td>可用于将项目中的 string 资源自动翻译为其他语言的插件, 其翻译支持使用 Microsoft Translator 或 Google Translation</td>
-</tr>
-<tr>
-<td><a href="https://github.com/avast/android-butterknife-zelezny" target="_blank" rel="external">ButterKnife Zelezny</a></td>
-<td>ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到<a href="http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/" target="_blank" rel="external">这里</a>看看</td>
-</tr>
-<tr>
-<td><a href="https://github.com/inmite/android-selector-chapek" target="_blank" rel="external">SelectorChapek</a></td>
-<td>设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定</td>
-</tr>
-<tr>
-<td><a href="https://github.com/zzz40500/GsonFormat" target="_blank" rel="external">GsonFormat</a></td>
-<td>现在大多数服务端 api 都以 json 数据格式返回, 而客户端需要根据 api 接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧</td>
-</tr>
-<tr>
-<td><a href="https://github.com/mcharmas/android-parcelable-intellij-plugin" target="_blank" rel="external">ParcelableGenerator</a></td>
-<td>Android中的序列化有两种方式, 分别是实现 Serializable 接口和 Parcelable 接口, 但在 Android 中是推荐使用 Parcelable, 只不过我们这种方式要比Serializable方式要繁琐, 那么有了这个插件一切就ok了</td>
-</tr>
-<tr>
-<td><a href="https://github.com/square/leakcanary" target="_blank" rel="external">LeakCanary</a></td>
-<td>良心企业 Square 最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 <a href="http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/" target="_blank" rel="external">LeakCanary 中文使用说明</a></td>
-</tr>
-<tr>
-<td><a href="https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/" target="_blank" rel="external">更多</a></td>
-<td>该作者收集整理了 40 个插件, 可以说是史上最全的了</td>
-</tr>
-</tbody>
-</table>
-<h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><table>
-<thead>
-<tr>
-<th>博客地址</th>
-<th>博主信息</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="http://android-developers.blogspot.com/" target="_blank" rel="external">Android Developers Blog</a></td>
-<td>Android官网博客, 在上面可以关注 Android 最新的进展与最权威的博客(需翻墙)</td>
-</tr>
-<tr>
-<td><a href="http://stormzhang.com/" target="_blank" rel="external">stormzhang</a></td>
-<td>博主是上海薄荷科技开发主管, 他的博客分享了他从编程白痴到自学 Android 一路走过的经验, 写了一篇 <a href="http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/" target="_blank" rel="external">Android学习之路</a> 帮助了无数人, 里面还有很多好的文章非常适合新手入门, 并且是微信公众号「AndroidDeveloper」的运营者, 可以算是 Android 界最有影响力的公众号之一了, 强烈推荐关注</td>
-</tr>
-<tr>
-<td><a href="http://hukai.me/" target="_blank" rel="external">胡凯</a></td>
-<td>目前就职于腾讯上海从事 Android 开发的工作, 发起 Google Android 官方培训课程中文版翻译, 这课程是学习 Android 应用开发的绝佳资料</td>
-</tr>
-<tr>
-<td><a href="http://www.trinea.cn/" target="_blank" rel="external">Trinea</a></td>
-<td>目前在滴滴负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库<a href="https://github.com/Trinea" target="_blank" rel="external">上面</a>都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, <a href="http://p.codekk.com" target="_blank" rel="external">地址</a></td>
-</tr>
-<tr>
-<td><a href="http://blog.csdn.net/guolin_blog" target="_blank" rel="external">郭霖</a></td>
-<td>博主郭霖是大神, 人人都称”郭神”, 是第一行代码的作者, 博主在 CSDN 上所写的文章都非常值得学习</td>
-</tr>
-<tr>
-<td><a href="http://blog.daimajia.com/" target="_blank" rel="external">代码家</a></td>
-<td>90后 Android 大神, 称作库达人, 博主收集了很多 Android 开源库, 博主自己也做了很多开源库, 非常值得学习</td>
-</tr>
-<tr>
-<td><a href="http://www.lightskystreet.com/" target="_blank" rel="external">light_sky</a></td>
-<td>Android 开发工程师, 目前在北京工作. Google big fan, 热爱开源, 热爱分享, 活跃于 GitHub, G+, Twitter, 捕捉Android最新资讯和技术, ViewPagerIndicator 开源项目分析者</td>
-</tr>
-<tr>
-<td><a href="http://blog.csdn.net/lmj623565791/" target="_blank" rel="external">张鸿洋</a></td>
-<td>张鴻洋是 CSDN 博客专家, 博主在 CSDN 所发布的每一篇文章都是干货, 都很值得大家去学习</td>
-</tr>
-<tr>
-<td><a href="http://blog.csdn.net/xyz_lmn" target="_blank" rel="external">张兴业</a></td>
-<td>张兴业同样也是 CSDN 博客专家, 博主专注移动互联网开发, 关注移动支付业务</td>
-</tr>
-<tr>
-<td><a href="http://blog.csdn.net/lzyzsd/" target="_blank" rel="external">hi大头鬼hi</a></td>
-<td>hi大头鬼hi 是阿里巴巴集团的一名 Android 工程师, 擅长 Android, RxJava, RxAndroid, ReactNative, Node.js, 大前端, 可谓是全栈工程师, 如果你对 RxJava 技术感兴趣, 不妨到他的博客看看, 他写了一系列有关 RxJava 的介绍</td>
-</tr>
-<tr>
-<td><a href="https://github.com/android-cn/android-dev-cn" target="_blank" rel="external">更多</a></td>
-<td>这里面收集了很多国内外开发者的信息, 大家可以去看看</td>
-</tr>
-</tbody>
-</table>
-<h2 id="社区"><a href="#社区" class="headerlink" title="社区"></a>社区</h2><table>
-<thead>
-<tr>
-<th>名称</th>
-<th>简介</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="http://stackoverflow.com/" target="_blank" rel="external">StackOverFlow</a></td>
-<td>IT 界的问答社区, 你开发当中所遇到的问题基本上都能在这里能寻找到你想要的答案</td>
-</tr>
-<tr>
-<td><a href="https://segmentfault.com/t/android" target="_blank" rel="external">SegmentFault</a></td>
-<td>SegmentFault 是一个专注于解决编程问题, 提高开发技能的社区</td>
-</tr>
-<tr>
-<td><a href="http://blog.csdn.net/mobile/newest.html" target="_blank" rel="external">CSDN</a></td>
-<td>CSDN 是全球最大中文IT技术社区</td>
-</tr>
-<tr>
-<td><a href="http://gold.xitu.io/explore/android" target="_blank" rel="external">稀土掘金</a></td>
-<td>高质量的技术分享社区</td>
-</tr>
-<tr>
-<td><a href="http://chinagdg.org/" target="_blank" rel="external">谷歌开发者社区(GDG)</a></td>
-<td>GDG 是 Google Developer Groups 的缩写, 中文名称是谷歌开发者社区</td>
-</tr>
-</tbody>
-</table>
-<h2 id="开源项目学习"><a href="#开源项目学习" class="headerlink" title="开源项目学习"></a>开源项目学习</h2><table>
-<thead>
-<tr>
-<th>项目名称</th>
-<th>项目简介</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/google/iosched" target="_blank" rel="external">Google I/O 2014</a></td>
-<td>Google I/O Android App 使用了当时最新推出的 Material Design 设计</td>
-</tr>
-<tr>
-<td><a href="https://github.com/googlesamples/android-UniversalMusicPlayer" target="_blank" rel="external">Google play music</a></td>
-<td>一个跨多个平台音乐播放器</td>
-</tr>
-<tr>
-<td><a href="https://github.com/google/santa-tracker-android?utm_source=www.race604.com" target="_blank" rel="external">Google Santa Tracker for Android</a></td>
-<td>Google 开源的一个儿童教育和娱乐的 App</td>
-</tr>
-<tr>
-<td><a href="https://github.com/pockethub/PocketHub" target="_blank" rel="external">github客户端</a></td>
-<td>开源者 github 团队, 支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织好友和资料库的更新信息, 还提供了一个用于快速访问你创建,监控以及发布 issue 面板, 可查看并将问题加到收藏夹</td>
-</tr>
-<tr>
-<td><a href="https://github.com/klinker24/Talon-for-Twitter" target="_blank" rel="external">Talon-for-Twitter</a></td>
-<td>一个完整版 Twitter 第三方客户端, 属于顶级水平, 而且在源代码 100% 开源, 学习资源让你取之不尽</td>
-</tr>
-<tr>
-<td><a href="https://github.com/daimajia/AnimeTaste" target="_blank" rel="external">Anime Taste</a></td>
-<td>开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端, 国内很少见的精彩而且开源的 APP, 获得豌豆荚110期设计奖</td>
-</tr>
-<tr>
-<td><a href="https://github.com/daimajia/EverMemo" target="_blank" rel="external">EverMemo</a></td>
-<td>开发者是代码家, EverMemo 是一款让你快速记录与分享灵感的随身便签, 极简的界面与卡片式布局, 让你记录与查找便签更有效率</td>
-</tr>
-<tr>
-<td><a href="https://github.com/stormzhang/9GAG" target="_blank" rel="external">9GAG</a></td>
-<td>开发者是 stormzhang 博主,这个开源项目教你使用 Studio, Gradle 以及一些流行的开源库快速开发一个不错的 Android 客户端</td>
-</tr>
-<tr>
-<td><a href="https://github.com/MiCode/Notes" target="_blank" rel="external">MIUI 便签</a></td>
-<td>MiCode 便签是小米便签的社区开源版, 由 MIUI 团队（ww.miui.com）发起并贡献第一批代码, 遵循 NOTICE 文件所描述的开源协议</td>
-</tr>
-<tr>
-<td><a href="https://github.com/drakeet/Seashell-app" target="_blank" rel="external">贝壳单词</a></td>
-<td>开发者是许晓峰(Drakeet), 获得豌豆荚设计奖, 这个是初期版本, 新版没有开源, 但是在博主的博客当中将一些新版的内容都剥离出来写成了文章,可以去学习一下</td>
-</tr>
-<tr>
-<td><a href="https://github.com/romannurik/muzei" target="_blank" rel="external">Muzei Live Wallpaper</a></td>
-<td>开发者是 Ian Lake , 就职于 Google, 这款是定时更换桌面精美壁纸 App</td>
-</tr>
-<tr>
-<td><a href="https://github.com/qii/weiciyuan" target="_blank" rel="external">四次元-新浪微博客户端</a></td>
-<td>一个仿新浪微博客户端 App, 基本都含有新浪微博的功能, 开源团队写了一份 wiki 文档, 可以去学习一下该 App 是如何实现的</td>
-</tr>
-<tr>
-<td><a href="https://github.com/bxbxbai/ZhuanLan" target="_blank" rel="external">知乎专栏</a></td>
-<td>开发者是白瓦力, 项目结构清晰, 代码分包合理, 很棒. 很适合新手去学习如何搭建一个 App 结构, 熟悉开发一个完整 App 的流程</td>
-</tr>
-<tr>
-<td><a href="https://github.com/eoecn/android-app" target="_blank" rel="external">eoe 客户端</a></td>
-<td>eoe 社区Android客户端</td>
-</tr>
-<tr>
-<td><a href="http://git.oschina.net/oschina/android-app" target="_blank" rel="external">oschina</a></td>
-<td>开源中国社区 Android 客户端, 此开源的是 v1 版本, v2 版本将在 2015 年年中开源</td>
-</tr>
-<tr>
-<td><a href="https://github.com/kyze8439690/v2ex-daily-android" target="_blank" rel="external">v2ex</a></td>
-<td>开发者是<a href="http://yanghui.name/about/" target="_blank" rel="external">杨辉</a>, 这个是 v2ex Android 第三方客户端</td>
-</tr>
-<tr>
-<td><a href="https://github.com/chrislacy/TweetLanes" target="_blank" rel="external">Tweet Lanes</a></td>
-<td>功能比较完整的 Twitter 客户端</td>
-</tr>
-<tr>
-<td><a href="https://github.com/mvarnagiris/financius-public" target="_blank" rel="external">Financius</a></td>
-<td>一款简单易用个人理财 Android 程序</td>
-</tr>
-<tr>
-<td><a href="https://coding.net/u/coding/p/Coding-Android/git" target="_blank" rel="external">Coding</a></td>
-<td>Coding 类似于 github 一个代码托管平台, 这个是 Coding 的 Android 版客户端</td>
-</tr>
-<tr>
-<td><a href="https://github.com/zxing/zxing" target="_blank" rel="external">ZXing</a></td>
-<td>二维码扫描工具,市场上许多应用的二维码扫描工具都是从这个修改得到的</td>
-</tr>
-<tr>
-<td><a href="https://github.com/chrisbanes/photup" target="_blank" rel="external">photup</a></td>
-<td>编辑机批量上传照片到 facebook 上,代码分包合理,很棒,不过这个项目依赖的开源项目比较多, 比较难编译</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ginatrapani/todo.txt-android" target="_blank" rel="external">todo.txt-android</a></td>
-<td>todo.txt 官方 Android 应用, 一个极简的将待办事件记录在 .txt 文件中</td>
-</tr>
-<tr>
-<td><a href="https://github.com/JayFang1993/ScanBook" target="_blank" rel="external">扫扫图书</a></td>
-<td>一个让你懂得如何去选择一本书的 APP, 具有扫描搜索查询图书的信息功能</td>
-</tr>
-<tr>
-<td><a href="https://github.com/tvbarthel/ChaseWhisplyProject" target="_blank" rel="external">ChaseWhisplyProject</a></td>
-<td>开启摄像头在你所在位置寻找鬼魂, 进行打鬼游戏</td>
-</tr>
-<tr>
-<td><a href="https://github.com/AntennaPod/AntennaPod" target="_blank" rel="external">AntennaPod</a></td>
-<td>AntennaPod 是一个自由, 开源的播客客户端, 支持 Atom 和 RSS Feed</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openproject/AndroidDigest" target="_blank" rel="external">干柴</a></td>
-<td>开发者是冯建, 一个专注收集 android 相关干货(文摘,名博,github等等)资源 App</td>
-</tr>
-<tr>
-<td><a href="https://github.com/manmal/hn-android" target="_blank" rel="external">Hacker News</a></td>
-<td>一个查看黑客新闻报道和评论的 App</td>
-</tr>
-<tr>
-<td><a href="https://github.com/madeye/proxydroid" target="_blank" rel="external">proxydroid</a></td>
-<td>ProxyDroid 是一个帮助你在你的 Android 设备上设置代理 (HTTP / SOCKS4 / SOCKS5)</td>
-</tr>
-<tr>
-<td><a href="https://git.oschina.net/way/AliGesture" target="_blank" rel="external">AliGesture</a></td>
-<td>Android平台手势识别应用, 简单的手势就可以进入预置的应用, 方便快捷</td>
-</tr>
-<tr>
-<td><a href="https://coding.net/u/youzi/p/Zhidu-Android/git/tree/master" target="_blank" rel="external">指读</a></td>
-<td>指读顾名思义就是用手指去阅读浩瀚的书海</td>
-</tr>
-<tr>
-<td><a href="https://github.com/KJFrame/KJMusic" target="_blank" rel="external">KJ 音乐</a></td>
-<td>开发者是<a href="http://blog.kymjs.com/about/" target="_blank" rel="external">张涛</a>, 快捷音乐使用到<a href="https://github.com/kymjs/KJFrameForAndroid" target="_blank" rel="external">KJFrameForAndroid</a>开发框架, 拥有界面绚丽, 操作简单, 播放手机本地音乐, 在线收听音乐等功能, 还支持: 新浪微博, 百度账号, QQ 账号的一键登录</td>
-</tr>
-<tr>
-<td><a href="http://git.oschina.net/tonlin/android-app" target="_blank" rel="external">哎嘛</a></td>
-<td>OSCHINA 第三方客户端, 这个版本界面比官方版本界面好看多了, 使用的是 Material Design, 界面看上去非常清爽舒服</td>
-</tr>
-<tr>
-<td><a href="http://git.oschina.net/wlemuel/Cotable/tree/master/" target="_blank" rel="external">码厩</a></td>
-<td>博客园第三方客户端, 使用到缓存技术, 当你打开一次之后的博客内容, 会自动保存到设备中, 下次打开阅读同一文章时不需要再利用网络加载, 大家如果想为自己 App 搞缓存的, 可以研究一下该 App 是如何实现的喔</td>
-</tr>
-<tr>
-<td><a href="http://git.oschina.net/ywwxhz/cnBeta-reader" target="_blank" rel="external">cnBeta 第三方阅读器</a></td>
-<td>该 App 是 cnBeta(中文业界资讯站) 第三方阅读客户端, 界面也是使用 Material Design, 还加上一些动画效果, 让人阅读文章起来不会感觉枯燥, 值得去研究学习一下</td>
-</tr>
-<tr>
-<td><a href="https://github.com/PaperAirplane-Dev-Team/BlackLight" target="_blank" rel="external">BlackLight</a></td>
-<td>BlackLight是由纸飞机开发团队开发的一款Android上的新浪微博第三方轻量级客户端</td>
-</tr>
-<tr>
-<td><a href="https://github.com/actorapp/actor-platform" target="_blank" rel="external">Actor</a></td>
-<td>Actor(优聆) 是一款即时通讯 App, 解决网络通讯差的情况, 支持离线消息和文件存储, 自动与手机联系人建立联系等等</td>
-</tr>
-<tr>
-<td><a href="https://github.com/nickbutcher/plaid" target="_blank" rel="external">Plaid</a></td>
-<td>一个遵循 Material Design 的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义</td>
-</tr>
-<tr>
-<td><a href="https://github.com/SkillCollege/SimplifyReader" target="_blank" rel="external">SimplifyReader</a></td>
-<td>一款基于 Google Material Design 设计开发的 Android 客户端, 包括新闻简读, 图片浏览, 视频爽看, 音乐轻听以及二维码扫描五个子模块, 项目采取的是MVP架构开发</td>
-</tr>
-<tr>
-<td><a href="https://github.com/CycloneAxe/phphub-android" target="_blank" rel="external">PHPHub-Android</a></td>
-<td>PHPHub Android 客户端, 项目架构使用 nucleus 简化 MVP 架构, API 请求返回数据使用 RxJava 进行处理, 客户端使用了独特的二维码扫码登录, 有兴趣的可以去研究一下</td>
-</tr>
-<tr>
-<td><a href="https://github.com/MummyDing/Leisure" target="_blank" rel="external">Leisure</a></td>
-<td>闲暇(Leisure)是一款集”知乎日报”, “果壳科学人”, “新华网新闻”以及”豆瓣图书”于一体的阅读类 Android 应用, 项目里面有多语言切换、夜间模式以及无图模式, 如果你还不知道这些技术怎么实现, 不妨参考一下这个项目</td>
-</tr>
-<tr>
-<td><a href="https://github.com/drakeet/Meizhi" target="_blank" rel="external">Meizhi</a></td>
-<td>开发者是许晓峰(Drakeet), 该 app 是数据来自代码家干货网站 <a href="http://gank.io" target="_blank" rel="external">gank.io</a>, 有很多开发者都纷纷为这网站做客户端 app, 因为代码家大神开放该网站的 Api, 更重要的是该网站每天除了有干货还有漂亮妹子看呢, 该 App 使用到的技术有 RxJava + Retrofit, 代码结构非常清晰, 值得一看的开源 App.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/sfsheng0322/Bingo" target="_blank" rel="external">Bingo</a></td>
-<td>开发者是<a href="http://weibo.com/u/3852192525" target="_blank" rel="external">孙福生</a>, Bingo 是一款 IT 阅读学习类的开源软件, 作者收集一些干货学习内容, 你也可以在 App 上分享你的认为干货文章, 该项目使用动态代理 AOP 编程框架, 使开发起来更简洁, 更高效. 里面有一个功能就是多种主题切换, 感兴趣的可以看看怎么实现</td>
-</tr>
-</tbody>
-</table>
-<h2 id="Android-开发者杂志周刊"><a href="#Android-开发者杂志周刊" class="headerlink" title="Android 开发者杂志周刊"></a>Android 开发者杂志周刊</h2><p>( 前五个资料来自 <a href="http://drakeet.me/" target="_blank" rel="external">Drakeet</a> 收集整理的, 资料原链接 <a href="http://www.jianshu.com/p/54c4a19ffa68" target="_blank" rel="external">地址</a> )</p>
-<table>
-<thead>
-<tr>
-<th>周刊名</th>
-<th>周刊简介</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="http://androidweekly.net/" target="_blank" rel="external">Android Weekly</a></td>
-<td>Android Weekly 是由Android 团队的成员和国外知名的 Android 开发者维护, 分享的内容不仅仅只有干货, 而且还有最新的技术分享, 也是Android 开发圈子最早, 最有名的周报</td>
-</tr>
-<tr>
-<td><a href="http://www.androidweekly.cn/" target="_blank" rel="external">Android 开发技术周报</a></td>
-<td>Android 开发技术周报是由<a href="http://weibo.com/234959219" target="_blank" rel="external">@脉脉不嘚語</a> 维护更新, 截止到现在, 已经发布了28 期, 分享的都是高质量的文章教程, 代码库, 工具, 新闻视频, 设计等</td>
-</tr>
-<tr>
-<td><a href="http://zhuanlan.zhihu.com/andlib" target="_blank" rel="external">Android 科学院</a></td>
-<td>由 <a href="http://weibo.com/duguguiyu?from=feed&amp;loc=at&amp;nick=duguguiyu" target="_blank" rel="external">@duguguiyu</a>和豌豆荚一小撮工程师组成, 分享的都是最新的 Android 技术: 虽然更新频率不是很高, 但是质量确是很高的, 值得一看的</td>
-</tr>
-<tr>
-<td><a href="http://www.devtf.cn/?cat=2" target="_blank" rel="external">开发技术前线</a></td>
-<td>开发技术前线是一个高质量技术文章的聚合网站, 主要分享 Android, iOS, 以及招聘等内容</td>
-</tr>
-<tr>
-<td><a href="http://app.memect.com/" target="_blank" rel="external">App 开发日报</a></td>
-<td>App 开发日报主要关注移动应用的开发, 它每天一刊, 分享的内容主要来自微博上知名的开发者推荐的内容, 因此质量基本上是有保证的</td>
-</tr>
-<tr>
-<td><a href="http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE" target="_blank" rel="external">Android 开发周报</a></td>
-<td>Android 开发周报是郭亮在连载更新在 Infoq 的周刊, 它不仅分享 Android 的相关新闻, 新工具, 而且还有更加深入的, 所以对于新生老人都很适合</td>
-</tr>
-<tr>
-<td><a href="http://gank.io/" target="_blank" rel="external">干货集中营</a></td>
-<td>由 <a href="http://blog.daimajia.com/" target="_blank" rel="external">代码家</a> 维护更新, 周一到周五每天中午分享, 分享内容有漂亮妹子, Android 干货, iOS 干货, App, 技术以外推荐, 还有休息视频</td>
-</tr>
-<tr>
-<td><a href="http://www.androidblog.cn/" target="_blank" rel="external">Android Blog 周刊</a></td>
-<td>AndroidBlog 是由 <a href="http://weibo.com/u/2106134235?refer_flag=1001030201_&amp;is_hot=1" target="_blank" rel="external">Jomeslu</a> 收录的, 目前就职于搜狐, 该周刊分享内容主要有一周国内外热门技术博客, 优秀的类库, 以及一些有趣的新闻, 看了前几期分享的内容质量都是很高的, 因此值得推荐给大家</td>
-</tr>
-</tbody>
-</table>
-<h2 id="Awesome-系列"><a href="#Awesome-系列" class="headerlink" title="Awesome 系列"></a>Awesome 系列</h2><ul>
-<li><a href="https://github.com/snowdream/awesome-android" target="_blank" rel="external">awesome android(1)</a></li>
-<li><a href="https://github.com/JStumpp/awesome-android" target="_blank" rel="external">awesome_android(2)</a></li>
-<li><a href="https://github.com/wasabeef/awesome-android-ui" target="_blank" rel="external">awesome_android_UI</a></li>
-<li><a href="https://github.com/wasabeef/awesome-android-libraries" target="_blank" rel="external">awesome_android_libraries</a></li>
-<li><a href="https://github.com/akullpp/awesome-java" target="_blank" rel="external">awesome_java</a></li>
-<li><a href="https://github.com/lightSky/Awesome-MaterialDesign" target="_blank" rel="external">awesome_materialdesign</a></li>
-<li><a href="https://github.com/sindresorhus/awesome" target="_blank" rel="external">awesome 系列之终极版</a></li>
-<li><a href="https://github.com/liaohuqiu/android-dynamic-load-awesome" target="_blank" rel="external">android-dynamic-load-awesome</a></li>
-</ul>
-<h2 id="动画系列"><a href="#动画系列" class="headerlink" title="动画系列"></a>动画系列</h2><ul>
-<li><a href="https://github.com/hitherejoe/animate" target="_blank" rel="external">animate</a></li>
-<li><a href="https://github.com/Animatious/awesome-animation" target="_blank" rel="external">awesome-animation</a></li>
-<li><a href="https://github.com/lgvalle/Material-Animations" target="_blank" rel="external">Material-Animations</a></li>
-<li><a href="https://github.com/daimajia/AndroidViewAnimations" target="_blank" rel="external">AndroidViewAnimations</a></li>
-</ul>
-<h2 id="Material-Design-设计"><a href="#Material-Design-设计" class="headerlink" title="Material Design 设计"></a>Material Design 设计</h2><ul>
-<li><a href="https://www.google.com/design/spec/material-design/introduction.html" target="_blank" rel="external">Material Design 教程</a></li>
-<li><a href="https://github.com/1sters/material_design_zh_2" target="_blank" rel="external">Material Design 教程(中文版)</a></li>
-<li><a href="https://github.com/navasmdc/MaterialDesignLibrary" target="_blank" rel="external">Material Design Android Library </a>(Material Design 开源库, 很多效果可以直接拿来用)</li>
-<li><a href="http://www.aplesson.com/?p=650" target="_blank" rel="external">十大Material Design开源项目</a></li>
-</ul>
-<h2 id="素材"><a href="#素材" class="headerlink" title="素材"></a>素材</h2><ul>
-<li><a href="http://tool.c7sky.com/webcolor/" target="_blank" rel="external">常用色彩搭配表</a></li>
-<li><a href="http://www.colorhunt.co/" target="_blank" rel="external">ColorHunt-色彩搭配</a></li>
-<li><a href="http://www.materialpalette.com/" target="_blank" rel="external">在线 Material Design 界面调色板</a></li>
-<li><a href="http://www.materialup.com/" target="_blank" rel="external">Material Design设计模板与素材</a></li>
-<li><a href="https://icons8.com/" target="_blank" rel="external">App Icon 图标</a></li>
-<li><a href="https://iconstore.co/" target="_blank" rel="external">Icon Store</a></li>
-<li><a href="https://design.google.com/icons/" target="_blank" rel="external">Material icons</a></li>
-<li><a href="http://iconfont.cn/" target="_blank" rel="external">Iconfont</a></li>
-</ul>
-<h2 id="开源库收集"><a href="#开源库收集" class="headerlink" title="开源库收集"></a>开源库收集</h2><ul>
-<li><a href="http://alamkanak.github.io/android-libraries-and-resources/" target="_blank" rel="external">Android Libraries and Resources </a></li>
-<li><a href="http://android-arsenal.com/" target="_blank" rel="external">Android Arsenal </a>(一个专门收集 android 开源库的网站, 网站经常更新)</li>
-<li><a href="https://github.com/Trinea/android-open-project" target="_blank" rel="external">Android 开源项目汇总 </a>(Trinea 大神收集的)</li>
-<li><a href="http://codekk.com/open-source-project-analysis" target="_blank" rel="external">Android 开源项目源码分析 </a>(在懂得使用这些开源项目同时, 也应该了解当中的原理)</li>
-<li><a href="http://www.jcodecraeer.com/plus/list.php?tid=31" target="_blank" rel="external">泡在网上的日子</a></li>
-<li><a href="http://www.android-gems.com/" target="_blank" rel="external">android-gems</a>(国内外很多开发者都在这里上传他们最新的项目, 还带有 apk 下载)</li>
-</ul>
-<h2 id="设计模式"><a href="#设计模式" class="headerlink" title="设计模式"></a>设计模式</h2><ul>
-<li><a href="https://github.com/iluwatar/java-design-patterns#model-view-presenter" target="_blank" rel="external">java-design-patterns</a></li>
-<li><a href="https://github.com/simple-android-framework-exchange/android_design_patterns_analysis" target="_blank" rel="external">Android源码设计模式分析项目</a></li>
-<li><a href="http://blog.csdn.net/zhangerqing/article/details/8194653" target="_blank" rel="external">Java之美[从菜鸟到高手演变]之设计模式</a></li>
-</ul>
-<h2 id="实践篇"><a href="#实践篇" class="headerlink" title="实践篇"></a>实践篇</h2><ul>
-<li><a href="https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md" target="_blank" rel="external">Android 开发最佳实践</a></li>
-<li><a href="http://hukai.me/android-dev-patterns/" target="_blank" rel="external">Android 开发最佳实践 </a>(来自<a href="http://hukai.me/" target="_blank" rel="external">胡凯</a>总结)</li>
-<li><a href="http://sr1.me/way-to-explore/2015/03/25/best-practice-for-android-ui.html" target="_blank" rel="external">Android 最佳实践之 UI 篇</a></li>
-<li><a href="http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023" target="_blank" rel="external">Android 屏幕适配全攻略</a></li>
-<li><a href="http://www.hamberluo.cn/2015/04/27/semi-android-newer" target="_blank" rel="external">给半新人的app开发指南</a></li>
-<li><a href="https://github.com/FX-Max/Point-of-Android" target="_blank" rel="external">Android 一些重要知识点解析整理</a></li>
-<li><a href="http://www.imooc.com/article/1287" target="_blank" rel="external">Android 开发人员应避免的 10 个误区</a></li>
-<li><a href="https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md" target="_blank" rel="external">Java 反射最佳实践</a></li>
-<li><a href="http://www.csdn.net/article/2015-09-18/2825737/1" target="_blank" rel="external">Android 内存优化之 OOM</a></li>
-<li><a href="http://blog.csdn.net/vipzjyno1/article/details/23542617" target="_blank" rel="external">Android 命名规范</a></li>
-<li><a href="https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md" target="_blank" rel="external">Adapter 优化方案的探索</a></li>
-<li><a href="https://github.com/tangqi92/Android-Tips" target="_blank" rel="external">Android-Tips</a></li>
-<li><a href="http://adbshell.com/" target="_blank" rel="external">最全 Android ADB Shell</a></li>
-<li><a href="https://github.com/CharonChui/AndroidNote" target="_blank" rel="external">AndroidNote</a></li>
-<li><a href="https://github.com/l123456789jy/Lazy" target="_blank" rel="external">Android 常用工具类</a></li>
-<li><a href="http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html" target="_blank" rel="external">创建安卓 app 的 30 个经验教训</a></li>
-<li><a href="http://www.trinea.cn/android/android-image-cache-compare/" target="_blank" rel="external">Android 三大图片缓存原理、特性对比</a></li>
-<li><a href="http://www.trinea.cn/android/performance/" target="_blank" rel="external">Android 性能优化总结</a></li>
-<li><a href="http://www.eoeandroid.com/thread-570919-1-1.html" target="_blank" rel="external">Android 实用代码片段整合 </a></li>
-<li><a href="http://www.phpxs.com/code/1001775" target="_blank" rel="external">36 个 Android 开发常用代码片段</a></li>
-<li><a href="https://github.com/jiang111/awesome-android-tips" target="_blank" rel="external">收集了大家常用的一些 Android 的模板代码</a></li>
-<li><a href="http://keeganlee.me/post/android/20150709" target="_blank" rel="external">Android 技术积累: 开发规范</a></li>
-<li><a href="http://keeganlee.me/post/architecture/20160114" target="_blank" rel="external">App 架构设计经验谈</a></li>
-<li><a href="http://blog.csdn.net/yyh352091626/article/details/50957851" target="_blank" rel="external">关于 Android 开发的 40 条优化建议</a></li>
-<li><a href="http://gold.xitu.io/entry/56cd6ebb99a6ce005a2887e3" target="_blank" rel="external">如何提高安卓代码的质量和语法</a></li>
-<li><a href="http://www.jianshu.com/p/4f152bc8f4f3" target="_blank" rel="external">我的 Android 开发实战经验总结</a></li>
-<li><a href="http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/" target="_blank" rel="external">Android Tips 系列</a></li>
-<li><a href="http://www.jianshu.com/p/28111d29eee4" target="_blank" rel="external">如何自学 Android</a></li>
-<li><a href="https://github.com/JackyAndroid/AndroidInterview-Q-A" target="_blank" rel="external">国内一线互联网公司内部面试题库</a></li>
-</ul>
-<h2 id="Git-教程"><a href="#Git-教程" class="headerlink" title="Git 教程"></a>Git 教程</h2><p>新手看完这几份教程基本上知道怎么使用 Git 了</p>
-<ul>
-<li><a href="http://jlord.us/git-it/challenges/get_git.html" target="_blank" rel="external">GitHub 团队美女写的一套 Git 使用教程</a></li>
-<li><a href="https://git-scm.com/book/zh/v2" target="_blank" rel="external">ProGit 中文版</a></li>
-<li><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000" target="_blank" rel="external">廖雪峰的 Git 教程</a></li>
-<li><a href="http://rogerdudler.github.io/git-guide/index.zh.html" target="_blank" rel="external">Git 简易指南</a></li>
-</ul>
-<h2 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h2><ul>
-<li><a href="http://developer.android.com/reference/android/package-summary.html" target="_blank" rel="external">Android 官方 API 文档</a>(网站需要翻墙，不翻墙可以<a href="http://pan.baidu.com/s/1dDu3LVb" target="_blank" rel="external">下载</a>离线文件)</li>
-<li><a href="http://hukai.me/android-training-course-in-chinese/index.html" target="_blank" rel="external">Android 官方培训课程中文版</a>(由胡凯发起对 Google Android 官方培训课程翻译的中文版)</li>
-</ul>
-<h2 id="其它资料收集"><a href="#其它资料收集" class="headerlink" title="其它资料收集"></a>其它资料收集</h2><ul>
-<li><a href="http://www.eoeandroid.com/forum.php?mod=viewthread&amp;tid=571335&amp;highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92" target="_blank" rel="external">10 个很棒的学习 Android 开发的网站</a></li>
-<li><a href="http://android.jobbole.com/80815/" target="_blank" rel="external">Android 开发, 你应该知道的学习资源</a></li>
-<li><a href="https://github.com/ColorfulCat/AndroidGuide" target="_blank" rel="external">AndroidCat 安卓书签网</a></li>
-<li><a href="http://www.jianshu.com/p/e961f1633d7a" target="_blank" rel="external">每个 Android 开发者都应该了解的资源列表</a></li>
-<li><a href="http://www.jianshu.com/p/54902270249d" target="_blank" rel="external">Android 开发者网址导航</a></li>
-<li><a href="https://github.com/ruijun/Android-Dev-Favorites" target="_blank" rel="external">Android 开发收藏夹</a></li>
-<li><a href="https://github.com/Tim9Liu9/TimLiu-Android" target="_blank" rel="external">TimLiu-Android</a>(TimLiu 总结的 Android 开源项目及库)</li>
-<li><a href="https://github.com/JohnTsaiAndroid/AndroidTips" target="_blank" rel="external">AndroidTips</a></li>
-</ul>
-<h2 id="知乎上的讨论"><a href="#知乎上的讨论" class="headerlink" title="知乎上的讨论"></a>知乎上的讨论</h2><ul>
-<li><a href="http://www.zhihu.com/question/19775981" target="_blank" rel="external">有哪些 Android 大牛的 blog 值得推荐?</a></li>
-<li><a href="http://www.zhihu.com/question/23804819" target="_blank" rel="external">GitHub 上都有哪些值得关注学习的 Android项目?</a></li>
-<li><a href="https://www.zhihu.com/question/28481864" target="_blank" rel="external">GitHub 上有哪些适合新人围观的 Android 项目?</a></li>
-<li><a href="http://www.zhihu.com/question/28841081" target="_blank" rel="external">2015 年移动设备界面设计有哪些趋势?</a></li>
-<li><a href="http://www.zhihu.com/question/33636939" target="_blank" rel="external">Android开发中, 有哪些让你觉得相见恨晚的方法,类或接口?</a></li>
-<li><a href="https://www.zhihu.com/question/28527388" target="_blank" rel="external">Android Studio有哪些非常好用的插件?</a></li>
-<li><a href="https://www.zhihu.com/question/32037895" target="_blank" rel="external">Android 开发有哪些新技术出现?</a></li>
-<li><a href="https://www.zhihu.com/question/19804692" target="_blank" rel="external">有哪些优秀的 Android 应用开源项目, 特效, 设计资料推荐?</a></li>
-<li><a href="https://www.zhihu.com/question/26687642" target="_blank" rel="external">有没有适合 Android 开发初学者的 App 源码推荐?</a></li>
-<li><a href="https://www.zhihu.com/question/29939631" target="_blank" rel="external">Android有什么好的技术点适合进行技术分享?</a></li>
-<li><a href="https://www.zhihu.com/question/27482725" target="_blank" rel="external">Android Studio有什么奇技淫巧?</a></li>
-<li><a href="https://www.zhihu.com/question/37433825" target="_blank" rel="external">Android 开发: 开始一个项目前, 做好哪些准备可以事半功倍?</a></li>
-</ul>
-<h2 id="贡献者"><a href="#贡献者" class="headerlink" title="贡献者"></a>贡献者</h2><p>点击<a href="https://github.com/Freelander/Android_Data/graphs/contributors" target="_blank" rel="external">该链接</a>查看该项目所有贡献者</p>
-<h2 id="License"><a href="#License" class="headerlink" title="License"></a>License</h2><p>以上内容采用 <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh" target="_blank" rel="external">CC BY-NC-SA 3.0</a> 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有</p>
-<hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
-<p><img src="/arts/kotlin_group.jpg" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#书籍&quot;&gt;书籍&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#开发环境工具&quot;&gt;开发环境/工具&lt;/a&gt;&lt;/li&gt;
-    
-    </summary>
-    
-      <category term="学习资料" scheme="https://kotlinandroid.net/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
-    
-    
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
+      <category term="Android" scheme="https://likeqy.com/tags/Android/"/>
     
   </entry>
-  
-  <entry>
-    <title>String、StringBuffer、StringBuilder的区别</title>
-    <link href="https://kotlinandroid.net/2017/07/06/String%E3%80%81StringBuffer%E3%80%81StringBuilder%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
-    <id>https://kotlinandroid.net/2017/07/06/String、StringBuffer、StringBuilder的区别/</id>
-    <published>2017-07-06T15:45:01.000Z</published>
-    <updated>2017-07-26T11:23:39.952Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="一、区别"><a href="#一、区别" class="headerlink" title="一、区别"></a>一、区别</h3><p>String ：字符串常量<br>StringBuffer ：字符串变量<br>StringBuilder ：字符串变量</p>
-<h3 id="二、速度"><a href="#二、速度" class="headerlink" title="二、速度"></a>二、速度</h3><p>StringBuilder &gt; StringBuffer &gt; String</p>
-<p>分析原因：</p>
-<p> String类是不可变类，任何对String的改变都 会引发新的String对象的生成；</p>
-<p> String类型进行改变的时候其实都等同于生成了一个新的 String 对象，然后将指针指向新的 String 对象，所以经常改变内容的字符串最好不要用 String。</p>
-<p>而StringBuffer与StringBuilder就不一样了，他们是字符串变量，是可改变的对象，每当我们用它们对字符串做操作时，实际上是在一个对象上操作的，这样就不会像String一样创建一些而外的对象进行操作了，当然速度就快了。</p>
-<p>又因为StringBuilder是线程不安全的，StringBuffer是线程安全的，所以StringBuilder比StringBuffer要快。</p>
-<hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
-<p><img src="/arts/kotlin_group.jpg" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;一、区别&quot;&gt;&lt;a href=&quot;#一、区别&quot; class=&quot;headerlink&quot; title=&quot;一、区别&quot;&gt;&lt;/a&gt;一、区别&lt;/h3&gt;&lt;p&gt;String ：字符串常量&lt;br&gt;StringBuffer ：字符串变量&lt;br&gt;StringBuilder ：字符串变量&lt;/
-    
-    </summary>
-    
-      <category term="学习资料" scheme="https://kotlinandroid.net/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
-    
-    
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kotlin</title>
-    <link href="https://kotlinandroid.net/2017/06/23/Kotlin/"/>
-    <id>https://kotlinandroid.net/2017/06/23/Kotlin/</id>
-    <published>2017-06-23T12:13:26.000Z</published>
-    <updated>2017-06-23T12:29:30.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/JetBrains/kotlin.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址：<a href="https://github.com/JetBrains/kotlin" target="_blank" rel="external">https://github.com/JetBrains/kotlin</a></p>
-<p>简介：Kotlin是一种在Java虚拟机上运行的静态类型编程语言，它也可以被编译成为JavaScript源代码。它主要是由俄罗斯圣彼得堡的JetBrains开发团队所发展出来的编程语言，其名称来自于圣彼得堡附近的科特林岛。[2]2012年1月，著名期刊《Dr. Dobb’s Journal（英语：Dr. Dobb’s Journal）》中Kotlin被认定为该月的最佳语言。[3]虽然与Java语法并不兼容，但Kotlin被设计成可以和Java代码相互运作，并可以重复使用如Java集合框架等的现有Java类库。</p>
-<p>更多：The Kotlin Programming Language <a href="http://kotlinlang.org/" target="_blank" rel="external">http://kotlinlang.org/</a></p>
-<hr>
-<h1 id="Kotlin-Programming-Language"><a href="#Kotlin-Programming-Language" class="headerlink" title="Kotlin Programming Language"></a>Kotlin Programming Language</h1><p>Welcome to <a href="https://kotlinlang.org/" target="_blank" rel="external">Kotlin</a>! Some handy links:</p>
-<ul>
-<li><a href="https://kotlinlang.org/" target="_blank" rel="external">Kotlin Site</a></li>
-<li><a href="https://kotlinlang.org/docs/tutorials/getting-started.html" target="_blank" rel="external">Getting Started Guide</a></li>
-<li><a href="https://try.kotlinlang.org/" target="_blank" rel="external">Try Kotlin</a></li>
-<li><a href="https://kotlinlang.org/api/latest/jvm/stdlib/index.html" target="_blank" rel="external">Kotlin Standard Library</a></li>
-<li><a href="https://youtrack.jetbrains.com/issues/KT" target="_blank" rel="external">Issue Tracker</a></li>
-<li><a href="https://discuss.kotlinlang.org/" target="_blank" rel="external">Forum</a></li>
-<li><a href="https://blog.jetbrains.com/kotlin/" target="_blank" rel="external">Kotlin Blog</a></li>
-<li><a href="https://twitter.com/kotlin" target="_blank" rel="external">Follow Kotlin on Twitter</a></li>
-<li><a href="http://slack.kotlinlang.org/" target="_blank" rel="external">Public Slack channel</a></li>
-<li><a href="https://teamcity.jetbrains.com/project.html?tab=projectOverview&amp;projectId=Kotlin" target="_blank" rel="external">TeamCity CI build</a></li>
-</ul>
-<h2 id="Editing-Kotlin"><a href="#Editing-Kotlin" class="headerlink" title="Editing Kotlin"></a>Editing Kotlin</h2><ul>
-<li><a href="https://kotlinlang.org/docs/tutorials/getting-started.html" target="_blank" rel="external">Kotlin IntelliJ IDEA Plugin</a></li>
-<li><a href="https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html" target="_blank" rel="external">Kotlin Eclipse Plugin</a></li>
-<li><a href="https://github.com/vkostyukov/kotlin-sublime-package" target="_blank" rel="external">Kotlin TextMate Bundle</a></li>
-</ul>
-<h2 id="Build-environment-requirements"><a href="#Build-environment-requirements" class="headerlink" title="Build environment requirements"></a>Build environment requirements</h2><p>In order to build Kotlin distribution you need to have:</p>
-<ul>
-<li>Apache Ant 1.9.4 and higher</li>
-<li>JDK 1.6, 1.7 and 1.8</li>
-<li><p>Setup environment variables as following:</p>
-<pre><code>JAVA_HOME=&quot;path to JDK 1.8&quot;
-JDK_16=&quot;path to JDK 1.6&quot;
-JDK_17=&quot;path to JDK 1.7&quot;
-JDK_18=&quot;path to JDK 1.8&quot;
-</code></pre></li>
-</ul>
-<h2 id="Building"><a href="#Building" class="headerlink" title="Building"></a>Building</h2><p>To build this project, first time you try to build you need to run this:</p>
-<pre><code>ant -f update_dependencies.xml
-</code></pre><p>which will setup the dependencies on</p>
-<ul>
-<li><code>intellij-core</code> is a part of command line compiler and contains only necessary APIs.</li>
-<li><code>idea-full</code> is a full blown IntelliJ IDEA Community Edition to be used in the plugin module.</li>
-</ul>
-<p>Then, you need to run</p>
-<pre><code>ant -f build.xml
-</code></pre><p>which will build the binaries of the compiler and put them into the <code>dist</code> directory. You may need to increase the <strong>heap size</strong> for Ant using<br><a href="https://web.liferay.com/community/wiki/-/wiki/Main/Ant+opts" target="_blank" rel="external">ANT_OPTS</a>.</p>
-<p><strong>OPTIONAL:</strong> Maven artifact distribution is built separately, go into <code>libraries</code> directory after building the compiler and run:</p>
-<pre><code>./gradlew build install
-mvn install
-</code></pre><blockquote>
-<p>Note: on Windows type <code>gradlew</code> without the leading <code>./</code></p>
-</blockquote>
-<p>Refer to <a href="libraries/ReadMe.md">libraries/ReadMe.md</a> for details.</p>
-<h2 id="Working-with-the-project-in-IntelliJ-IDEA"><a href="#Working-with-the-project-in-IntelliJ-IDEA" class="headerlink" title="Working with the project in IntelliJ IDEA"></a>Working with the project in IntelliJ IDEA</h2><p>The <a href="https://github.com/JetBrains/kotlin" target="_blank" rel="external">root kotlin project</a> already has an IntelliJ IDEA project, you can just open it in IntelliJ IDEA.</p>
-<p>You may need to set the Project SDK (<code>File -&gt; Project Structure -&gt; Project</code>).<br>You may also need to add <code>tools.jar</code> to your SDK:</p>
-<pre><code>File -&gt; Project Structure -&gt; SDKs -&gt; &lt;Your JDK&gt; -&gt; Classpath
-</code></pre><p>then choose the <code>tools.jar</code> in the JDK’s <code>lib</code> directory.</p>
-<p>If you are not dealing with Android, you may need to disable the Android Plugin in order to compile the project.</p>
-<h3 id="Installing-the-latest-Kotlin-plugin"><a href="#Installing-the-latest-Kotlin-plugin" class="headerlink" title=" Installing the latest Kotlin plugin"></a><a name="installing-plugin"></a> Installing the latest Kotlin plugin</h3><p>Since Kotlin project contains code written in Kotlin itself, you will also need a Kotlin plugin to build the project in IntelliJ IDEA.</p>
-<p>You probably want to have locally the same version of plugin that build server is using for building.<br>As this version is constantly moving, the best way to always be updated is to let IntelliJ IDEA notify you when it is time to renew your plugin.</p>
-<p>To keep the plugin version in sync with the rest of the team and our <a href="https://teamcity.jetbrains.com/project.html?projectId=Kotlin&amp;tab=projectOverview" target="_blank" rel="external">Continuous Integration server</a><br>you should setup IDEA to update the plugin directly from the build server.</p>
-<p>Open:</p>
-<pre><code>Preferences -&gt; Plugins -&gt; Browse Repositories -&gt; Manage Repositories...
-</code></pre><p>and add the following URL to your repositories:</p>
-<pre><code>https://teamcity.jetbrains.com/guestAuth/repository/download/bt345/bootstrap.tcbuildtag/updatePlugins.xml
-</code></pre><p>Then update the list of plugins in “Browse Repositories”, you’ll see two versions of Kotlin there, install the one with the higher version number.</p>
-<p>If you want to keep an IntelliJ IDEA installation with that bleeding edge Kotlin plugin for working Kotlin project sources only separate to your default IntelliJ IDEA installation with the stable Kotlin<br>plugin <a href="https://intellij-support.jetbrains.com/hc/en-us/articles/207240985-Changing-IDE-default-directories-used-for-config-plugins-and-caches-storage" target="_blank" rel="external">see this document</a>, which describes how to have multiple IntelliJ IDEA installations using different configurations and plugin directories.</p>
-<h3 id="Compiling-and-running"><a href="#Compiling-and-running" class="headerlink" title="Compiling and running"></a>Compiling and running</h3><p>From this root project there are Run/Debug Configurations for running IDEA or the Compiler Tests for example; so if you want to try out the latest and greatest IDEA plugin</p>
-<ul>
-<li>VCS -&gt; Git -&gt; Pull</li>
-<li>Run IntelliJ IDEA</li>
-<li>a child IntelliJ IDEA with the Kotlin plugin will then startup</li>
-<li>you can now open the <a href="https://github.com/JetBrains/kotlin/tree/master/libraries" target="_blank" rel="external">kotlin libraries project</a> to then work with the various kotlin libraries etc.</li>
-</ul>
-<h1 id="Contributing"><a href="#Contributing" class="headerlink" title="Contributing"></a>Contributing</h1><p>We love contributions! There’s <a href="https://youtrack.jetbrains.com/issues/KT" target="_blank" rel="external">lots to do on Kotlin</a> and on the<br><a href="https://youtrack.jetbrains.com/issues/KT?q=%23Kotlin%20%23Unresolved%20and%20(links:%20KT-2554,%20KT-4089%20or%20%23Libraries" target="_blank" rel="external">standard library</a>) so why not chat with us<br>about what you’re interested in doing? Please join the #kontributors channel in <a href="http://kotlinslackin.herokuapp.com/" target="_blank" rel="external">our Slack chat</a><br>and let us know about your plans.</p>
-<p>If you want to find some issues to start off with, try <a href="https://youtrack.jetbrains.com/issues/KT?q=tag:%20%7BUp%20For%20Grabs%7D%20%23Unresolved" target="_blank" rel="external">this query</a> which should find all Kotlin issues that marked as “up-for-grabs”.</p>
-<p>Currently only committers can assign issues to themselves so just add a comment if you’re starting work on it.</p>
-<p>A nice gentle way to contribute would be to review the <a href="https://kotlinlang.org/api/latest/jvm/stdlib/index.html" target="_blank" rel="external">standard library docs</a><br>and find classes or functions which are not documented very well and submit a patch.</p>
-<p>In particular it’d be great if all functions included a nice example of how to use it such as for the<br><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/hash-map-of.html" target="_blank" rel="external"><code>hashMapOf()</code></a> function.<br>This is implemented using the <a href="https://github.com/JetBrains/kotlin/blob/1.1.0/libraries/stdlib/src/kotlin/collections/Maps.kt#L91" target="_blank" rel="external"><code>@sample</code></a><br>macro to include code from a test function. The benefits of this approach are twofold; First, the API’s documentation is improved via beneficial examples that help new users and second, the code coverage is increased.</p>
-<p>Also the <a href="https://github.com/JetBrains/kotlin/blob/master/js/ReadMe.md" target="_blank" rel="external">JavaScript translation</a> could really use your help. See the <a href="https://github.com/JetBrains/kotlin/blob/master/js/ReadMe.md" target="_blank" rel="external">JavaScript contribution section</a> for more details.</p>
-<h2 id="If-you-want-to-work-on-the-compiler"><a href="#If-you-want-to-work-on-the-compiler" class="headerlink" title="If you want to work on the compiler"></a>If you want to work on the compiler</h2><p>The Kotlin compiler is written in Java and Kotlin (we gradually migrate more and more of it to pure Kotlin). So the easiest way to work on the compiler or IntelliJ IDEA plugin is</p>
-<ul>
-<li>download a recent <a href="https://www.jetbrains.com/idea/?fromMenu#chooseYourEdition" target="_blank" rel="external">IntelliJ IDEA</a>, Community edition is enough</li>
-<li><a href="#installing-plugin">install the Kotlin plugin</a></li>
-<li>open the <a href="https://github.com/JetBrains/kotlin" target="_blank" rel="external">root kotlin project</a> in IDEA (opening the kotlin directory)</li>
-</ul>
-<p>You can now run the various Run/Debug Configurations such as</p>
-<ul>
-<li>IDEA</li>
-<li>All Compiler Tests</li>
-<li>All IDEA Plugin Tests</li>
-</ul>
-<h2 id="If-you-want-to-work-on-the-Kotlin-libraries"><a href="#If-you-want-to-work-on-the-Kotlin-libraries" class="headerlink" title="If you want to work on the Kotlin libraries"></a>If you want to work on the Kotlin libraries</h2><ul>
-<li>download a recent <a href="https://www.jetbrains.com/idea/?fromMenu#chooseYourEdition" target="_blank" rel="external">IntelliJ IDEA</a>, Community edition is enough</li>
-<li><a href="#installing-plugin">install the Kotlin plugin</a></li>
-<li>open the <a href="https://github.com/JetBrains/kotlin/tree/master/libraries" target="_blank" rel="external">kotlin libraries project</a></li>
-</ul>
-<p>Then build via</p>
-<pre><code>cd libraries
-./gradlew build install
-mvn install
-</code></pre><blockquote>
-<p>Note: on Windows type <code>gradlew</code> without the leading <code>./</code></p>
-</blockquote>
-<p>Some of the code in the standard library is created by generating code from templates. See the <a href="libraries/stdlib/ReadMe.md">README</a> in the stdlib section for how run the code generator. The existing templates can be used as examples for creating new ones.</p>
-<h2 id="Submitting-patches"><a href="#Submitting-patches" class="headerlink" title="Submitting patches"></a>Submitting patches</h2><p>The best way to submit a patch is to <a href="https://help.github.com/articles/fork-a-repo/" target="_blank" rel="external">fork the project on github</a> then send us a<br><a href="https://help.github.com/articles/creating-a-pull-request/" target="_blank" rel="external">pull request</a> via <a href="https://github.com" target="_blank" rel="external">github</a>.</p>
-<p>If you create your own fork, it might help to enable rebase by default<br>when you pull by executing<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git config --global pull.rebase <span class="literal">true</span></div></pre></td></tr></table></figure></p>
-<p>This will avoid your local repo having too many merge commits<br>which will help keep your pull request simple and easy to apply.</p>
-<h2 id="Commit-comments"><a href="#Commit-comments" class="headerlink" title="Commit comments"></a>Commit comments</h2><p>If you include in your comment this text (where KT-1234 is the Issue ID in the <a href="https://youtrack.jetbrains.com/issues/KT" target="_blank" rel="external">Issue Tracker</a>, the issue will get automatically marked as fixed.</p>
-<pre><code>#KT-1234 Fixed
-</code></pre><hr>
-<p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
-<p><img src="/arts/kotlin_group.jpg" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/JetBrains/kotlin.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;项目地址：&lt;a href=&quot;https://gith
-    
-    </summary>
-    
-      <category term="开源项目" scheme="https://kotlinandroid.net/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1.2 is out</title>
-    <link href="https://kotlinandroid.net/2017/04/25/Kotlin%201.1.2%20is%20out/"/>
-    <id>https://kotlinandroid.net/2017/04/25/Kotlin 1.1.2 is out/</id>
-    <published>2017-04-25T13:19:00.000Z</published>
-    <updated>2017-06-23T16:10:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我们很高兴宣布Kotlin 1.1.2正式发布了，这也是Kotlin 1.1的第二次 Bug 修复和工具更新。此次更新不仅提升了编译器和 IntelliJ IDEA 插件的性能，同时也在工具中增加了新的特性，当然还有各方面的问题修复。 此外，Kotlin 1.1.2也提升了与Android Gradle插件版本2.4.0-alpha的兼容性。<br>本次发布版本的所有更新可在<a href="https://github.com/JetBrains/kotlin/blob/1.1.2/ChangeLog.md" target="_blank" rel="external">更新日志</a>中查看。<br>在这里要感谢所有外部的贡献者，他们提交的pull request也包含于该版本中：<a href="https://github.com/shiraji" target="_blank" rel="external">Yoshinori Isogai</a>，<a href="https://github.com/JLLeitschuh" target="_blank" rel="external">Jonathan Leitschuh</a>和<a href="https://github.com/cypressious" target="_blank" rel="external">Kirill Rakhman</a> 。感谢所有尝试EAP构建并向我们发送反馈意见的人！</p>
-<h2 id="迁移说明"><a href="#迁移说明" class="headerlink" title="迁移说明"></a>迁移说明</h2><p>Kotlin编译器现在也需要基于JDK 8运行。但您应该不需要在意这一点改变，因为大多数其他Java开发工具（比如Gradle和Android工具）也需要JDK 8，因此您肯定已经安装了JDK 8。对于由编译器生成的代码，仍然默认兼容Java 1.6，而且我们也没有计划要放弃对生成的Java 1.6兼容性字节码的支持。    </p>
-<p>内部类当中不能再声明 object，因为这个 object 将能够访问外部类的实例，我们知道 object 始终是一个单例，因此这在理论上是行不通的。同样的，内部密封类也是不被允许的。然而这只是临时方案，在我们添加了在其外部类而非内部类中声明内部密封类的子类的可能性时，将会删除该限制。(<a href="https://youtrack.jetbrains.com/issue/KT-16232" target="_blank" rel="external">KT-16232</a>，<a href="https://youtrack.jetbrains.com/issue/KT-16233" target="_blank" rel="external">KT-16233</a>）    </p>
-<p>现在使用一个名称完全由下划线字符组成的声明时将必须使用反引号。(<a href="https://youtrack.jetbrains.com/issue/KT-16264" target="_blank" rel="external">KT-16264</a>）</p>
 
-<p><span id="more-4945"></span></p>
-
-<h2 id="Maven增量编译"><a href="#Maven增量编译" class="headerlink" title="Maven增量编译"></a>Maven增量编译</h2><p>从Kotlin 1.1.2开始，以前用于IntelliJ IDEA和Gradle构建的增量编译现在也支持Maven。启用该功能时，需要使用-D命令行参数或<code>proterties</code>标记设置<code>kotlin.compiler.incremental</code>属性为true：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&lt;properties&gt;</div><div class="line">    &lt;kotlin.compiler.incremental&gt;<span class="literal">true</span>&lt;/kotlin.compiler.incremental&gt;</div><div class="line">&lt;/properties&gt;</div></pre></td></tr></table></figure>
-<h2 id="Maven注解处理"><a href="#Maven注解处理" class="headerlink" title="Maven注解处理"></a>Maven注解处理</h2><p>现在可以从Maven构建中调用Kotlin的注解处理工具kapt了，只需要在<code>compile</code>前，从kotlin-maven-plugin中添加<code>kapt</code>的执行目标：</p>
-
-<p></p>
-
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line">&lt;execution&gt;</div><div class="line">    &lt;id&gt;kapt&lt;/id&gt;</div><div class="line">    &lt;goals&gt;</div><div class="line">        &lt;goal&gt;kapt&lt;/goal&gt;</div><div class="line">    &lt;/goals&gt;</div><div class="line">    &lt;configuration&gt;</div><div class="line">        &lt;sourceDirs&gt;</div><div class="line">            &lt;sourceDir&gt;src/main/kotlin&lt;/sourceDir&gt;</div><div class="line">            &lt;sourceDir&gt;src/main/java&lt;/sourceDir&gt;</div><div class="line">        &lt;/sourceDirs&gt;</div><div class="line">        &lt;annotationProcessorPaths&gt;</div><div class="line">            &lt;!-- Specify your <span class="keyword">annotation</span> processors here. --&gt;</div><div class="line">            &lt;annotationProcessorPath&gt;</div><div class="line">                &lt;groupId&gt;com.google.dagger&lt;/groupId&gt;</div><div class="line">                &lt;artifactId&gt;dagger-compiler&lt;/artifactId&gt;</div><div class="line">                &lt;version&gt;<span class="number">2.9</span>&lt;/version&gt;</div><div class="line">            &lt;/annotationProcessorPath&gt;</div><div class="line">        &lt;/annotationProcessorPaths&gt;</div><div class="line">    &lt;/configuration&gt;</div><div class="line">&lt;/execution&gt;</div></pre></td></tr></table></figure>
-
-<p></p>
-
-<p>在<a href="https://github.com/JetBrains/kotlin-examples/blob/master/maven/dagger-maven-example/pom.xml" target="_blank" rel="external">这里</a>查看具有Java-Kotlin代码支持和测试的POM文件完整示例。  </p>
-<p>请注意，IntelliJ IDEA自己的构建系统仍然不支持<code>kapt</code>。当您要重新运行注解处理时，需要从“Maven Projects”工具栏中启动构建。</p>
-<h2 id="内联方法重构"><a href="#内联方法重构" class="headerlink" title="内联方法重构"></a>内联方法重构</h2><p>我们终于在Kotlin代码中实现了Inline方法（Function）的支持。</p>
-<h2 id="其他IDE改进"><a href="#其他IDE改进" class="headerlink" title="其他IDE改进"></a>其他IDE改进</h2><p>在1.1.x时间范围内，我们很大一部分的工作是致力于提高IntelliJ IDEA插件的性能。在此次发布的1.1.2版本中，我们对几项主要性能进行了改进，主要涉及输入响应，同时我们也已经为后续1.1.3版本进行了额外的重大改进。  </p>
-<p>除此之外，我们还在此版本中进行了大量新的检测，快速解决方案和小型IDE功能。特别值得一提的是，在编辑器中支持折叠Android String资源引用，以及新的用于处理Android API版本问题的问题解决方案。</p>
-<h2 id="如何更新"><a href="#如何更新" class="headerlink" title="如何更新"></a>如何更新</h2><p>要更新IDEA插件，在菜单栏中依次选择 Tools | Kotlin | Configure Kotlin Plugin Update，然后点击“Check for updates now”按钮。另外，不要忘记在Maven和Gradle构建脚本中更新编译器和标准库版本</p>
-<p>命令行编译器可以从 <a href="https://github.com/JetBrains/kotlin/releases/tag/v1.1.1" target="_blank" rel="external">Github发布页面</a> 页面下载。<br>像往常一样，如果您在新版本中遇到任何问题，您可以在 <a href="https://discuss.kotlinlang.org/" target="_blank" rel="external">论坛</a> 中寻求帮助，在Slack(<a href="http://kotlinslackin.herokuapp.com/" target="_blank" rel="external">获取邀请</a>)、或者在<a href="https://youtrack.jetbrains.com/issues/KT" target="_blank" rel="external">问题追踪器</a>提出问题 。<br>让我们来吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我们很高兴宣布Kotlin 1.1.2正式发布了，这也是Kotlin 1.1的第二次 Bug 修复和工具更新。此次更新不仅提升了编译器和 IntelliJ IDEA 插件的性能，同时也在工具中增加了新的特性，当然还有各方面的问题修复。 此外，Kotlin 1.1.2也提升了
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1 Event Report</title>
-    <link href="https://kotlinandroid.net/2017/04/06/Kotlin%201.1%20Event%20Report/"/>
-    <id>https://kotlinandroid.net/2017/04/06/Kotlin 1.1 Event Report/</id>
-    <published>2017-04-06T15:21:00.000Z</published>
-    <updated>2017-06-23T16:08:30.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Kotlin 1.1 版本发布在社区反响很好。为了演示 Kotlin 1.1 的新功能，JetBrains 提供了一个在线活动。所有感兴趣的人都可以观看 Andrey Breslav 的在线直播演示，并在 Q&amp;A 环节获得他们关心的问题的答案。<br>这激发了许多当地社区组织见面会：超过 30 个用户组在 21 个国家举办了线下活动。<br>你可以在这里找到完整的活动列表 <a href="http://kotlinlang.org/community/talks.html?time=kotlin" target="_blank" rel="external">Kotlin社区网页</a> 。活动当天有 3000 多人参加了线上直播。<br>演示和 Q&amp;A 视频可以在 YouTube 上查看：</p>
-
-<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="450" src="https://www.youtube.com/embed/zpyJHSR-5ts" width="800"></iframe></p>
-
-
-<p><span id="more-4802"></span></p>
-
-<h2 id="Kotlin-1-1-活动反馈"><a href="#Kotlin-1-1-活动反馈" class="headerlink" title="Kotlin 1.1 活动反馈"></a>Kotlin 1.1 活动反馈</h2><p>如果你看了直播，我们想知道你的想法！请 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgKsJzwc1ToAusi-xpEiiE1O4t3HA5xjlbZXDU5Mg0i3qvNg/viewform" target="_blank" rel="external">填写此表格</a> 分享您的反馈。它只需要大约7-10分钟。您的投入对于帮助我们改进未来的 Kotlin 活动非常重要。</p>
-<h2 id="Kotlin-未来特性调查"><a href="#Kotlin-未来特性调查" class="headerlink" title="Kotlin 未来特性调查"></a>Kotlin 未来特性调查</h2><p><img alt="future_features_collage_2" class="size-full wp-image-4907 aligncenter" src="https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2017/04/collage_2.png" width="800"><br></p>
-<p>我们还向所有社区提供了对 Kotlin 未来的影响。活动组织者收到了调查表，活动参与者可以在线下对最期望的功能发表看法。调查得到很多关注，我们现在已经把它放在网上，以听取更广泛的社区建议。现在你可以在线给 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnCgBonEV5pwN8L903BzdYb9Baf0dpwsJ5YrKnxLveiLFkEQ/viewform" target="_blank" rel="external"> Kotlin 的未来提供你的建议</a>  ！<br>请注意，你在 v1.2 中有很大可能看不到这些功能，但我们会在确定工作优先级时考虑您的意见。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Kotlin 1.1 版本发布在社区反响很好。为了演示 Kotlin 1.1 的新功能，JetBrains 提供了一个在线活动。所有感兴趣的人都可以观看 Andrey Breslav 的在线直播演示，并在 Q&amp;amp;A 环节获得他们关心的问题的答案。&lt;br&gt;这激发了许多当
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1 也适用于 Android 开发者</title>
-    <link href="https://kotlinandroid.net/2017/04/05/Kotlin%201.1%20is%20also%20for%20Android%20Developers/"/>
-    <id>https://kotlinandroid.net/2017/04/05/Kotlin 1.1 is also for Android Developers/</id>
-    <published>2017-04-05T08:13:00.000Z</published>
-    <updated>2017-06-23T16:09:16.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Kotlin 1.1的发布令人们感到非常兴奋。此版本包含的新功能对 Java 开发者非常有用，并将 引领 JVM 走向一个充满发展潜力的新世界。</p>
-<p>但有些新功能，如 <a href="https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-informal.md" target="_blank" rel="external">coroutine</a> 和 <a href="https://github.com/Kotlin/KEEP/blob/master/proposals/type-aliases.md" target="_blank" rel="external">type alias</a>（下文有几个例子）对于 Android 开发者来说就像科幻小说。</p>
-<p>我们仍然停留在几乎没有什么改进的古老 Java 6 中，迫使我们以其他平台已经被被遗忘的方式进行开发。</p>
-<p>所以一个理所当然的问题是：Kotlin 团队能够保持与 Java 6 的兼容性，同时保留所有这些新功能吗？答案是：当然！</p>
-<p><strong>所有新特性仍然兼容 Java 6 为 Android 开发者所用。</strong> 今天我想向您展示其中的一部分，看看它们是如何使你更容易的开发 Android 应用程式。</p>
-<a id="more"></a>
-<h1 id="type-alias-使你的-listener-更易读"><a href="#type-alias-使你的-listener-更易读" class="headerlink" title="type alias 使你的 listener 更易读"></a>type alias 使你的 listener 更易读</h1><p>当然 type alias 有很多不同的应用场景，不过我首先想到的是使用 lambda 作为 listener 的类型时会使代码更易读。</p>
-<p>如果没接触过 <a href="https://github.com/Kotlin/KEEP/issues/4" target="_blank" rel="external">type alias</a> 的话，可以简单的理解为给复杂的类型名起个别名，使其更为可读。</p>
-<p>例如你有个接收 listener 的 <code>RecyclerViewAdapter</code>。<code>RecyclerView</code> 没有 <code>ListView</code> 那样 标准的方式来处理条目点击事件，必须由开发者自己实现。</p>
-<p>假如我们希望有一个可以访问 view 的 listener，那 adapter 可能如下所示：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">MyAdapter</span></span>(<span class="keyword">val</span> items: List&lt;Item&gt;, <span class="keyword">val</span> listener: (View) -&gt; <span class="built_in">Unit</span>) : RecyclerView.Adapter&lt;MyAdapter.ViewHolder&gt;() &#123;</div><div class="line">    ...</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>而你的 <code>ViewHolder</code> 可能需要接收该 listener，才能将其分配给 view：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">ViewHolder</span></span>(itemView: View) : RecyclerView.ViewHolder(itemView) &#123;</div><div class="line">    <span class="function"><span class="keyword">fun</span> <span class="title">bind</span><span class="params">(item: <span class="type">Item</span>, listener: (<span class="type">View</span>)</span></span> -&gt; <span class="built_in">Unit</span>) &#123;</div><div class="line">        itemView.setOnClickListener(listener)</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>这不是一个复杂的例子，但是正如你所看到的我们需要重复定义这个 lambda ，会导致这段代码不太好阅读。</p>
-<p>但是现在我们可以创建一个代表点击 listener 的 type alias：<br><code>typealias ClickListener = (View) -&gt; Unit</code><br>然后在需要的每一个地方使用它：<br><code>class MyAdapter(val items: List&lt;Item&gt;, val listener: ClickListener)</code><br>或者<br><code>fun bind(item: Item, listener: ClickListener) { ... }</code></p>
-<h1 id="data-class-更强大了"><a href="#data-class-更强大了" class="headerlink" title="data class 更强大了"></a>data class 更强大了</h1><p>data class 可以为我们避免大量的样板代码，但是它不能继承其它类所以某些情况下不可用。</p>
-<p>Kotlin 1.1 取消了这个限制，例如 data class 可以定义为 sealed class 的子类了：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">sealed</span> <span class="class"><span class="keyword">class</span> <span class="title">UiOp</span> </span>&#123;</div><div class="line">    <span class="keyword">object</span> Show : UiOp()</div><div class="line">    <span class="keyword">object</span> Hide : UiOp()</div><div class="line">    <span class="keyword">data</span> <span class="class"><span class="keyword">class</span> <span class="title">Translate</span></span>(<span class="keyword">val</span> axis: Axis, <span class="keyword">val</span> amount: <span class="built_in">Int</span>): UiOp()</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>同时 <strong>sealed class 可以在父类之外定义</strong>，就像这样的：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">sealed</span> <span class="class"><span class="keyword">class</span> <span class="title">UiOp</span></span></div><div class="line"><span class="keyword">object</span> Show : UiOp()</div><div class="line"><span class="keyword">object</span> Hide : UiOp()</div><div class="line"><span class="keyword">data</span> <span class="class"><span class="keyword">class</span> <span class="title">Translate</span></span>(<span class="keyword">val</span> axis: Axis, <span class="keyword">val</span> amount: <span class="built_in">Int</span>) : UiOp()</div></pre></td></tr></table></figure>
-<h1 id="在-lambda-中使用-destructuring"><a href="#在-lambda-中使用-destructuring" class="headerlink" title="在 lambda 中使用 destructuring"></a>在 lambda 中使用 destructuring</h1><p>从 Kotlin 最早的版本开始 data class 就能够使用 destructuring declarations 了，因为它会自动生成 <code>componentX()</code> 方法，借助这些方法可以将 data class 对象拆分成若干变量，如下所示：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">data</span> <span class="class"><span class="keyword">class</span> <span class="title">Item</span></span>(<span class="keyword">val</span> text: String, <span class="keyword">val</span> url: String)</div><div class="line"> </div><div class="line"><span class="keyword">val</span> (text, url) = item</div></pre></td></tr></table></figure>
-<p>可是在 Kotlin 1.1 之前你并不能在 lambda 上这么做。不过等待结束了！现在可以这么写：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">fun</span> <span class="title">bind</span><span class="params">(item: <span class="type">Item</span>)</span></span> = item.let &#123; (text, url) -&gt;</div><div class="line">    textView.text = text</div><div class="line">    imageView.loadUrl(url)</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>这个改进十分适用于操作 Pair 和 Map 等类型的对象</p>
-<h1 id="适用与局部变量的-delegated-property"><a href="#适用与局部变量的-delegated-property" class="headerlink" title="适用与局部变量的 delegated property"></a>适用与局部变量的 delegated property</h1><p>delegated property 已被证明是非常有用的，可以为类中的 property 提供附加的能力。</p>
-<p>例如最有用的一个是 <strong>lazy property</strong>，它会推迟赋值操作，直到变量第一次使用。</p>
-<p>但其实 lazy 对于局部变量来说也是十分有用的，而之前 Kotlin 缺乏这个功能。</p>
-<p>现在通过 delegated property，我们可以做到：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">fun</span> <span class="title">testLocalDelegation</span><span class="params">()</span></span> &#123;</div><div class="line">    <span class="keyword">val</span> database <span class="keyword">by</span> lazy &#123; createDatabase() &#125;</div><div class="line">    <span class="keyword">val</span> cache <span class="keyword">by</span> lazy &#123; createMemoryCache() &#125;</div><div class="line"> </div><div class="line">    <span class="keyword">if</span> (mustUseDatabase()) &#123;</div><div class="line">        database.use &#123; ... &#125;</div><div class="line">    &#125; <span class="keyword">else</span> &#123;</div><div class="line">        cache.use &#123; ... &#125;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>虽然这个例子可以在没有使用 lazy 的情况下解决，但它有助于理解这个概念。</p>
-<p>有一些占用比较多的对象不一定会被使用，可以通过使用 lazy 延迟实例化，直到我们初次使用它。</p>
-<p>这时大括号内的代码会被执行，并且将结果缓存下来以备稍后再次使用。</p>
-<h1 id="再也不用在-lambda-中定义未使用的变量了"><a href="#再也不用在-lambda-中定义未使用的变量了" class="headerlink" title="再也不用在 lambda 中定义未使用的变量了"></a>再也不用在 lambda 中定义未使用的变量了</h1><p>在 lambda 中定义了变量但最终没使用情况很常见。</p>
-<p>这是因为在 Kotlin 1.0 中没有办法丢弃 lambda 中未使用的参数。</p>
-<p>例如使用 delegated property 更新 RecyclerView adapter，我使用了以下代码：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> items: List&lt;Content&gt; <span class="keyword">by</span> Delegates.observable(emptyList()) &#123;</div><div class="line">    prop, old, new -&gt;</div><div class="line">    autoNotify(old, new) &#123; o, n -&gt; o.id == n.id &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>prop 变量从未被使用过，这时我们就可以使用下划线来替换它：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> items: List&lt;Content&gt; <span class="keyword">by</span> Delegates.observable(emptyList()) &#123;</div><div class="line">    _, old, new -&gt;</div><div class="line">    autoNotify(old, new) &#123; o, n -&gt; o.id == n.id &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>还有种更糟的情况，如果 lambda 有多个参数，即使你一个也不用还是需要写上所有参数。现在我们可以忽略它们了：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> items: List&lt;Item&gt; <span class="keyword">by</span> Delegates.observable(emptyList()) &#123;</div><div class="line">    _, _, _ -&gt;</div><div class="line">    notifyDataSetChanged()</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>不仅可以定义较少的变量，而且代码还变得更易读了，那些有用的变量一眼就能看到。</p>
-<h1 id="Coroutine"><a href="#Coroutine" class="headerlink" title="Coroutine"></a>Coroutine</h1><p>coroutine 是 Kotlin 1.1 中最令人兴奋的特性。尽管在此版本中带着“实验性”的标签，<strong>但 coroutine 功能齐全，你完全可以开始在项目中使用它们</strong>。</p>
-<p>coroutine 能让你以同步的方式编写异步代码，允许你在某些时候暂停执行并等待结果，同时写下顺序相连代码。</p>
-<p>您可能已经知道在 Kotlin 中 coroutine 并不是指一个库或者具体的实现，<strong>而是一种能力，通过它能够创建具有 coroutine 特性的库</strong>。</p>
-<p>因此尽管某些代码看起来可能相似，但重要的是要知道创建这些辅助线程并返回主线程的“齿轮”是什么，这在 Android 中非常重要。</p>
-<p>幸运的是 Kotlin 社区的动作很快，已经有几个库引入了 coroutine 方便我们在 Android 上使用。</p>
-<p>首先来看看 Jetbrains 官方提供的：</p>
-<ul>
-<li><a href="https://github.com/Kotlin/kotlinx.coroutines/tree/master/ui/kotlinx-coroutines-android" target="_blank" rel="external">kotlinx-coroutines-android</a> 提供了在 Android 上使用 coroutine 的实现。</li>
-<li><a href="https://github.com/Kotlin/anko" target="_blank" rel="external">Anko</a> 在其最新的 beta 版中改写了部分框架引入 coroutine。</li>
-</ul>
-<p>还有许多其他第三方库实现了自己的 coroutine 版本：</p>
-<ul>
-<li><a href="https://github.com/nhaarman/AsyncAwait-Android" target="_blank" rel="external">AsyncAwait-Android by Niek Haarman</a></li>
-<li><a href="https://github.com/metalabdesign/AsyncAwait" target="_blank" rel="external">Async / Await by Metalab</a></li>
-<li>如果你在寻找 Retrofit 的 coroutine 版本，那么可以试试 <a href="https://github.com/gildor/kotlin-coroutines-retrofit" target="_blank" rel="external">kotlin-coroutines-retrofit by Andrey Mischenko</a></li>
-</ul>
-<p>建议你们使用的时候看看它们是如何实现的，这就是开源的好处。</p>
-<h1 id="其它对-Android-开发者有用的东西"><a href="#其它对-Android-开发者有用的东西" class="headerlink" title="其它对 Android 开发者有用的东西"></a>其它对 Android 开发者有用的东西</h1><p>这个版本还有更多的改进，但是我更想强调一些侧重于 Android 开发的内容。</p>
-<p>首先，现在可以通过使用以下配置来启用 Jack 编译器的支持了：<code>jackOptions {true}</code>。虽然 Google 已经宣布放弃 Jack 工具链了，但是如果你对 Java 8 有需求那么会有一点用处，然后等到 Android Studio 2.4 的正式版发布就可以彻底弃用 Jack 了。（从 Android Studio 2.4 Preview 4 版本开始支持所有 Java 7 语言特性，部分 Java 8 语言特性）</p>
-<p>另外介绍一个小技巧，就是用 <code>@JvmOverloads</code> <strong>来实现自定义 View</strong> 的构造函数，在 Kotlin 中借助参数默认值一个构造函数就能满足自定义 View 的多种构造需求（嗯，很长的一个构造函数）</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">CustomView</span> <span class="meta">@JvmOverloads</span> <span class="keyword">constructor</span></span>(</div><div class="line">        context: Context, attrs: AttributeSet? = <span class="literal">null</span>, defStyleAttr: <span class="built_in">Int</span> = <span class="number">0</span></div><div class="line">) : View(context, attrs, defStyleAttr) &#123;</div><div class="line">    ...</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<h1 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h1><p>Kotlin 1.1 带来了大量的新功能，不禁让人产生为什么还要使用 Java 的想法。</p>
-<p>Kotlin 为 Android 开发者带来的好处是毋庸置疑的，从现在开始使用 Kotlin 编写你的 Android 应用吧。</p>
-<p>如果你想从头开始学习使用 Kotlin 开发 Android 应用，那么你应该会对 <a href="https://antonioleiva.com/kotlin-android-developers-book/" target="_blank" rel="external">Kotlin for Android Developers</a> 这本书感兴趣。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Kotlin 1.1的发布令人们感到非常兴奋。此版本包含的新功能对 Java 开发者非常有用，并将 引领 JVM 走向一个充满发展潜力的新世界。&lt;/p&gt;
-&lt;p&gt;但有些新功能，如 &lt;a href=&quot;https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-informal.md&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;coroutine&lt;/a&gt; 和 &lt;a href=&quot;https://github.com/Kotlin/KEEP/blob/master/proposals/type-aliases.md&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;type alias&lt;/a&gt;（下文有几个例子）对于 Android 开发者来说就像科幻小说。&lt;/p&gt;
-&lt;p&gt;我们仍然停留在几乎没有什么改进的古老 Java 6 中，迫使我们以其他平台已经被被遗忘的方式进行开发。&lt;/p&gt;
-&lt;p&gt;所以一个理所当然的问题是：Kotlin 团队能够保持与 Java 6 的兼容性，同时保留所有这些新功能吗？答案是：当然！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;所有新特性仍然兼容 Java 6 为 Android 开发者所用。&lt;/strong&gt; 今天我想向您展示其中的一部分，看看它们是如何使你更容易的开发 Android 应用程式。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Android" scheme="https://kotlinandroid.net/tags/Android/"/>
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1 Event in Your City</title>
-    <link href="https://kotlinandroid.net/2017/03/21/Kotlin%201.1%20Event%20in%20Your%20City/"/>
-    <id>https://kotlinandroid.net/2017/03/21/Kotlin 1.1 Event in Your City/</id>
-    <published>2017-03-21T13:51:00.000Z</published>
-    <updated>2017-06-23T16:08:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我们将于2017年3月23日进行<a href="https://blog.jetbrains.com/kotlin/2017/03/kotlin-1-1-event-2/#more-4726" target="_blank" rel="external">Kotlin 1.1活动</a> 线上直播。您可以通过<a href="http://jb.gg/kotlinevent1_1" target="_blank" rel="external">JetBrains TV</a>观看<strong>Andrey Breslav的演讲</strong>，了解Kotlin 1.1的关键特性，包括协程(coroutines)，JavaScript后端等。您也可以使用#kotlinqa在twitter上提出问题，我们将在3月23日直播中的<strong>Q&amp;A环节</strong>进行解答。为适应不同的时区我们共准备了2个直播流，详情可在<a href="https://blog.jetbrains.com/kotlin/2017/03/kotlin-1-1-event-2/#more-4726" target="_blank" rel="external">博客日志</a>中参阅<strong>详细计划与指导</strong> 。从下图中了解您所在的城市是否有<strong>Kotlin 1.1活动</strong>，如果您所在的城市尚未出现在下图中，请单独加入直播。</p>
-<p><a href="http://kotlinlang.org/community/talks.html?time=kotlin" target="_blank" rel="external"><img alt="Kotlin_1_1event_map" class="size-full wp-image-4794 aligncenter" data-recalc-dims="1" src="https://i1.wp.com/blog.jetbrains.com/kotlin/files/2017/03/Kotlin_1_1event_map.png?resize=640%2C451&amp;ssl=1"></a></p>
-
-
-<p>请注意，美国的直播时间已经更改为PDT(太平洋夏季时间)时间。第一个直播流将于上午9点开始，第二个上午11点开始。  </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我们将于2017年3月23日进行&lt;a href=&quot;https://blog.jetbrains.com/kotlin/2017/03/kotlin-1-1-event-2/#more-4726&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Kotlin 1
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.0.7 is out</title>
-    <link href="https://kotlinandroid.net/2017/03/15/Kotlin%201.0.7%20is%20out/"/>
-    <id>https://kotlinandroid.net/2017/03/15/Kotlin 1.0.7 is out/</id>
-    <published>2017-03-15T14:21:00.000Z</published>
-    <updated>2017-06-23T16:08:12.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我们很高兴地宣布Kotlin 1.0.x系列的最后一个更新，Kotlin 1.0.7已经发布了。需要重点关注的是该补丁针对Gradle和annotation processing进行修复，此前无法升级到1.1版本的用户现在可以正常使用了。完整的修复列表可以在<a href="https://github.com/JetBrains/kotlin/blob/1.0.7/ChangeLog.md" target="_blank" rel="external">更新日志</a>查看。<br>要在Maven或Gradle版本中更新版本，只需在构建脚本中更改Kotlin版本号。命令行编译器会在<a href="https://github.com/JetBrains/kotlin/releases/tag/v1.0.7" target="_blank" rel="external">Github发行页面</a>中下载。<br>在IntelliJ IDEA和Android Studio中，如果您使用Kotlin 1.0.7构建项目，我们建议使用1.1版本的插件，并将语言版本切换为1.0。如果您确实想要安装1.0.7版本的插件，可以在<a href="https://plugins.jetbrains.com/plugin/6954-kotlin" target="_blank" rel="external">Kotlin插件页面</a>下载相应版本，并通过IDE的“从磁盘安装插件…”按钮进行安装。<br>一如既往，如果您在新版本中遇到任何问题，欢迎您在<a href="https://discuss.kotlinlang.org/" target="_blank" rel="external">讨论组</a>或者Slack（在<a href="http://kotlinslackin.herokuapp.com/" target="_blank" rel="external">这里</a>获得邀请）里寻求帮助，或在<a href="https://youtrack.jetbrains.com/issues/KT" target="_blank" rel="external">这里</a>提交issue。<br>让我们来享受Kotlin吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我们很高兴地宣布Kotlin 1.0.x系列的最后一个更新，Kotlin 1.0.7已经发布了。需要重点关注的是该补丁针对Gradle和annotation processing进行修复，此前无法升级到1.1版本的用户现在可以正常使用了。完整的修复列表可以在&lt;a href=
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1.1 is out</title>
-    <link href="https://kotlinandroid.net/2017/03/14/Kotlin%201.1.1%20is%20out/"/>
-    <id>https://kotlinandroid.net/2017/03/14/Kotlin 1.1.1 is out/</id>
-    <published>2017-03-14T12:29:00.000Z</published>
-    <updated>2017-06-23T16:09:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天我们发布了针对<strong> Kotlin 1.1 </strong>的第一个bug修复更新。此更新的重点是解决导致错误代码生成的回归；我们希望尽可能快地修复此问题。详细内容请查看<a href="https://github.com/JetBrains/kotlin/blob/1.1.1/ChangeLog.md" target="_blank" rel="external">更新日志</a> 。<br>重点更新如下：</p>
-<ul>
-<li>默认情况下，已启用Gradle增量编译。如果需要，您仍然可以按照文档描述禁用此功能。</li>
-<li>Kotlin插件现已可以通过Gradle插件依赖添加使用。详情可参阅相关文档。</li>
-<li>禁用使用带有接收器的函数类型作为JavaScript外部声明的参数类型。在此之前，传递给这些参数的lambdas没有被正确的参数调用，并且在这个问题上没有简单的解决方法，所以现在我们决定禁用这个功能。</li>
-</ul>
-<p>更新后的Kotlin <a href="https://marketplace.eclipse.org/content/kotlin-plugin-eclipse" target="_blank" rel="external">Eclipse</a> 和 <a href="http://plugins.netbeans.org/plugin/68590/kotlin" target="_blank" rel="external">NetBeans</a> 插件将支持Kotlin 1.1.1，所以您可以尽情享受Kotlin新版本的优点而无需关注IDE。</p>
-<h2 id="如何更新"><a href="#如何更新" class="headerlink" title="如何更新"></a>如何更新</h2><p>要更新IDEA插件，在菜单栏中依次选择 Tools | Kotlin | Configure Kotlin Plugin Update，然后点击“Check for updates now”按钮。另外，不要忘记在Maven和Gradle构建脚本中更新编译器和标准库版本</p>
-<p>命令行编译器可以从 <a href="https://github.com/JetBrains/kotlin/releases/tag/v1.1.1" target="_blank" rel="external">Github发布页面</a> 页面下载。<br>像往常一样，如果您在新版本中遇到任何问题，您可以在 <a href="https://discuss.kotlinlang.org/" target="_blank" rel="external">论坛</a> 中寻求帮助，在Slack(<a href="http://kotlinslackin.herokuapp.com/" target="_blank" rel="external">获取邀请</a>)、或者在<a href="https://youtrack.jetbrains.com/issues/KT" target="_blank" rel="external">问题追踪器</a>提出问题 。<br>让我们开始吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天我们发布了针对&lt;strong&gt; Kotlin 1.1 &lt;/strong&gt;的第一个bug修复更新。此更新的重点是解决导致错误代码生成的回归；我们希望尽可能快地修复此问题。详细内容请查看&lt;a href=&quot;https://github.com/JetBrains/kotlin
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1 Event</title>
-    <link href="https://kotlinandroid.net/2017/03/06/Kotlin%201.1%20Event/"/>
-    <id>https://kotlinandroid.net/2017/03/06/Kotlin 1.1 Event/</id>
-    <published>2017-03-06T09:43:00.000Z</published>
-    <updated>2017-06-23T16:08:34.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Kotlin 1.1除了为您的项目带来新特性之外，还是您与当地社区进行线下交流学习、了解Kotlin的未来与发展的绝好机会。<br>您可以组织社区的小伙伴们，一起参与Jetbrains团队在<strong>3月23日</strong>举办的Kotlin直播活动。为了适应不同时区，我们准备了两个直播流，分别是<strong>欧洲中部时间[CET]下午5点/7点(太平洋夏季时间[PDT]上午9点/11点)</strong>。  </p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf6iXcrIpaNIqeeUJI2L6pntS5yy_iI01PbrO9gTMmX0kg5Lw/viewform" target="_blank" rel="external">告诉我们</a>，我们将在博客上公布。</p>
-
-<p><img alt="1600" class="size-full wp-image-4739 aligncenter" data-recalc-dims="1" src="https://i1.wp.com/blog.jetbrains.com/kotlin/files/2017/03/1600.png?resize=640%2C320&amp;ssl=1"></p>
-
-
-<p><span id="more-4726"></span></p>
-
-<h2 id="Kotlin-1-1活动时间："><a href="#Kotlin-1-1活动时间：" class="headerlink" title="Kotlin 1.1活动时间："></a>Kotlin 1.1活动时间：</h2><ul>
-<li><strong>CET时间下午5点/7点(PDT时间上午9点/11点)</strong> - Andrey Breslav演讲(Youtube上直播30分钟)，链接将稍候放出。</li>
-<li><strong>CET时间下午5点30分/7点30分(PDT时间上午9点30分/11点30分)</strong> -  休息30分钟，期间可以自由讨论关于在Kotlin未来版本中您最希望加入的功能或特性，并在Twitter上分享和评论。</li>
-<li><strong>CET时间下午6点/8点(PDT时间上午10点/12点)</strong> - 与Kotlin团队的互动问答环节(45分钟，直播);</li>
-<li>欢迎各位参与讨论与发言。</li>
-</ul>
-<h2 id="互动问答环节"><a href="#互动问答环节" class="headerlink" title="互动问答环节"></a>互动问答环节</h2><ul>
-<li>从3月21日开始，至3月23日互动环节结束期间，您可以在Twitter上使用#kotlinQA标签向我们提出任何您想要问的问题；</li>
-<li>Kotlin团队将对问题进行分类;</li>
-<li>团队将在Q＆A环节现场回答问题;</li>
-<li>如果在会议期间有问题没有答复，我们仍将通过Twitter进行回复</li>
-<li>优先回答提问频率最高的问题</li>
-</ul>
-<h2 id="Future-Features-kit"><a href="#Future-Features-kit" class="headerlink" title="Future Features kit"></a>Future Features kit</h2><p>本次调查的目的是收集社区用户对语言特征的偏好和需求。您可以提出在Kotlin后续版本中最希望看到的特征或功能；不过这些内容并不保证能在1.2版本中发布，但我们会在确定工作优先级时考虑您的意见。</p>
-<ul>
-<li>Kotlin Future Feature Kit包含20张写有功能名称和描述的卡片以及用于投票的贴纸;</li>
-<li>将功能卡片粘贴到白板（或墙壁）上;</li>
-<li>每位参加者可获得3张（3张）贴纸，可以在功能中自由分配：最多为三种不同的功能进行投票，或者对某一功能投出两票甚至三票;</li>
-<li>参加者可以通过阅读卡片的说明了解功能，然后按上所述规则进行投票;</li>
-<li>将结果进行拍照;</li>
-<li>使用#kotlinevent标签在Twitter上发布</li>
-</ul>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf6iXcrIpaNIqeeUJI2L6pntS5yy_iI01PbrO9gTMmX0kg5Lw/viewform" target="_blank" rel="external">在这里提交你的答案吧</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Kotlin 1.1除了为您的项目带来新特性之外，还是您与当地社区进行线下交流学习、了解Kotlin的未来与发展的绝好机会。&lt;br&gt;您可以组织社区的小伙伴们，一起参与Jetbrains团队在&lt;strong&gt;3月23日&lt;/strong&gt;举办的Kotlin直播活动。为了适应不同
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kotlin 1.1</title>
-    <link href="https://kotlinandroid.net/2017/03/04/Kotlin%201.1/"/>
-    <id>https://kotlinandroid.net/2017/03/04/Kotlin 1.1/</id>
-    <published>2017-03-04T00:46:34.000Z</published>
-    <updated>2017-06-23T16:10:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>上周一的文章里面提到 Kotlin 1.1 rc了，还没正式发布，我在周三的时候把文章转到掘金以后，好多小伙伴告诉我，1.1 已经发布了~</p>
-<p>tips: 本文有较多外链，公众号阅读时无法跳转，如有需要，请大家点击”阅读原文”。</p>
-<h2 id="1、更新要点"><a href="#1、更新要点" class="headerlink" title="1、更新要点"></a>1、更新要点</h2><h3 id="1-1-Coroutine"><a href="#1-1-Coroutine" class="headerlink" title="1.1 Coroutine"></a>1.1 Coroutine</h3><p>1.1 最大的更新一定必须毫无疑问的要数 Coroutine 了，尽管在正式发版之前，Kotlin Team 突然虚了，决定把这个特性定为 Experimental，不过这似乎并没有改变什么。不就是改个包名么！！</p>
-<p>早在春节放假那几天，我就在公众号连续两周发文介绍 Coroutine，本来还计划有第三篇的，不过开工以后个项目有点儿累，每天翻 Android 系统 C++ 层的代码翻到吐，也没精力去写第三篇文章，真是抱歉，如果大家有兴趣，可以参考前两篇：</p>
-<p><a href="https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&amp;mid=2247483875&amp;idx=1&amp;sn=b1b565f651ee1221d4bda19ab12009ce&amp;chksm=e8a05ededfd7d7c878c1c483c577ec53bcf42ee4cb0fe5d13f29d12ff62a1e335c4afa616ffa#rd" target="_blank" rel="external">深入理解 Kotlin Coroutine (一)</a></p>
-<p><a href="https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&amp;mid=2247483878&amp;idx=1&amp;sn=710189e6e22a13fc7d1ea67bc2dd9270&amp;chksm=e8a05edbdfd7d7cd163ee1a2d5769fc2bf003e2d5a6d3f9c6382531b7efc22a6ab75300bb906#rd" target="_blank" rel="external">深入理解 Kotlin Coroutine (二）</a></p>
-<p>其中，第一篇文章写于 experimental 之前，不过大家只要在包名当中加上 experimental 就没问题了。</p>
-<p>Kotlin 的 Coroutine 实现主要分为两个层面，第一个层面就是标准库以及语言特性的支持，这里面主要包括最基本的 suspend 关键字以及诸如 startCoroutine 这样的方法扩展，上述第一篇文章对此做了详细的介绍。第二层面则主要是基于前面的基础封装的库，目前主要是 kotlinx.coroutine ，其中封装了 runBlock、launch 这样方便的操作 Coroutine 的 api，这在第二篇文章做了详细地介绍。所以大家在了解 Coroutine 的时候，可以从这两个角度来入手，以免没有头绪。</p>
-<p>我们再来简单说说 Coroutine 的运行机制。Coroutine 是用来解决并发问题的，它甚至有个中文名叫“协程”，它看上去跟线程似乎是并发问题的两种独立的解决方案，其实不然。要并发的执行任务，从根本上说，就是要解决 Cpu 的调度问题，Cpu 究竟是如何调度，取决于操作系统，我们在应用程序编写的过程中用到的 Thread 也好，Coroutine 也好，本质上也是对操作系统并发 api 的封装。知道了这一点，我们再来想想 Thread 是如何做到两个线程并发执行的呢？Java 虚拟机的实现主要采用了对内核线程映射的方式，换句话说，我们通常用到的 Thread 的真正直接调度者可以理解为是操作系统本身。那我们在 Kotlin 当中支持 Coroutine 是不是也要把每一个 Coroutine 映射到内核呢？显然不能，不然那跟 Thread 还有啥区别呢？再者，Coroutine 的核心在 Co 上，即各个 Coroutine 是协作运行的，有一种“你唱罢来我登场”的感觉，就是说，Coroutine 的调度权是要掌握在程序自己手中的。于是，如果你去了解 kotlinx.coroutine 的实现，你就会发现 CommonPool 这么个东西，它不是别的，它的背后正是线程池。</p>
-<p><strong>线程是轻量级进程，而协程则是轻量级线程。</strong></p>
-<p>Coroutine 的出现让 Kotlin 如虎添翼，如果你之前在写 Go，Lua，python，或者 C#，这回 Java 虚拟机家族可不会让你失望了。自从有了协程，你也可以写出这样的代码：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">val</span> fibonacci = buildSequence &#123;  </div><div class="line">    yield(<span class="number">1</span>) <span class="comment">// first Fibonacci number  </span></div><div class="line">    <span class="keyword">var</span> cur = <span class="number">1</span>  </div><div class="line">    <span class="keyword">var</span> next = <span class="number">1</span>  </div><div class="line">    <span class="keyword">while</span> (<span class="literal">true</span>) &#123;  </div><div class="line">        yield(next) <span class="comment">// next Fibonacci number  </span></div><div class="line">        <span class="keyword">val</span> tmp = cur + next  </div><div class="line">        cur = next  </div><div class="line">        next = tmp  </div><div class="line">    &#125;  </div><div class="line">&#125;  </div><div class="line">...  </div><div class="line"><span class="keyword">for</span> (i <span class="keyword">in</span> fibonacci)&#123;  </div><div class="line">    println(i)  </div><div class="line">    <span class="keyword">if</span>(i &gt; <span class="number">100</span>) <span class="keyword">break</span> <span class="comment">//大于100就停止循环  </span></div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>序列生成器，记得我刚学 python 那会儿看到这样的语法，简直惊呆了。</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">val</span> imageA = loadImage(urlA)  </div><div class="line"><span class="keyword">val</span> imageB = loadImage(urlB)  </div><div class="line">onImageGet(imageA, imageB)</div></pre></td></tr></table></figure>
-<p>这样的代码也是没有压力的，看上去就如同步代码一般，殊不知人家做的可是异步的事情呐。</p>
-<p><strong>协程的出现，让我们可以用看似同步的代码做着异步的事情。</strong></p>
-<p>这篇文章我们主要说说 1.1 的发版，Coroutine 的更多内容，建议大家直接点击前面的链接去读我的另外两篇文章~</p>
-<h3 id="1-2-JavaScript-支持"><a href="#1-2-JavaScript-支持" class="headerlink" title="1.2 JavaScript 支持"></a>1.2 JavaScript 支持</h3><p>真是媳妇儿终于熬成婆，Js 终于被正式支持了。看官方的意思，他们已经用这一特性做了不少尝试，从 Kotlin 从头到尾写一个站点，似乎毫无压力，尽管类似反射这一的特性还没有支持，不过面包会有的嘛。</p>
-<p>从我个人的角度来说，也可能我对前端了解太少吧，我觉得应用在前端比起移动端、服务端来说，Kotlin 的前景相对不明朗。我用 JavaScript 用得好好的，为啥要切换 Kotlin 呢？动态特性玩起来挺爽的，虽然回调写多了容易蛋疼，但这也不是不可以规避的。关于 Kotlin 开发前端这个问题，我需要多了解一下前端开发者的看法，相比他们是否愿意接触 Kotlin，我更关心有几个做前端的人知道这门语言。不瞒各位说，前几天跟一个支付宝客户端的大哥聊了一会儿，他问我这个 k o t 什么的，是干啥的。。。我当时在想，看来阿里人对 Kotlin 还不是很熟悉啊。</p>
-<p>Whatever，Kotlin 现在都可以支持 node.js 了，还有什么不可能的呢？作为吃瓜群众，且让我观望一阵子。</p>
-<h3 id="1-3-中文支持"><a href="#1-3-中文支持" class="headerlink" title="1.3 中文支持"></a>1.3 中文支持</h3><p>你放心，这一段内容你绝对在其他人那里看不到，因为没人会这么蛋疼。我前几天为了做一个案例用中文写了段代码，想着 Java 支持中文标识符，Kotlin 应该也问题不大。没曾想，写的时候一点儿问题的没，可编译的时候却直接狗带了。</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">package</span> 中国.北京.回龙观</div><div class="line">　</div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">G6</span>出口</span>&#123;</div><div class="line">    <span class="function"><span class="keyword">fun</span> 下高速<span class="params">()</span></span>&#123;</div><div class="line">        println(<span class="string">"前方堵死, 请开启飞行模式 :)"</span>)</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line">　</div><div class="line"><span class="function"><span class="keyword">fun</span> <span class="title">main</span><span class="params">(args: <span class="type">Array</span>&lt;<span class="type">String</span>&gt;)</span></span> &#123;</div><div class="line">    <span class="keyword">val</span> 回龙观出口 = G6出口()</div><div class="line">    回龙观出口.下高速()</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>注意，包名、代码文件名都是中文的，如果用 1.0.6 版编译，结果就是万里江山一片红哇。</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">Error:Kotlin: [Internal Error] java.io.FileNotFoundException: /Users/benny/temp/testKotlin/out/production/testKotlin/??/??/???/G6??.class (No such file or directory)</div><div class="line">	at java.io.FileInputStream.open0(Native Method)</div><div class="line">	at java.io.FileInputStream.open(FileInputStream.java:195)</div><div class="line">	at java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:138)</div><div class="line">	at kotlin.io.FilesKt__FileReadWriteKt.readBytes(FileReadWrite.kt:52)</div><div class="line">	at org.jetbrains.kotlin.incremental.LocalFileKotlinClass</div><div class="line">	...</div></pre></td></tr></table></figure>
-<p>注意到，汉字都变成了 ??，瞧瞧编译器那小眼神，真是看得我都醉了。</p>
-<p>如果我们用 1.1 的编译器来编译这段代码，结果就可以正常输出：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">前方堵死, 请开启飞行模式。</div></pre></td></tr></table></figure>
-<h3 id="1-4-其他特性"><a href="#1-4-其他特性" class="headerlink" title="1.4 其他特性"></a>1.4 其他特性</h3><p>1.1 还新增了不少特性，我在之前的一篇文章就做过介绍：<a href="https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&amp;mid=2247483827&amp;idx=1&amp;sn=9c800c2249808685f98b4431ff74e19a&amp;chksm=e8a05e8edfd7d798719fe8b443019cd53f541597fd039b2b9098add86d186cd2ccea2b8d61e7#rd" target="_blank" rel="external">喜大普奔！Kotlin 1.1 Beta 降临~</a></p>
-<ul>
-<li>tpyealias</li>
-<li>绑定调用者的函数引用</li>
-<li>data class 可以继承其他类</li>
-<li>sealed class 子类定义的位置放宽</li>
-<li>_ 作为占位，替代不需要的变量</li>
-<li>provideDelegate</li>
-</ul>
-<h2 id="2、Kotlin-元年"><a href="#2、Kotlin-元年" class="headerlink" title="2、Kotlin 元年"></a>2、Kotlin 元年</h2><p>2016 年是 Kotlin “元年（First year of Kotlin）”，官网给出了这样一幅图来展示它一年来的成绩：</p>
-<p><img src="https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2017/03/GitHub-Stats-1.gif" alt=""></p>
-<p>Github 上面的代码量都破千万了，使用 Kotlin 的公司也逐渐增多，除了 JetBrains 自己以外，我觉得在 Java 界比较有分量的就是 Square 了，如果 Google 能够稍微提一句 Kotlin ，显然这个故事就会有另外一个令人兴奋的版本——好啦，不要 yy 啦。</p>
-<p>据说，比较著名的主要有Amazon Web Services, Pinterest, Coursera, Netflix, Uber, Square, Trello, Basecamp 这些公司将 Kotlin 投入了生产实践当中。国内资料较少，估计接触的人也不是很多，像百度、腾讯、阿里巴巴、滴滴、新美大、小米、京东这样的公司可能还没有太多的动力去将 Kotlin 应用到开发中，就算开始尝试，也多是在 Android 开发上面试水；而敢于尝试 Kotlin 的，更多是没有什么历史包袱且富于创新和挑战精神的创业团队，对于他们而言 Kotlin 为开发带来的效率是非常诱人的。</p>
-<p>说到这里，有两个令人兴奋的消息需要同步给大家：</p>
-<ul>
-<li>Gradle 开始尝试用 Kotlin 作为其脚本语言，目前已经发到了 0.4.0。这个真的可以有，groovy 虽然是一门很灵活的语言，不过写配置的时候如果没有 IDE 的提示，实在是太痛苦了。大家有兴趣也可以关注一下这个项目：<a href="https://github.com/gradle/gradle-script-kotlin" target="_blank" rel="external">gradle-script-kotlin</a></li>
-<li><a href="https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0" target="_blank" rel="external">Spring 5.0 加入 Kotlin 支持</a>，Spring 的地位可想而知，Spring 为 Kotlin 站台，这分量还是很重的。</li>
-</ul>
-<p>不知道 2017 年会发生什么，且让我们准备好爆米花饮料，拭目以待吧。</p>
-<p>关于 Kotlin 的资料，英文版的图书已经出版了几本，主要有：</p>
-<ul>
-<li><a href="https://manning.com/books/kotlin-in-action" target="_blank" rel="external">Kotlin in Action</a>：这部书已经有了纸质版，是官方自己人写的，算是一本比较权威的参考书了。</li>
-<li><a href="https://leanpub.com/kotlin-for-android-developers" target="_blank" rel="external">Kotlin for Android Developers</a>：这本书也算是老资历了，稍微看几眼你就会为 Kotlin 有趣的特性所吸引。另外，它还有一个<a href="https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/wo_men_tong_guo_kotlin_de_dao_shi_yao.html" target="_blank" rel="external">中文的翻译版本</a></li>
-<li><a href="https://leanpub.com/modern-web-development-with-kotlin" target="_blank" rel="external">Modern Web Development with Kotlin</a>：这本书我没有读过，如果你需要用 Kotlin 开发 web 应用，它应该会给予你一些帮助。</li>
-<li><a href="https://www.packtpub.com/application-development/programming-kotlin" target="_blank" rel="external">Programming Kotlin</a>：这本书涉及内容非常全面，内容也算是言简意赅，快速入门 Kotlin 可以选择它。</li>
-</ul>
-<p>除了图书以外， Kotlin 的首席布道师 Hadi Hariri 已经在 O’Reilly 上面发布了两套视频教程：</p>
-<ul>
-<li><a href="http://shop.oreilly.com/product/0636920052982.do" target="_blank" rel="external">Introduction to Kotlin Programming</a></li>
-<li><a href="http://shop.oreilly.com/product/0636920052999.do" target="_blank" rel="external">Advanced Kotlin Programming</a></li>
-</ul>
-<p>里面有免费的几段，且不说内容怎么样，反正考验大家英语听力的时候到了，嗯，老爷子讲得还是很清楚的。</p>
-<p>国内的资料，很少。除了有个别小伙伴写的一些博客之外，较为系统的学习资料几乎没有。也难怪大家都不知道它呢。也正是为了弥补这一空白，我在 16 年 10 月的时候开始每周 10 分钟的节奏连续录了 15 期视频，如果你有 Java 基础，那么看这些视频基本上可以让你知道 Kotlin 是怎么一回事了。</p>
-<ul>
-<li><a href="https://github.com/enbandari/Kotlin-Tutorials" target="_blank" rel="external">Kotlin 中文视频教程</a></li>
-</ul>
-<p>另外，如果你想要对 Kotlin 持续了解，建议你关注微信公众号 Kotlin，每周一推送的 Kotlin 的相关文章，基本上会覆盖了 Kotlin 的各种最新动态。也欢迎大家跟我交流开发中遇到的问题~</p>
-<h2 id="3、Kotlin-时代"><a href="#3、Kotlin-时代" class="headerlink" title="3、Kotlin 时代"></a>3、Kotlin 时代</h2><p>1.1 的重要的更新其实就 Coroutine 以及 JavaScript 支持，毕竟 Kotlin 对 Java 的兼容支持已经做得非常不错了（别老提 apt 的事儿，1.0.4 之后的 kapt 不就基本上很好用了么）。别人问我，Kotlin 到底是写啥的，这个问题我通常说很官方的说，Kotlin 是一门运行在 Java虚拟机、Android、浏览器上的静态语言，可是，Kotlin Team 的节奏已经让这句话显得要过时了。他们用短短几年时间搞出这么个全栈的语言，各方面特性都还很棒，然而他们并不能感到满足，他们已经开始走 C++ 的路线，也许 Kotlin Native 要不了多久就会出现了。</p>
-<p>第一次听到这消息的时候，我瞬间就凌乱了，那感觉就好像王者荣耀里面队友选了大乔一样，秒回泉水加满血，秒回战场收人头啊。</p>
-<p>前不久，我很荣幸地跟一位创业公司 CEO 坐下来聊理想，他问我的第一句话就是：你觉得 Kotlin 是未来么？我当时就蒙了，不得不说，他对 Kotlin 的期待跟 Kotlin Team 如出一辙呀。我当时实在不知道该怎么回答他，回来仔细想了想，答案其实也是有的。</p>
-<p>十几年前，东家缺钱，急需投资，投资人坐下来“拷问”小马哥：“这个东西（指当时的 OICQ）怎么赚钱？” 小马哥说自己只知道这个东西大家喜欢，但不知道向谁收钱。对于 Kotlin 来说，我只知道它好用，尽管大家都还看不太懂，不过它的时代正在悄悄的到来。</p>
-<p><img src="/arts/kotlin扫码关注.png" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;上周一的文章里面提到 Kotlin 1.1 rc了，还没正式发布，我在周三的时候把文章转到掘金以后，好多小伙伴告诉我，1.1 已经发布了~&lt;/p&gt;
-&lt;p&gt;tips: 本文有较多外链，公众号阅读时无法跳转，如有需要，请大家点击”阅读原文”。&lt;/p&gt;
-&lt;h2 id=&quot;1、更新要
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1 发布啦！JavaScript，Coroutine 还有更多你想要的</title>
-    <link href="https://kotlinandroid.net/2017/03/01/Kotlin%201.1%20Released%20with%20JavaScript%20Support,%20Coroutines%20and%20more/"/>
-    <id>https://kotlinandroid.net/2017/03/01/Kotlin 1.1 Released with JavaScript Support, Coroutines and more/</id>
-    <published>2017-03-01T09:12:00.000Z</published>
-    <updated>2017-06-23T16:09:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Kotlin 1.1 今天正式发布了，这让 Kotlin 有能力适用于更多的应用场景，希望大家能够喜欢。</p>
-
-<p><img alt="Kotlin 1.1" class="alignnone size-full wp-image-4675" src="https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2017/03/Kotlin11blogbanner1.png" width="800"></p>
-
-<p>我们希望 Kotlin 能够在应用的任何组件中成为独立的、富有表现力且性能强大的强类型语言，Kotlin1.1 为了实现这一目标迈出了巨大的两步。</p>
-
-<p><span id="more-4611"></span></p>
-
-<p>首先，<strong><em>JavaScript 支持</em></strong>的“试验性”标签已被移除，并且支持所有 Kotlin 语言特性、标准库的大部分内容以及 JavaScript 互操作性。这意味着开发者可以完全使用 Kotlin 来编写整个 WEB 应用，同时继续使用 JavaScript 的开发框架（比如 React）。  </p>
-<p>其次，我们引入了<strong><em>协程(coroutines)</em></strong>的概念。作为线程的轻量级替代方案，协程在应用程序后端可以具有更大可扩展性，从而支持单个 JVM 实例上的大量工作负载。除此之外，协程对于实现异步行为具有强大的表现力，这对于在任何平台上构建响应式用户交互界面而言极其重要。  </p>
-<p>下面我们将进一步介绍这两大功能。其他部分如<a href="http://kotlinlang.org/docs/reference/whatsnew11.html#type-aliases" target="_blank" rel="external">type aliases</a>，<a href="http://kotlinlang.org/docs/reference/whatsnew11.html#bound-callable-references" target="_blank" rel="external">callable references</a>，<a href="http://kotlinlang.org/docs/reference/whatsnew11.html#destructuring-in-lambdas" target="_blank" rel="external">destructuring in lambdas</a>等详情可在<a href="http://kotlinlang.org/docs/reference/whatsnew11.html" target="_blank" rel="external">最新消息</a>查看，试试完整的可运行示例代码！</p>
-<h2 id="协程-Coroutines"><a href="#协程-Coroutines" class="headerlink" title="协程(Coroutines)"></a>协程(Coroutines)</h2><p>在 Kotlin 中协程使非阻塞式异步代码与同步代码一样易于理解。  </p>
-<p>异步编程正当风靡，唯一让我们思虑的是，非阻塞式代码大量增加了系统的复杂性。 而 Kotlin 现在提供了简化这种复杂性的方法，通过单原子让协程在语言中成为一等公民：<strong><em>挂起函数</em></strong>。这种类型的函数（或 lambda）表示在计算运行中可以被挂起（不阻塞任何线程），而后也能继续恢复运行。  </p>
-<p>从技术上说，协程是多任务协作的轻量级解决方案（类似于<a href="https://en.wikipedia.org/wiki/Fiber_(computer_science" target="_blank" rel="external">fibers</a>)）。换言之，他们只是<strong><em>更好的线程</em></strong>：可以任意的启动和保留，且挂起的消耗极其之低（挂起之于协程，如阻塞之于线程），非常易于组合与订制。  </p>
-<p>我们对于协程的设计以实现最大的灵活性为目标：在语言中固化的部分少，而且可以作为库来实现很多功能。<a href="https://github.com/Kotlin/kotlinx.coroutines" target="_blank" rel="external">kotlinx.coroutines</a>项目在 Rx，CompletableFuture，NIO，JavaFx 和 Swing 上均有设计功能库，甚至可以为 Android 和 JavaScript 编写类似的库。即使在其​​他语言中许多内置构建现在也可以用 Kotlin 库来编写。包括 Python 的 generators/yield，来自 Go 的 channels/select 以及 C＃的 async/await:</p>
-
-<p></p>
-
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// runs the code in the background thread pool</span></div><div class="line"><span class="function"><span class="keyword">fun</span> <span class="title">asyncOverlay</span><span class="params">()</span></span> = async(CommonPool) &#123;</div><div class="line">    <span class="comment">// start two async operations</span></div><div class="line">    <span class="keyword">val</span> original = asyncLoadImage(<span class="string">"original"</span>)</div><div class="line">    <span class="keyword">val</span> overlay = asyncLoadImage(<span class="string">"overlay"</span>)</div><div class="line">    <span class="comment">// and then apply overlay to both results</span></div><div class="line">    applyOverlay(original.await(), overlay.await())</div><div class="line">&#125;</div><div class="line"> </div><div class="line"><span class="comment">// launches new coroutine in UI context</span></div><div class="line">launch(UI) &#123;</div><div class="line">    <span class="comment">// wait for async overlay to complete</span></div><div class="line">    <span class="keyword">val</span> image = asyncOverlay().await()</div><div class="line">    <span class="comment">// and then show it in UI</span></div><div class="line">    showImage(image)</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-
-<p></p>
-
-<p>查看<a href="http://kotlinlang.org/docs/reference/coroutines.html" target="_blank" rel="external">完整内容</a>。  </p>
-<p><strong>重要提示</strong>：凭借上述的这些优势，Kotlin 协程近乎全新的设计，在我们能确定这是 100％正确和完整之前，仍然需要大量的实践和测试。因此我们才选择在“实验性”<a href="http://kotlinlang.org/docs/diagnostics/experimental-coroutines.html" target="_blank" rel="external">标志</a>下发布。我们不希望语言规则发生变化，但 API 可能需要在 Kotlin 1.2 中进行调整。</p>
-<h2 id="JavaScript-支持"><a href="#JavaScript-支持" class="headerlink" title="JavaScript 支持"></a>JavaScript 支持</h2><p>如上所述，Kotlin 1.1 中的所有语言特性（包括协程）都适用于 JVM / Android 和 JavaScript（JavaScript 的反射目前不可用，但我们正在这方面努力）。这意味着 Web 应用程序可以完全使用 Kotlin 编写，而且我们已经在 JetBrains 内部有一些尝试，相信很快就会发布教程和其他资料。  </p>
-<p>Kotlin for JavaScript 具有与“源生”JavaScript 代码进行互相操作的动态类型，通过类型 API 可以使用<a href="http://github.com/kotlin/ts2kt" target="_blank" rel="external">ts2kt converter</a>以及<a href="http://github.com/DefinitelyTyped/DefinitelyTyped" target="_blank" rel="external">DefinitelyTyped</a>等知名库。  </p>
-<p>我们支持 Node.js 和浏览器。 Kotlin 标准库可通过<code>npm</code>使用。<br><a href="http://kotlinlang.org/docs/reference/js-overview.html" target="_blank" rel="external">文档链接</a> 。</p>
-<h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><p>Kotlin 1.1 并不是 Kotlin 工具发布的主版本：我们更喜欢具有这些功能的工具就绪后，不会对语言本身产生影响，所以我们在 Kotlin 1.0.x 版本中的有许多这样的改进：</p>
-<ul>
-<li>主流 IDE 的 Kotlin 插件：IntelliJ IDEA，Android Studio，Eclipse 和 NetBeans</li>
-<li>IntelliJ IDEA 和 Gradle 中的增量编译</li>
-<li>Spring，JPA 和 Mockito 的编译器插件（all-open 与 no-arg）</li>
-<li>注解处理器 kapt</li>
-<li>对 Android 项目的支持 Lint 检查</li>
-<li>大量的 IDE 代码预测，检查，快速修复，重构和自动完成提升</li>
-</ul>
-<p>我们将继续在 1.1.x 版本中进行更新，努力为开发者们提供更好的工具。</p>
-<h1 id="Kotlin-元年：迁移与社区"><a href="#Kotlin-元年：迁移与社区" class="headerlink" title="Kotlin 元年：迁移与社区"></a>Kotlin 元年：迁移与社区</h1><p>总而言之，Kotlin 正在逐渐壮大。去年，我们看到有超过 160,000 人使用，Github 上的 Kotlin 开源项目从 2.4M 增加到 10M（约 4 倍）。我们的 Slack 社区已经从 1,400 人增长到超过 5,700 人（超过 4 倍）。<a href="http://kotlinlang.org/community/talks.html" target="_blank" rel="external">世界各地</a>均有社区组织了众多的线下交流以及用户群组，我们也看到越来越多的 Kotlin 书籍和在线课程发布。</p>
-
-<p><center><br>
-<img alt="Kotlin GitHub Stats" class="alignnone size-full wp-image-4679" height="375" onmouseout="this.src='https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2017/03/GitHub-Stats-2.png';" onmouseover="this.src='https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2017/03/GitHub-Stats-1.gif';" src="https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2017/03/GitHub-Stats-2.png" width="750"><br>
-</center></p>
-
-<p>Kotlin 在服务器端和 Android 端（开发人员数量均等）表现异常强大。 <a href="https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0" target="_blank" rel="external">Spring 框架 5.0</a>和<a href="http://vertx.io/blog/vert-x-3-4-0-beta1-release/" target="_blank" rel="external">vert.x 3.4</a>均引入了对 Kotlin 的支持。 <a href="https://blog.gradle.org/kotlin-meets-gradle" target="_blank" rel="external">Gradle</a>和<a href="https://blog.jetbrains.com/teamcity/2016/11/kotlin-configuration-scripts-an-introduction/" target="_blank" rel="external">TeamCity</a>正在使用 Kotlin 构建脚本。更多使用 Kotlin 的项目可以在<a href="http://kotlin.link" target="_blank" rel="external">kotlin.link</a>查看。  </p>
-<p>许多知名公司也正在使用 Kotlin：<a href="https://www.youtube.com/watch?v=mDpnc45WwlI" target="_blank" rel="external">Pinterest</a>，<a href="https://building.coursera.org/blog/2016/03/16/becoming-bilingual-coursera/" target="_blank" rel="external">Coursera</a>，<a href="https://twitter.com/robspieldenner/status/708355228832178176" target="_blank" rel="external">Netflix</a>，<a href="https://www.reddit.com/r/androiddev/comments/5sihp0/2017_whos_using_kotlin/ddfmkf7/" target="_blank" rel="external">Uber</a>，<a href="https://github.com/square/sqldelight" target="_blank" rel="external">Square</a>，<a href="https://twitter.com/danlew42/status/809065097339564032" target="_blank" rel="external">Trello</a>，<a href="https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot-in-basecamp-5ac9d6cea95" target="_blank" rel="external">Basecamp</a>；除此之外， 由知名银行（如高盛，富国银行，摩根大通，德意志银行，瑞银，汇丰银行，法国巴黎银行，SociétéGénérale）联盟开发的分销账户分类账户<a href="https://github.com/corda/corda" target="_blank" rel="external">Corda</a>，其代码库中有<a href="https://www.corda.net/2017/01/10/kotlin/" target="_blank" rel="external">超过 90％的部分</a>使用 Kotlin。我们感谢世界各地的所有用户，贡献者和倡导者。您的支持对我们非常重要！</p>
-<h3 id="组织您自己的-Kotlin-1-1-活动"><a href="#组织您自己的-Kotlin-1-1-活动" class="headerlink" title="组织您自己的 Kotlin 1.1 活动"></a>组织您自己的 Kotlin 1.1 活动</h3><p>Kotlin 1.1 的发布是与当地社区好友线下聚会的好话题。我们已经准备了一些资料来帮助开发者们举办此类活动。3 月 23 日，我们将以 Kotlin 团队成员的形式进行现场直播，发起人均可获得一个背包，里面有一份关于未来特性的调查问卷和一些小礼物，点击<a href="https://docs.google.com/forms/d/e/1FAIpQLSf6iXcrIpaNIqeeUJI2L6pntS5yy_iI01PbrO9gTMmX0kg5Lw/viewform" target="_blank" rel="external">注册</a>即可参与。</p>
-<h1 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h1><p>为了使 Kotlin 成为真正的全栈语言，我们将为多个平台编译相同的代码提供工具和语言支持。这将有助于在客户端和服务器之间进行模块共享。我们将继续致力于改进 JavaScript 工具和库的支持。除此之外，JavaScript 平台的增量编译正在进行中。请继续关注 1.1.x 更新。  </p>
-<p>Java 9 即将推出，我们将在发布之前为其新功能提供支持。  </p>
-<p>我们期望在未来几个月内能够收到许多关于协程反馈意见，改进这一领域（在性能和功能方面）对于我们优先级最高。<br>除此之外，下一版本的主要工作将集中在维护，性能改进，基础架构和错误修复方面。<br>P.S 跨平台运行是 Kotlin 的战略方向，伴随着 1.1 的发布，我们可以在服务器，台式机，Android 设备和浏览器上运行，但是未来我们将把 Kotlin 编译为本地代码，并使之能够在更多平台（例如 iOS 和嵌入式设备等）上运行。 目前在 JetBrains 内部，有一个非常棒的团队正在开展这个项目，我们期待很快就会出现有趣的东西，不过尚未计划为此专门发布任何版本。</p>
-<h1 id="安装说明"><a href="#安装说明" class="headerlink" title="安装说明"></a>安装说明</h1><p>与以往一样，开发者可以使用<strong>Kotlin 线上编辑器</strong> <a href="http://try.kotlinlang.org/" target="_blank" rel="external">try.kotlinlang.org</a>。  </p>
-<p><strong>Maven/Gradle</strong>：使用<code>1.1.0</code>作为编译器和标准库的版本号(<a href="http://kotlinlang.org/docs/reference/using-gradle.html" target="_blank" rel="external">查看文档</a>)。  </p>
-<p><strong>IntelliJ IDEA</strong>：2017.1 已包含 Kotlin 1.1；旧版本则需要安装 Kotlin 插件或更新到 1.1 版本。  </p>
-<p><strong>Android Studio</strong>：通过<strong><em>Plugin Manager</em></strong>安装或更新插件。  </p>
-<p><strong>Eclipse</strong>：使用<a href="https://marketplace.eclipse.org/content/kotlin-plugin-eclipse" target="_blank" rel="external">Marketplace</a> 安装插件。  </p>
-<p><strong>命令行编译器</strong>可以从<a href="https://github.com/JetBrains/kotlin/releases/tag/v1.1" target="_blank" rel="external">Github 发布页面</a>下载。  </p>
-<p><strong>兼容性</strong>：Kotlin 1.1 语言和标准库<a href="http://kotlinlang.org/docs/reference/compatibility.html" target="_blank" rel="external">向后兼容(modulo bugs)</a> ：如果使用 1.0 版本编译运行，1.1 版本仍然可以运行。为了帮助大型团队有规律的更新，我们在编译器中新增禁用新功能的开关。查看<a href="http://kotlinlang.org/docs/reference/compatibility.html#binary-compatibility-warnings" target="_blank" rel="external">踩坑文档</a>。  </p>
-<p><strong><em>请尽情享受 Kotlin！</em></strong>  </p>
-<p>P.S: 在<a href="https://www.reddit.com/r/programming/comments/5wvpv8/kotlin_11_released_with_javascript_support/" target="_blank" rel="external">Reddit</a>和<a href="https://news.ycombinator.com/item?id=13763483" target="_blank" rel="external">Hacker News</a>上加入讨论吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Kotlin 1.1 今天正式发布了，这让 Kotlin 有能力适用于更多的应用场景，希望大家能够喜欢。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;Kotlin 1.1&quot; class=&quot;alignnone size-full wp-image-4675&quot; src=&quot;https:/
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.1 候选版本来啦</title>
-    <link href="https://kotlinandroid.net/2017/02/17/Kotlin%201.1%20Release%20Candidate%20is%20Here/"/>
-    <id>https://kotlinandroid.net/2017/02/17/Kotlin 1.1 Release Candidate is Here/</id>
-    <published>2017-02-17T05:37:00.000Z</published>
-    <updated>2017-06-23T16:09:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>截至今天，Kotlin 1.1 终于到了候选版本（RC）阶段。这意味着大部分开发工作都已经完成，我们对此结果感到满意，很快就会发布 Kotlin 1.1 正式版。我们已经在内部对此版本进行了大量测试，但现实世界总是比任何测试环境更加多样化，因此我们需要您的帮助。请尝试这个版本，让我们知道您的体验！</p>
-
-<p><img alt="11RC-01" class="alignnone size-full wp-image-4599" height="251" src="https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2017/02/11RC-01.png" width="1300"><br>
-<span id="more-4589"></span></p>
-
-<p>候选版本中唯一的新功能是 <code>takeUnless</code> 函数，它对应 1.1 之前添加的 <a href="https://kotlinlang.org/docs/reference/whatsnew11.html#takeif-and-also" target="_blank" rel="external">takeIf</a>，但判断条件相反。至于错误修复则有很多，完整清单请查看<a href="https://github.com/JetBrains/kotlin/blob/1.1-rc/ChangeLog.md" target="_blank" rel="external">更新日志</a>。除此之外，我们还修复了几个 IDE 中的性能问题，包括长期存在和最近回归才出现的。</p>
-<h2 id="迁移说明"><a href="#迁移说明" class="headerlink" title="迁移说明"></a>迁移说明</h2><p>就像我们之前<a href="https://blog.jetbrains.com/kotlin/2017/01/kotlin-1-1-beta-is-here/" target="_blank" rel="external">提到的</a>，预发布版本生成的所有二进制文件不能在当前的编译器下使用：您现在<strong>需要重新编译</strong>由 1.1-M0x 和 Beta 编译的所有内容。当然，从 1.0.x 开始的所有代码都不需要重新编译。</p>
-<p>在这之前，您可以从 Java 6 开始，以任何版本的 Java 运行 Kotlin 编译器，但这从第一个 1.1.x 更新开始有变化，编译器将仅在 Java 8 或 9 下运行。为您准备迁移，编译器现在会在 Java 6 或 7 下运行时发出警告。请注意，这仅影响构建环境；<strong>编译代码默认情况下仍然与 Java 6 兼容</strong>，我们没有计划删除对它的支持。</p>
-<p>现在不推荐使用 <code>.javaClass</code> 扩展属性。作为替代，请使用 <code>::class.java</code>。IDE 提供了一个 quickfix 来更新写法，单独的修改或者更新整个项目。</p>
-<p>为了减小 JavaScript 标准库的大小，我们已经将 <code>kotlin.dom</code> 和 <code>kotlin.dom.build</code> 包中的大量辅助函数注解为不推荐使用了，然后在将来的更新中删除它们。</p>
-<h2 id="如何尝鲜"><a href="#如何尝鲜" class="headerlink" title="如何尝鲜"></a>如何尝鲜</h2><p><strong>在 Maven/Gradle 中：</strong> 将 <code>http://dl.bintray.com/kotlin/kotlin-eap-1.1</code> 添加为构建脚本和项目的仓库；使用 <code>1.1.0-rc-91</code> 作为编译器和标准库的版本号。</p>
-<p><strong>在 IntelliJ IDEA 中：</strong> 点击菜单 <em>Tools → Kotlin → Configure Kotlin Plugin Updates</em>，然后在 <em>Update channel</em> 的下拉列表中选择 “Early Access Preview 1.1”，接着点击 <em>Check for updates</em>。</p>
-<p><strong>在 Eclipse 中：</strong> 从以下更新站点安装插件<br><code>https://dl.bintray.com/jetbrains/kotlin/eclipse-plugin/0.8.0</code></p>
-<p><strong>The command-line compiler</strong> 可以从 <a href="https://github.com/JetBrains/kotlin/releases/tag/v1.1-rc" target="_blank" rel="external">Github 发布页面</a>下载。<br>最后，让我们开启 Kotlin 之旅吧！<strong><a href="http://try.kotlinlang.org/" target="_blank" rel="external">try.kotlinlang.org</a></strong>。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;截至今天，Kotlin 1.1 终于到了候选版本（RC）阶段。这意味着大部分开发工作都已经完成，我们对此结果感到满意，很快就会发布 Kotlin 1.1 正式版。我们已经在内部对此版本进行了大量测试，但现实世界总是比任何测试环境更加多样化，因此我们需要您的帮助。请尝试这个版
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kotlin 1.1 Beta 2 发布~</title>
-    <link href="https://kotlinandroid.net/2017/02/06/Kotlin%201.1%20Beta%202%20%E5%8F%91%E5%B8%83~/"/>
-    <id>https://kotlinandroid.net/2017/02/06/Kotlin 1.1 Beta 2 发布~/</id>
-    <published>2017-02-06T00:14:15.000Z</published>
-    <updated>2017-06-23T16:08:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="1-协程改包名风波"><a href="#1-协程改包名风波" class="headerlink" title="1 协程改包名风波"></a>1 协程改包名风波</h2><p>说真的，看到这个标题的时候我还挺兴奋，离 release 又近了一步。不过，看了这篇文章的时候，我就觉得也是醉醉的。发生了啥呢？</p>
-<p>原来，协程相关的依赖统统被标记为 experimental 了，以前叫：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">package</span> kotlin.coroutines</div></pre></td></tr></table></figure>
-<p>现在呢？</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">package</span> kotlin.coroutines.experimental</div></pre></td></tr></table></figure>
-<p>这意味着啥？意味着我们在这次更新之后，还得把原来的协程代码的包重新导入一遍，另外，如果你想使用协程，那么你还需要在配置当中呢启用它，例如 gradle 配置需要加入：</p>
-<figure class="highlight gradle"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">kotlin &#123;</div><div class="line">    experimental &#123;</div><div class="line">        coroutines <span class="string">'enable'</span></div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>你在升级所有的依赖的时候，确保它是兼容 1.1.0-beta-38 的，这一点很重要，不然等着报错吧！</p>
-<p>话说，为啥要这么搞呢？按照官方的说法就是，协程这个特性目前已经实现的非常不错了，内置 API 非常少，灵活扩展性也强，不过他们觉得这个东西还有很大的潜力，也不能就这样作为最终版本给大家放出来，而作为实验特性交给大家使用呢，更多地还是希望大家能提提意见啥的。嗯，说实在的，协程这个特性真不是个小特性。</p>
-<h2 id="2-兼容-1-0"><a href="#2-兼容-1-0" class="headerlink" title="2 兼容 1.0"></a>2 兼容 1.0</h2><p>话说，1.1 的编译器终于声称兼容 1.0 的源码了，这表明我们再也不用搞两个 IntelliJ 分别装 1.0 稳定版的插件和 1.1 Beta 版的插件了。</p>
-<p>是的，就算你不用 1.1 的特性，你装 1.1 的插件，用 1.1 的编译器，写 1.0 的代码毫无压力！！</p>
-<p>什么？你问我试了没？当然，我一直用最新的插件，折腾地挺苦的 T T，劝诸君还是装稳定版吧，吃螃蟹要做好心理准备~！</p>
-<h2 id="3-小结"><a href="#3-小结" class="headerlink" title="3 小结"></a>3 小结</h2><p>浏览了一下 1.1Beta 2 的主要特性，其实就是改改包名，修几个小 Bug，大的改动基本没有了。如果大家想要尽早上手 1.1 的特性，那么就从现在开始吧~</p>
-<p><img src="/arts/kotlin扫码关注.png" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;1-协程改包名风波&quot;&gt;&lt;a href=&quot;#1-协程改包名风波&quot; class=&quot;headerlink&quot; title=&quot;1 协程改包名风波&quot;&gt;&lt;/a&gt;1 协程改包名风波&lt;/h2&gt;&lt;p&gt;说真的，看到这个标题的时候我还挺兴奋，离 release 又近了一步。不过，看了这篇
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kotlin 1.0.6</title>
-    <link href="https://kotlinandroid.net/2017/01/02/Kotlin%201.0.6/"/>
-    <id>https://kotlinandroid.net/2017/01/02/Kotlin 1.0.6/</id>
-    <published>2017-01-02T08:22:57.000Z</published>
-    <updated>2017-06-23T16:08:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>我把所有文章和视频都放到了 <a href="https://github.com/enbandari/Kotlin-Tutorials" target="_blank" rel="external">Github</a> 上 ，如果你喜欢，请给个 Star，谢谢~</p>
-</blockquote>
-<p>在上周二，Kotlin 1.0.6 发布啦！这次更新主要是工具更新和bug修复。本文的内容主要来自<a href="https://blog.jetbrains.com/kotlin/" target="_blank" rel="external">官方博客</a>。</p>
-<h2 id="IDE-插件的更新"><a href="#IDE-插件的更新" class="headerlink" title="IDE 插件的更新"></a>IDE 插件的更新</h2><ul>
-<li><ol>
-<li>try-finally 转换为 use()</li>
-</ol>
-</li>
-</ul>
-<p>通常我们在进行 IO 操作的时候，我们并不希望异常影响我们程序的执行，所以我们需要对异常进行捕获，但捕获的话我们也没有必要处理，所以写下来的就是下面的形式：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">try</span>&#123;</div><div class="line">	... <span class="keyword">do</span> something with <span class="string">"reader"</span> ...</div><div class="line">&#125;<span class="keyword">finally</span>&#123;</div><div class="line">	reader.close()</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>但这样写起来是不是非常的不流畅？如果用 use() 的话，简直一气呵成：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">reader.use&#123;</div><div class="line">	reader -&gt; ... <span class="keyword">do</span> something with <span class="string">"reader"</span> ...</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>所以，这次更新 Kotlin 的插件为我们带来了这样的自动转换功能：</p>
-<p><img src="/assets/2017.1.2/try.gif" alt=""></p>
-<ul>
-<li><ol>
-<li>补全具名参数</li>
-</ol>
-</li>
-</ul>
-<p>通常我们在编写代码的时候，函数入参都会按照顺序一个一个传入，不过随着代码量的增加，特别是对于参数较多的函数，一长串的代码看上去会让我们感到非常的头疼。所以，这次更新 Kotlin 还为我们带来了自动补全具名参数的功能。</p>
-<p><img src="/assets/2017.1.2/args.gif" alt=""></p>
-<ul>
-<li><ol>
-<li>删除空构造方法的声明</li>
-</ol>
-</li>
-<li><ol>
-<li>合并声明和赋值</li>
-</ol>
-</li>
-<li><ol>
-<li>inline 函数的问题修复和调试工具的优化</li>
-</ol>
-</li>
-<li><ol>
-<li>提示、KDoc 和 Quick Doc 相关的较多问题的修复</li>
-</ol>
-</li>
-</ul>
-<h2 id="Android-相关更新"><a href="#Android-相关更新" class="headerlink" title="Android 相关更新"></a>Android 相关更新</h2><ul>
-<li>支持 Android Studio 2.3 beta 1 和 Android Gradle Plugin 2.3.0-alpha3及更新的版本</li>
-<li>增加 “Create XML resource” 的提示</li>
-<li>Android Extensions support 这个功能可以让我们很方便的引用 XML 布局的 View，不过这需要我们主动启用 ‘kotlin-android-extensions’ 才行。在过去，即使不启用这个插件，IDE 也会允许我们直接引用 XML 布局的 View，但这并不能正常编译，所以这次更新修复了这个问题：只有启用了这个插件，IDE 才会允许我们引用对应的 View。</li>
-<li>Android Lint 相关的问题修复。</li>
-<li>增加 Suppress Lint 提示。</li>
-</ul>
-<h2 id="Kapt-优化"><a href="#Kapt-优化" class="headerlink" title="Kapt 优化"></a>Kapt 优化</h2><p>尽管还不能完全支持增量编译，相比 1.0.4，这次更新较大的提升了 Kapt 的性能。如果需要启用 Kapt，请在 gradle 当中启动它：<figure class="highlight plain"><figcaption><span>plugin: 'kotlin-kapt'```</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">## All-open 插件</div><div class="line"></div><div class="line">我们知道 Kotlin 的所有类及其成员默认情况下都是 final 的，也就是说你想要继承一个类，就要不断得写各种 open。刚开始看到这一特性的时候，觉得很赞，它对培养良好的编码意识非常有帮助，不过它也在某些情况下给我们带来麻烦，比如在一些大量依赖继承和覆写的 Java 框架的使用中。</div><div class="line"></div><div class="line">这一次 Kotlin 提供了一个妥协的办法，主要某个类被某一个特定注解标注，那么这个类就默认所有成员通通 open，省得一个一个写了。有关 allopen 的讨论，大家可以参考这里 [KEEP](https://github.com/Kotlin/KEEP/pull/40)。</div><div class="line"></div><div class="line">那么 allopen 如何使用呢？</div><div class="line"></div><div class="line">```groovy</div><div class="line">buildscript &#123;</div><div class="line">    dependencies &#123;</div><div class="line">        classpath &quot;org.jetbrains.kotlin:kotlin-allopen:$kotlin_version&quot;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">apply plugin: &quot;kotlin-allopen&quot;</div><div class="line"></div><div class="line">allOpen &#123;</div><div class="line">    annotation(&quot;com.your.Annotation&quot;)</div><div class="line">&#125;</div><div class="line"></div><div class="line">buildscript &#123;</div><div class="line">    dependencies &#123;</div><div class="line">        classpath &quot;org.jetbrains.kotlin:kotlin-allopen:$kotlin_version&quot;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">apply plugin: &quot;kotlin-allopen&quot;</div><div class="line"></div><div class="line">allOpen &#123;</div><div class="line">    annotation(&quot;com.your.Annotation&quot;)</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<p>那么所有被 com.your.Annotation 这个注解标注的类成员都会默认 open。除此之外，它还可以作为元注解使用：</p>
-<figure class="highlight groovy"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="meta">@com</span>.your.Annotation</div><div class="line">annotation <span class="class"><span class="keyword">class</span> <span class="title">MyFrameworkAnnotation</span></span></div><div class="line"></div><div class="line">@<span class="title">MyFrameworkAnnotation</span></div><div class="line"><span class="title">class</span> <span class="title">MyClass</span> // <span class="title">will</span> <span class="title">be</span> <span class="title">all</span>-<span class="title">open</span></div></pre></td></tr></table></figure>
-<p>Kotlin 还提供了 “kotlin-spring” 插件，其中包含了 spring 相关的所有注解，这样免得我们一个一个在 allopen 的配置中声明了。</p>
-<h2 id="No-arg-插件"><a href="#No-arg-插件" class="headerlink" title="No-arg 插件"></a>No-arg 插件</h2><p>如果大家看过我的视频，一定对我之前提到的“毁三观”的实例化有印象吧，附上<a href="https://github.com/enbandari/Kotlin-Tutorials" target="_blank" rel="external">视频连接：12 Json数据引发的血案</a>，其中我们提到对于没有无参构造方法的 Kotlin 类，Gson 反序列化它们的时候，不知道如何实例化它们，只好用到了 <figure class="highlight plain"><figcaption><span>这个类。听说 Java 9 要移除这个略显黑科技的类，如果是这样，Gson 是不是会被削弱呢？Java 的心我们还是不操了，从 Kotlin 1.0.6 开始，这个问题将得到一个比较好的解决。</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">```groovy</div><div class="line">buildscript &#123;</div><div class="line">    dependencies &#123;</div><div class="line">        classpath &quot;org.jetbrains.kotlin:kotlin-noarg:$kotlin_version&quot;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">// Or &quot;kotlin-jpa&quot; for the Java Persistence API support</div><div class="line">apply plugin: &quot;kotlin-noarg&quot;</div><div class="line"></div><div class="line">noArg &#123;</div><div class="line">    annotation(&quot;com.your.Annotation&quot;)</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<p>类似于 allopen 的使用方法，如果某个类需要无参默认构造方法，你只需要用上面声明好的注解 com.your.Annotation 标注即可。当然，这个生成的默认构造方法只能通过反射调用。</p>
-<h2 id="如何更新"><a href="#如何更新" class="headerlink" title="如何更新"></a>如何更新</h2><p>我一直觉得虽然我们出生就被选择了 Hard 模式，但我们没啥感觉啊。可是最近一直访问国外的网站，感觉真的好困难，宽带换成了电信 100M，下载 Kotlin 的插件仍然跟小水管一样，真也是没谁了。为了方便大家我把我下载的几个版本的插件放到<a href="https://pan.baidu.com/s/1pLbb2fp" target="_blank" rel="external">百度网盘</a>，供大家使用，请大家点击阅读原文获取下载地址。</p>
-<h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>目前 Kotlin 1.0.x 的版本更新更侧重于稳定性和易用性，因此语言上的特性基本不会更新，主要集中于 IDE 插件和编译器插件。如果大家期待语言特性的更新，那我们就去关注一下 1.1 吧！</p>
-<p><img src="/arts/kotlin扫码关注.png" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;我把所有文章和视频都放到了 &lt;a href=&quot;https://github.com/enbandari/Kotlin-Tutorials&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github&lt;/a&gt; 上 ，如果你喜欢，请给个
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[译]Kotlin 1.0 Beta 3 发布啦!</title>
-    <link href="https://kotlinandroid.net/2015/12/07/Kotlin%201.0%20Beta%203%20is%20Out!/"/>
-    <id>https://kotlinandroid.net/2015/12/07/Kotlin 1.0 Beta 3 is Out!/</id>
-    <published>2015-12-07T07:45:00.000Z</published>
-    <updated>2017-06-23T16:08:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我们很高兴发布了 Kotlin 1.0 Beta 的另一个更新。我们正在努力完善标准库，抛弃了过时已久的设计结构，同时修复了 bugs，改进性能和为下一个版本作准备。<br>完整的更新历史在 <a href="https://youtrack.jetbrains.com/issues/KT?q=%23Major+%23Critical+%23Resolved+-Obsolete+-%7BEclipse+Plugin%7D+resolved+date%3A+2015-11-16+..+2015-11-30" target="_blank" rel="external">这里</a> 。</p>
-<p>最新的 issue 在 <a href="https://youtrack.jetbrains.com/issues/KT?q=%23Major+%23Critical+%23Resolved+-Obsolete+-%7BEclipse+Plugin%7D+resolved+date%3A+2015-11-16+..+2015-11-30" target="_blank" rel="external">这里</a> 。</p>
-<h2 id="Library-变更"><a href="#Library-变更" class="headerlink" title="Library 变更"></a>Library 变更</h2><p>我们努力在 1.0 版本到来之前让标准库变得更加完美。这意味着进行一些尝试，所以会有新的部分被弃用，有新的函数被添加。我们计划在 1.0 版本（或 RC）中对标准库进行一次最后的清理：删除所有已过时和其他遗留的东西。<br>这里我们只关心一个需要注意的<a href="https://github.com/JetBrains/kotlin/releases/tag/build-1.0.0-beta-3595" target="_blank" rel="external">变化</a>：现在<code>contains()</code>和其他类似的扩展方法接受集合元素的父类型。</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// strs: Collection&lt;String&gt;</span></div><div class="line"><span class="comment">// ns: String?</span></div><div class="line"><span class="comment">// cs: CharSequence</span></div><div class="line"><span class="comment">// i: Int</span></div><div class="line">strs.contains(ns) <span class="comment">// accepted now</span></div><div class="line">strs.contains(cs) <span class="comment">// accepted now</span></div><div class="line">str.contains(i) <span class="comment">// ERROR (in fact, a deprecation warning, but will be an error soon)</span></div></pre></td></tr></table></figure>
-<p>我们发现以前建议的<code>containsRaw</code>方法比较低效，使用<code>contains()</code>更加合适，同时保证了兼容性。请注意，集合接口本身是完整的，所有这些都是通过扩展功能完成的。请使用<em>Code Cleanup</em>来迁移代码。</p>
-<h2 id="语言变化"><a href="#语言变化" class="headerlink" title="语言变化"></a>语言变化</h2><p>一些需要注意的语言变化，完整列表在<a href="https://github.com/JetBrains/kotlin/releases/tag/build-1.0.0-beta-3595" target="_blank" rel="external">这里</a> 。</p>
-<p>许多我们以前不推荐的实现现在会报错。请使用<em>Code Cleanup</em>进行迁移。</p>
-<h3 id="When-表达式"><a href="#When-表达式" class="headerlink" title="When 表达式"></a>When 表达式</h3><p>这种代码已被证明是有问题的，所以我们决定弃用它：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">when</span> &#123;</div><div class="line">    foo.isValid(), foo.isReady() -&gt; process(foo)</div><div class="line">    ...</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>许多人倾向于认为条件 <code>foo.isValid(), foo.isReady()</code> 表示 <code>foo.isValid() == true and foo.isReady() == true</code>，而实际上逗号是指 <strong>or</strong>。解决方法很简单：只需使用 <strong>||</strong>:</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">when</span> &#123;</div><div class="line">    foo.isValid() || foo.isReady() -&gt; process(foo)</div><div class="line">    ...</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p><em>Code Cleanup</em>会自动迁移。</p>
-<h3 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h3><p>一个 bug 已被修复，现在我们可以在注解的参数中使用默认值：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">annotation</span> <span class="class"><span class="keyword">class</span> <span class="title">Entry</span></span>(<span class="keyword">val</span> value: String)</div><div class="line"> </div><div class="line"><span class="keyword">annotation</span> <span class="class"><span class="keyword">class</span> <span class="title">Example</span></span>(</div><div class="line">        <span class="keyword">val</span> entries: Array&lt;Entry&gt; = arrayOf(Entry(<span class="string">"a"</span>), Entry(<span class="string">"b"</span>)) <span class="comment">// OK now</span></div><div class="line">)</div></pre></td></tr></table></figure>
-<h3 id="枚举值"><a href="#枚举值" class="headerlink" title="枚举值()"></a>枚举值()</h3><p>最近我们将传统的 Java 的<code>Enum.values()</code>更改为一个属性：<code>Enum.values</code>，但现在我们将回滚这个更改，因为有一个没有注意到的角落：枚举中的常量可能被命名为<code>values</code>，然后便没有办法访问其中的任何一个。我们考虑了不同的方案，最后决定将<code>values</code>改回函数是最干净的。<br>所以，现在不推荐使用<code>values</code>属性，也不推荐使用<code>values()</code>函数。</p>
-<h3 id="可见性和作用域"><a href="#可见性和作用域" class="headerlink" title="可见性和作用域"></a>可见性和作用域</h3><p>我们正在清理和修正小问题的可见性和作用域</p>
-<ul>
-<li>companion objects 中允许 protected 成员</li>
-<li>子类调用非 @JvmStatic 的 protected 对象将被标记为错误（不支持）</li>
-<li>对于 open 属性，私有 setters 现在已被标记为过时</li>
-<li>local sealed class 已弃用（从不可用）</li>
-<li>重写的 setter 不能降低可见性</li>
-<li>枚举类中不再允许存在内部类</li>
-<li>lambdas / object literals / local 函数中禁止使用未初始化的变量</li>
-</ul>
-<h2 id="Android-扩展"><a href="#Android-扩展" class="headerlink" title="Android 扩展"></a>Android 扩展</h2><p>我们合并了 IntelliJ IDEA 的主要 Kotlin 插件和 Android 的<em>Kotlin</em>扩展插件。后者现在已经过时了，因为它的功能可以从 Kotlin 插件获取。<br>此外，我们还添加了对 Android <strong>productFlavors</strong>的支持：现在，来自不同 flavors 的属性可以在不同的包中使用。<br>例如，我们可以在<code>build.gradle</code>文件中存在两种 flavors：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">productFlavors &#123;</div><div class="line">    free &#123;</div><div class="line">        versionName <span class="string">"1.0-free"</span></div><div class="line">    &#125;</div><div class="line">    pro &#123;</div><div class="line">        versionName <span class="string">"1.0-pro"</span></div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>现在，我们不仅可以在<strong>main source set</strong>中的布局使用合成属性，还可以在 flavor 布局使用合成属性：</p>
-<figure class="highlight kotlin"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// Import synthetic properties for the `activity_free.xml` layout in the `free` flavor</span></div><div class="line"><span class="keyword">import</span> kotlinx.android.synthetic.free.activity_free.versionMarker</div><div class="line"> </div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">FreeActivity</span> : <span class="type">AppCompatActivity</span></span>() &#123;</div><div class="line">    <span class="keyword">override</span> <span class="function"><span class="keyword">fun</span> <span class="title">onCreate</span><span class="params">(savedInstanceState: <span class="type">Bundle</span>?)</span></span> &#123;</div><div class="line">        ...</div><div class="line"> </div><div class="line">        setContentView(R.layout.activity_free)</div><div class="line"> </div><div class="line">        ...</div><div class="line"> </div><div class="line">        versionMarker.text = <span class="string">"Free version"</span></div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>请注意，<strong>main source set</strong>的所有布局现在位于<code>kotlinx.android.synthetic.main</code>包之下，旧的包命名约定已被弃用。</p>
-<h2 id="IDE-中的新功能"><a href="#IDE-中的新功能" class="headerlink" title="IDE 中的新功能"></a>IDE 中的新功能</h2><ul>
-<li><p>Android Extensions 插件已被合并到 Kotlin 插件中，不再需要单独安装<br><img src="https://i2.wp.com/blog.jetbrains.com/kotlin/files/2015/12/Screen-Shot-2015-12-02-at-19.54.03.png?w=640&amp;ssl=1" alt="Screen Shot 2015-12-02 at 19.54.03" width="640" height="437"></p>
-</li>
-<li><p>创建新的 Gradle 工程时，添加了 Kotlin 的选项以供选择：</p>
-</li>
-<li><p>调试器：stacktrace 导航功能现在支持跟踪内联函数的堆栈帧。同时对内联函数的步进调试功能进行了一系列的改进。</p>
-</li>
-<li><p>添加了三个快速初始化新属性的<em>Quick Fixes</em>：<br><img src="https://i0.wp.com/blog.jetbrains.com/kotlin/files/2015/12/init.png?w=640" onmouseover="this.src='https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2015/12/init.gif';" onmouseout="this.src='https://i0.wp.com/blog.jetbrains.com/kotlin/files/2015/12/init.png?w=640';" width="640" height="172"></p>
-</li>
-<li><p><strong>Introduce Variable</strong>（Ctrl + Alt + V / Cmd + Alt + V）现在支持<strong>结构声明(multi-declarations)</strong>：<br><img src="https://i0.wp.com/blog.jetbrains.com/kotlin/files/2015/12/destructuring.png?w=640" onmouseover="this.src='https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2015/12/destructuring.gif';" onmouseout="this.src='https://i0.wp.com/blog.jetbrains.com/kotlin/files/2015/12/destructuring.png?w=640';" width="640" height="172"></p>
-</li>
-<li><p>同时<strong>Introduce Variable</strong>还能使用于 lambda 或匿名函数中：<br><img src="https://i1.wp.com/blog.jetbrains.com/kotlin/files/2015/12/container.png?w=640" onmouseover="this.src='https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2015/12/container.gif';" onmouseout="this.src='https://i1.wp.com/blog.jetbrains.com/kotlin/files/2015/12/container.png?w=640';" width="640" height="197"></p>
-</li>
-<li><p>Beta 3 开始支持在字符串模板中使用 Introduce Variable/Parameter/Property/Function<br><img src="https://i0.wp.com/blog.jetbrains.com/kotlin/files/2015/12/templates.png?w=640" onmouseover="this.src='https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2015/12/templates.gif';" onmouseout="this.src='https://i0.wp.com/blog.jetbrains.com/kotlin/files/2015/12/templates.png?w=640';" width="640" height="197"></p>
-</li>
-<li><p>最后，添加了一个实验功能 —— 在 IDE 中对 Kotlin 脚本文件（.kts）做了基本的支持</p>
-</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我们很高兴发布了 Kotlin 1.0 Beta 的另一个更新。我们正在努力完善标准库，抛弃了过时已久的设计结构，同时修复了 bugs，改进性能和为下一个版本作准备。&lt;br&gt;完整的更新历史在 &lt;a href=&quot;https://youtrack.jetbrains.com/i
-    
-    </summary>
-    
-      <category term="官方动态" scheme="https://kotlinandroid.net/categories/%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81/"/>
-    
-    
-      <category term="Kotlin" scheme="https://kotlinandroid.net/tags/Kotlin/"/>
-    
-  </entry>
-  
 </feed>
