@@ -299,31 +299,6 @@
                     this.setImgRect(this.calcRect());
                 }
 
-                // this.updateSize = function () {
-                //     var sw = sh = 1;
-                //     if (docW !== body.clientWidth) {
-                //         sw = body.clientWidth / docW;
-                //     }
-
-                //     if (docH !== body.clientHeight) {
-                //         sh = body.clientHeight / docH;
-                //     }
-
-                //     docW = body.clientWidth;
-                //     docH = body.clientHeight;
-                //     var rect = this.$img.getBoundingClientRect();
-                //     var w = rect.width * sw;
-                //     var h = rect.height * sh;
-
-                //     this.$img.classList.remove('zoom-in');
-                //     this.setImgRect({
-                //         w: w,
-                //         h: h,
-                //         t: this.$img.offsetTop - (h - rect.height) / 2,
-                //         l: this.$img.offsetLeft - (w - rect.width) / 2
-                //     })
-                // }
-
                 this.addTitle = function () {
                     if (!this.title) {
                         return;
