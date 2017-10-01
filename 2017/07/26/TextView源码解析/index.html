@@ -21,6 +21,7 @@
 
 
 
+
     </script>
     <!-- End Baidu Push -->
 
@@ -43,24 +44,24 @@
 
     <meta name="keywords" content="Android">
     <meta name="description"
-          content="项目地址： https://github.com/itgoyo/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TextView源码解析1.简介 TextView作为Android系统上显示和排版文字以及提供对文字的增删改查、图文混排等功能的控件，内部是相对比较复杂的。这么一个复杂的控件自然需要依赖于一些其他的辅助类，例如：">
+          content="项目地址： https://github.com/qyddai/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TextView源码解析1.简介 TextView作为Android系统上显示和排版文字以及提供对文字的增删改查、图文混排等功能的控件，内部是相对比较复杂的。这么一个复杂的控件自然需要依赖于一些其他的辅助类，例如：">
     <meta name="keywords" content="Android">
     <meta property="og:type" content="article">
     <meta property="og:title" content="TextView源码解析">
     <meta property="og:url" content="https://likeqy.com/2017/07/26/TextView源码解析/index.html">
     <meta property="og:site_name" content="likeqy.com">
     <meta property="og:description"
-          content="项目地址： https://github.com/itgoyo/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TextView源码解析1.简介 TextView作为Android系统上显示和排版文字以及提供对文字的增删改查、图文混排等功能的控件，内部是相对比较复杂的。这么一个复杂的控件自然需要依赖于一些其他的辅助类，例如：">
+          content="项目地址： https://github.com/qyddai/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TextView源码解析1.简介 TextView作为Android系统上显示和排版文字以及提供对文字的增删改查、图文混排等功能的控件，内部是相对比较复杂的。这么一个复杂的控件自然需要依赖于一些其他的辅助类，例如：">
     <meta property="og:image"
-          content="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&label=Star">
+          content="https://img.shields.io/github/stars/qyddai/AndroidSource-Analysis.svg?style=social&label=Star">
     <meta property="og:image"
           content="https://raw.githubusercontent.com/7heaven/AndroidSdkSourceAnalysis/master/article/images/fontmetrics.gif">
-    <meta property="og:image" content="https://likeqy.com/arts/kotlin_group.jpg">
+    <meta property="og:image" content="https://likeqy.com/arts/likeqy_group.png">
     <meta property="og:updated_time" content="2017-07-26T12:07:37.007Z">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="TextView源码解析">
     <meta name="twitter:description"
-          content="项目地址： https://github.com/itgoyo/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TextView源码解析1.简介 TextView作为Android系统上显示和排版文字以及提供对文字的增删改查、图文混排等功能的控件，内部是相对比较复杂的。这么一个复杂的控件自然需要依赖于一些其他的辅助类，例如：">
+          content="项目地址： https://github.com/qyddai/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TextView源码解析1.简介 TextView作为Android系统上显示和排版文字以及提供对文字的增删改查、图文混排等功能的控件，内部是相对比较复杂的。这么一个复杂的控件自然需要依赖于一些其他的辅助类，例如：">
     <meta name="twitter:image"
           content="https://img.shields.io/github/stars/qyddai/AndroidSource-Analysis.svg?style=social&label=Star">
 
@@ -78,6 +79,7 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
+
 
 
 
@@ -299,10 +301,10 @@ var _hmt = _hmt || [];
                 </div>
                 <div class="post-content" id="post-content" itemprop="postContent">
                     <p>
-                        <img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star"
+                        <img src="https://img.shields.io/github/stars/qyddai/AndroidSource-Analysis.svg?style=social&amp;label=Star"
                              alt=""></p>
-                    <p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis"
-                                target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a>
+                    <p>本文为转载地址： <a href="https://github.com/qyddai/AndroidSource-Analysis"
+                                   target="_blank" rel="external">https://github.com/qyddai/AndroidSource-Analysis</a>
                     </p>
                     <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
                     <h1 id="TextView源码解析"><a href="#TextView源码解析" class="headerlink"
@@ -2069,8 +2071,13 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
                     <p>
                         一个展示文本+文本编辑器功能的控件需要做的事情很多，要对文本进行排版、处理不同的段落风格、处理段落内的不同emoji和span、进行折行计算，然后还需要做文本编辑、文本选择等。而TextView把这些事情明确分工给不同的类。这样不仅仅把复杂问题拆分成了一个个简单的小功能，同时也大大增加了可扩展性。</p>
                     <hr>
-                    <p>如果你有兴趣加入我们，请直接关注公众号 Kotlinandroid ，或者加 QQ 群：465280882</p>
-                    <p><img src="/arts/kotlin_group.jpg" alt=""></p>
+                    <p style="color:#159957">
+                        发现文章，代码有误、对内容有疑问，请在<a href="https://github.com/qydq/issues/issues"
+                                              class="post-more waves-effect waves-button">Issue</a>上面提单，技术讨论可以给我Email，欢迎关注左边<a
+                            href="http://open.weixin.qq.com/qr/code/?username=liketip">微信公众号</a>或加<a
+                            href="https://github.com/qydq/qydq.github.io/blob/master/arts/e_group.png?raw=true">QQ群</a>获取更多信息。
+                        <br>
+                    <p><img src="/arts/likeqy_group.png" alt=""></p>
 
                 </div>
 
@@ -2085,8 +2092,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
                     </div>
                     <footer>
                         <a href="https://likeqy.com">
-                            <img src="/img/kotlin_250x250.jpg" alt="itgoyo">
-                            itgoyo
+                            <img src="/img/qydq_an_alipay.png" alt="晴雨【qy】">
+                            晴雨【qy】
                         </a>
                     </footer>
                 </blockquote>
@@ -2101,8 +2108,11 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
                 <div class="post-footer">
 
                     <ul class="article-tag-list">
-                        <li class="article-tag-list-item"><a class="article-tag-list-link"
-                                                             href="/tags/Android/">Android</a></li>
+                        <li class="article-tag-list-item">
+                            <a class="article-tag-list-link" href="/tags/Android/">Android</a>
+                        </li>
+                        <li class="article-tag-list-item">
+                            <a class="article-tag-list-link" href="/tags/转载/">转载</a>
                     </ul>
 
 
@@ -2167,33 +2177,15 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
             </div>
 
 
-            <nav class="post-nav flex-row flex-justify-between">
 
-                <div class="waves-block waves-effect prev">
-                    <a href="/2017/07/26/ViewDragHelper源码解析/" id="post-prev" class="post-nav-link">
-                        <div class="tips"><i class="icon icon-angle-left icon-lg icon-pr"></i> Prev
-                        </div>
-                        <h4 class="title">ViewDragHelper源码解析</h4>
-                    </a>
-                </div>
-
-
-                <div class="waves-block waves-effect next">
-                    <a href="/2017/07/26/TabLayout源码解析/" id="post-next" class="post-nav-link">
-                        <div class="tips">Next <i class="icon icon-angle-right icon-lg icon-pl"></i>
-                        </div>
-                        <h4 class="title">TabLayout源码解析</h4>
-                    </a>
-                </div>
-
-            </nav>
 
 
             <section class="comments" id="comments">
                 <div id="disqus_thread"></div>
                 <script>
-    var disqus_shortname = 'itgoyo';
+    var disqus_shortname = 'qyddai';
     lazyScripts.push('//' + disqus_shortname + '.disqus.com/embed.js')
+
 
 
 
@@ -2217,13 +2209,13 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
             <div class="reward-content">
 
                 <div class="reward-code">
-                    <img id="rewardCode" src="/assets/img/wechat.jpg" alt="打赏二维码">
+                    <img id="rewardCode" src="/img/qydq_an_alipay.png" alt="打赏二维码">
                 </div>
 
                 <label class="reward-toggle">
                     <input id="rewardToggle" type="checkbox" class="reward-toggle-check"
-                           data-wechat="/assets/img/wechat.jpg"
-                           data-alipay="/assets/img/alipay.jpg">
+                           data-wechat="/img/wechart_pay.png"
+                           data-alipay="/img/alipay.png">
                     <div class="reward-toggle-ctrol">
                         <span class="reward-toggle-item wechat">微信</span>
                         <span class="reward-toggle-label"></span>
@@ -2252,15 +2244,19 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 
 
             <p>
-                <span>sunshuntao &copy; 2017</span>  &nbsp&nbsp&nbsp 作者Github地址 欢迎关注 <a href="https://github.com/qydq" target="_blank">晴雨【qy】</a>
-                <a href="/atom.xml" target="_blank" class="rss" title="rss"><i class="icon icon-lg icon-rss"></i></a>
+                <span>sunshuntao &copy; 2017</span> &nbsp&nbsp&nbsp 作者Github地址 欢迎关注 <a
+                    href="https://github.com/qydq" target="_blank">晴雨【qy】</a>
+                <a href="/atom.xml" target="_blank" class="rss" title="rss"><i
+                        class="icon icon-lg icon-rss"></i></a>
             </p>
             <p>
                 感谢阿里云提供<a href="https://www.aliyun.com/"
                           target="_blank">虚拟主机</a>
             </p>
             <p>
-                <span>Power by <a href="http://hexo.io/" target="_blank">Hexo</a> Theme <a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank">indigo</a></span>
+                <span>Power by <a href="http://hexo.io/" target="_blank">Hexo</a> Theme <a
+                        href="https://github.com/yscoder/hexo-theme-indigo"
+                        target="_blank">indigo</a></span>
             </p>
         </div>
     </footer>
@@ -2332,6 +2328,7 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: true };
 
 
 lazyScripts.push('//s95.cnzz.com/z_stat.php?id=1261686164&web_id=1261686164')
+
 
 
 
