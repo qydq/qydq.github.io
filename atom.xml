@@ -3107,8 +3107,8 @@
     <published>2017-07-26T12:09:45.000Z</published>
     <updated>2017-07-26T14:05:15.410Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h2 id="你真的了解AsyncTask"><a href="#你真的了解AsyncTask" class="headerlink" title="你真的了解AsyncTask?"></a>你真的了解AsyncTask?</h2><p>虽说现在做网络请求有了Volley全家桶和OkHttp这样好用的库，但是在处理其他后台任务以及与UI交互上，还是需要用到AsyncTask。但是你真的了解AsyncTask吗？</p>
 <p>AsyncTask的实现几经修改，因此在不同版本的Android系统上表现各异；我相信，任何一个用户量上千万的产品绝对不会在代码里面使用系统原生的AsynTask，因为它蛋疼的兼容性以及极高的崩溃率实在让人不敢恭维。本文将带你了解AsyncTask背后的原理，并给出一个久经考验的AsyncTask修改版。</p>
@@ -3186,7 +3186,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3205,8 +3205,8 @@
     <published>2017-07-26T12:08:18.000Z</published>
     <updated>2017-07-26T12:08:39.221Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h2 id="ViewDragHelper源码解析"><a href="#ViewDragHelper源码解析" class="headerlink" title="ViewDragHelper源码解析"></a>ViewDragHelper源码解析</h2><h3 id="1-简介"><a href="#1-简介" class="headerlink" title="1. 简介"></a>1. 简介</h3><p>我们了解了<code>ViewDragHelper</code>是可以帮助我们处理各种拖拽事件的类.使用好<code>ViewDragHelper</code>能帮助我们做出各种酷炫的交互,今天我们就来分析一下<code>ViewDragHelper</code>的使用与实现</p>
 <h3 id="2-使用方法"><a href="#2-使用方法" class="headerlink" title="2. 使用方法"></a>2. 使用方法</h3><p>我们这里就以<a href="http://blog.csdn.net/lmj623565791/article/details/46858663" target="_blank" rel="external">翔总的这篇文章</a>中的例子来介绍一下<code>ViewDragHelper</code>的使用.另外,本文中的demo可以在<a href="https://github.com/Skykai521/ViewDragHelperDemo" target="_blank" rel="external">这里找到</a></p>
@@ -3268,7 +3268,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3287,8 +3287,8 @@
     <published>2017-07-26T12:07:19.000Z</published>
     <updated>2017-07-26T12:07:37.007Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h1 id="TextView源码解析"><a href="#TextView源码解析" class="headerlink" title="TextView源码解析"></a>TextView源码解析</h1><h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1.简介"></a>1.简介</h2><blockquote>
 <p>TextView作为Android系统上显示和排版文字以及提供对文字的增删改查、图文混排等功能的控件，内部是相对比较复杂的。这么一个复杂的控件自然需要依赖于一些其他的辅助类，例如：Layout以及Layout的相关子类、Span相关的类、MovementMethod接口、TransformationMethod接口等。这篇文章主要介绍TextView的结构和内部处理文字的流程以及TextView相关的辅助类在TextView处理文字过程中的作用。</p>
@@ -3350,7 +3350,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3369,8 +3369,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T12:06:13.000Z</published>
     <updated>2017-07-26T12:06:32.545Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h1 id="TabLayout-源码解析"><a href="#TabLayout-源码解析" class="headerlink" title="TabLayout 源码解析"></a>TabLayout 源码解析</h1><h2 id="1-功能介绍"><a href="#1-功能介绍" class="headerlink" title="1. 功能介绍"></a>1. 功能介绍</h2><h3 id="1-1-TabLayout"><a href="#1-1-TabLayout" class="headerlink" title="1.1 TabLayout"></a>1.1 TabLayout</h3><p>Tabs跟随Actionbar在Android 3.0进入大家的视线，是一个很经典的设计。它也是Material Design 规范中提及的<code>Component</code>之一。Tabs or Bottom navigation？相信不少Android开发者与产品都撕过，就连微信在其中也有过抉择。Google在Google+以及Google Photo中相继采用Bottom navigation的设计把剧情推到向高潮，一度轰动整个社区。Google继而在Material Design 规范加入了Bottom navigation，表明了态度，也给这起争论画上了圆满的句号。</p>
 <p>在 support desgin lib 发布前，大家基本都采用<a href="https://github.com/astuetz/PagerSlidingTabStrip" target="_blank" rel="external">PagerSlidingTabStrip</a>来实现tab效果。其实<code>TabLayout</code>在实现上和<code>PagerSlidingTabStrip</code>十分相似，今天我们来分析<code>TabLayout</code>。</p>
@@ -3439,7 +3439,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3458,8 +3458,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T12:04:43.000Z</published>
     <updated>2017-07-26T12:05:30.578Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><a href="http://developer.android.com/intl/zh-cn/reference/android/support/v4/widget/SwipeRefreshLayout.html" target="_blank" rel="external">官方文档</a></p>
 <p><code>SwipeRefreshLayout</code> 是一个下拉刷新控件，几乎可以包裹一个任何可以滚动的内容（ListView GridView ScrollView RecyclerView），可以自动识别垂直滚动手势。使用起来非常方便。</p>
@@ -3527,7 +3527,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3546,8 +3546,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:59:27.000Z</published>
     <updated>2017-07-26T12:03:12.475Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h1 id="SearchView源码解析"><a href="#SearchView源码解析" class="headerlink" title="SearchView源码解析"></a>SearchView源码解析</h1><p>SearchView是一个搜索框控件，样式也挺好看的。这次解析主要围绕<code>android.support.v7.widget</code>包下的SearchView（API &gt;= 7）,<code>android.widget.SearchView</code>支持API &gt;= 11，<br>另外有个<code>android.support.v4.widget.SearchViewCompat</code></p>
 <p><img src="https://raw.githubusercontent.com/nukc/SearchViewAnalysis/master/art/searchview.mov.gif"></p>
@@ -3620,7 +3620,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3639,8 +3639,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:58:31.000Z</published>
     <updated>2017-07-26T11:58:54.457Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <blockquote>
 <p>本文分析版本: <strong>Android API 22</strong></p>
@@ -3694,7 +3694,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3713,8 +3713,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:57:39.000Z</published>
     <updated>2017-07-26T11:58:00.664Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1. 简介"></a>1. 简介</h2><blockquote>
 <p>LRU 是 Least Recently Used 最近最少使用算法。</p>
@@ -3820,7 +3820,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3839,8 +3839,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:55:14.000Z</published>
     <updated>2017-07-26T11:57:13.408Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>FloatingActionButton（下文以fab代替）是android support design组件库中提供的一个视图控件，是material design设计中fab的官方实现。</p>
 <p>此控件的官方介绍如下：</p>
@@ -3947,7 +3947,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -3966,8 +3966,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:53:52.000Z</published>
     <updated>2017-07-26T11:54:43.516Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h1 id="CoordinatorLayout-源码分析"><a href="#CoordinatorLayout-源码分析" class="headerlink" title="CoordinatorLayout 源码分析"></a>CoordinatorLayout 源码分析</h1><p><code>CoordinatorLayout</code>有一些很有意思的特性，设置anchor、NestedScroll配合Toolbar/TabLayout的显隐or伸缩、Fab的移动等。今天咱就来一探究竟！</p>
 <h2 id="1-从LayoutParam开始"><a href="#1-从LayoutParam开始" class="headerlink" title="1. 从LayoutParam开始"></a>1. 从LayoutParam开始</h2><p> <code>CoordinatorLayout.LayoutParam</code>中有一些不太一样的属性和元素，在此先进行介绍。</p>
@@ -4092,7 +4092,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -4111,8 +4111,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:52:49.000Z</published>
     <updated>2017-07-26T11:53:12.246Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <p>CompoundButton 是一个有两种状态（选中和未选中 / checkd unchecked）的Button。当你按下（pressed）或者点击（clicked），它的状态会自动改变。</p>
 <h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ul>
@@ -4155,7 +4155,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -4174,8 +4174,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:46:44.000Z</published>
     <updated>2017-07-26T11:52:07.551Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h1 id="bindService-源码分析-【进行中】"><a href="#bindService-源码分析-【进行中】" class="headerlink" title="bindService 源码分析 【进行中】"></a>bindService 源码分析 【进行中】</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>客户端通过 ContextWrapper.bindService() 方法来绑定服务，本地对 bindService 的过程进行源码分析。</p>
 <p><strong>整体时序图</strong></p>
@@ -4222,7 +4222,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -4241,8 +4241,8 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
     <published>2017-07-26T11:44:18.000Z</published>
     <updated>2017-07-26T11:45:24.437Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <p>本文是基于 <a href="https://github.com/xdtianyu/android-6.0.0_r1" target="_blank" rel="external">Android 6.0.0</a> 和 <a href="https://github.com/xdtianyu/android-msm-hammerhead-3.4-marshmallow" target="_blank" rel="external">kernel 3.4</a> 源码 及 Android SDK 23 展开的</p>
 <h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1. 简介"></a>1. 简介</h2><p>Binder 是一种 Android 进程间通信机制，提供远程过程调用(Remote Procedure Call)功能。我们最直接的使用是调用 <code>Context.getSystemService()</code> 来获取系统服务，或直接使用 <code>AIDL</code> 来实现多个程序(APP)间数据交互。</p>
@@ -4459,7 +4459,7 @@ inflater.inflate(R.layout.view, root, true);
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -4478,8 +4478,8 @@ inflater.inflate(R.layout.view, root, true);
     <published>2017-07-26T11:36:58.000Z</published>
     <updated>2017-07-26T11:42:43.373Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
-<p>项目地址： <a href="https://github.com/itgoyo/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/itgoyo/AndroidSource-Analysis</a></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;label=Star" alt=""></p>
+<p>项目地址： <a href="https://github.com/likeqy/AndroidSource-Analysis" target="_blank" rel="external">https://github.com/likeqy/AndroidSource-Analysis</a></p>
 <p>简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。</p>
 <h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1. 简介"></a>1. 简介</h2><p>AsyncTask是android提供的一种异步消息处理的解决方案，能简化我们在子线程中更新UI控件，使用AsyncTask你将看不到任何关于操作线程的代码</p>
 <h2 id="2-版本差别"><a href="#2-版本差别" class="headerlink" title="2. 版本差别"></a>2. 版本差别</h2><p>2.1 线程池配置</p>
@@ -4598,7 +4598,7 @@ inflater.inflate(R.layout.view, root, true);
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/AndroidSource-Analysis.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;项目地址： &lt;a href
     
     </summary>
@@ -4617,7 +4617,7 @@ inflater.inflate(R.layout.view, root, true);
     <published>2017-07-25T13:30:45.000Z</published>
     <updated>2017-07-26T11:23:12.997Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/itgoyo/Android-Studio-Plugins.svg?style=social&amp;label=Star" alt=""></p>
+    <content type="html"><![CDATA[<p><img src="https://img.shields.io/github/stars/likeqy/Android-Studio-Plugins.svg?style=social&amp;label=Star" alt=""></p>
 <p>#1.<a href="http://plugins.jetbrains.com/plugin/7654?pr=androidstudio" target="_blank" rel="external">GsonFormat</a><br>快速将json字符串转换成一个Java Bean，免去我们根据json字符串手写对应Java Bean的过程。</p>
 <p><img src="http://plugins.jetbrains.com/files/7654/screenshot_15729.png" alt=""></p>
 <p>使用方法：快捷键Alt+S也可以使用Alt+Insert选择GsonFormat</p>
@@ -4753,7 +4753,7 @@ inflater.inflate(R.layout.view, root, true);
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/itgoyo/Android-Studio-Plugins.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.shields.io/github/stars/likeqy/Android-Studio-Plugins.svg?style=social&amp;amp;label=Star&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;#1.&lt;a href=&quot;h
     
     </summary>
