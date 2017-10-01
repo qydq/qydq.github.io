@@ -48,11 +48,6 @@ categories: _post
 <meta property="og:title" content="TabLayout源码解析">
 <meta property="og:url" content="https://likeqy.com/2017/07/26/TabLayout源码解析/index.html">
 <meta property="og:site_name" content="likeqy.com">
-<meta property="og:description" content="项目地址： https://github.com/itgoyo/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TabLayout 源码解析1. 功能介绍1.1 TabLayoutTabs跟随Actionbar在Android 3.0进入大家的视线，是一个很经典的设计。它也是Material Design 规范中提及的Com">
-<meta property="og:image" content="https://img.shields.io/github/stars/itgoyo/AndroidSource-Analysis.svg?style=social&label=Star">
-<meta property="og:image" content="https://likeqy.com/2017/07/26/assets/tablayout.png">
-<meta property="og:image" content="https://likeqy.com/2017/07/26/assets/hierarchy.png">
-<meta property="og:image" content="https://likeqy.com/arts/kotlin_group.jpg">
 <meta property="og:updated_time" content="2017-07-26T12:06:32.545Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="TabLayout源码解析">
@@ -311,7 +306,6 @@ var _hmt = _hmt || [];
                 <br>
             <p><img src="/img/likeqy_group.png" alt=""></p>
 
-        </div>
 
         <blockquote class="post-copyright">
     <div class="content">
@@ -399,9 +393,7 @@ var _hmt = _hmt || [];
 
 
         </div>
-    </div>
-
-</article>
+<div>
 
 <div id="reward" class="page-modal reward-lay">
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
@@ -466,7 +458,6 @@ var _hmt = _hmt || [];
             </div>
         </footer>
 
-    </main>
     <div class="mask" id="mask"></div>
 <a href="javascript:;" id="gotop" class="waves-effect waves-circle waves-light"><span class="icon icon-lg icon-chevron-up"></span></a>
 
@@ -552,11 +543,4 @@ lazyScripts.push('//s95.cnzz.com/z_stat.php?id=1261686164&web_id=1261686164')
 
 
 
-
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-
-
-
-
-</body>
