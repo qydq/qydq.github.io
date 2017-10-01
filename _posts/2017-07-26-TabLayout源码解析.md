@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html>
+---
+title:  "TabLayout源码解析"
+date:   2017-07-26 14:30
+categories: _post
+---
+
 <head>
-
-    
-
-    
-
-    
 
 
 <!-- Baidu Push -->
@@ -28,21 +26,21 @@
 
 
     <meta charset="utf-8">
-    
+
     <meta name="google-site-verification" content="true">
     <meta name="baidu-site-verification" content="97dbRVWfVh" />
     <meta name="sogou_site_verification" content="AIePRXkUI4"/>
-    
-    
+
+
     <link rel="canonical" href="http://www.likeqy.com/2017/07/26/TabLayout源码解析/">
 
     <title>TabLayout源码解析 › likeqy.com | ：专注于物联网，AI，AR，大数据，智能家居，智能汽车领域，但不局限于Android开发。晴雨【qy】</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
+
     <meta name="theme-color" content="#3F51B5">
-    
-    
+
+
     <meta name="keywords" content="Android">
     <meta name="description" content="项目地址： https://github.com/itgoyo/AndroidSource-Analysis 简介： Android源码分析，让你更清楚的理解每一个组件的功能与用法。 TabLayout 源码解析1. 功能介绍1.1 TabLayoutTabs跟随Actionbar在Android 3.0进入大家的视线，是一个很经典的设计。它也是Material Design 规范中提及的Com">
 <meta name="keywords" content="Android">
@@ -60,7 +58,7 @@
 <meta name="twitter:title" content="TabLayout源码解析">
 
         <link rel="alternative" href="/atom.xml" title="likeqy.com" type="application/atom+xml">
-    
+
     <link rel="shortcut icon" href="/img/err.png">
     <link rel="stylesheet" href="/css/style.css?v=1.5.2">
     <script>window.lazyScripts=[]</script>
@@ -169,7 +167,7 @@ var _hmt = _hmt || [];
           <i class="icon icon-lg icon-navicon"></i>
         </a>
         <div class="flex-col header-title ellipsis">TabLayout源码解析</div>
-        
+
         <div class="search-wrap" id="search-wrap">
             <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
                 <i class="icon icon-lg icon-chevron-left"></i>
@@ -179,12 +177,12 @@ var _hmt = _hmt || [];
                 <i class="icon icon-lg icon-search"></i>
             </a>
         </div>
-        
-        
+
+
         <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menuShare">
             <i class="icon icon-lg icon-share-alt"></i>
         </a>
-        
+
     </div>
 </header>
 <header class="content-header post-header">
@@ -192,7 +190,7 @@ var _hmt = _hmt || [];
     <div class="container fade-scale">
         <h1 class="title">TabLayout源码解析</h1>
         <h5 class="subtitle">
-            
+
                 <time datetime="2017-07-26T12:06:13.000Z" itemprop="datePublished" class="page-time">
   2017-07-26
 </time>
@@ -200,24 +198,24 @@ var _hmt = _hmt || [];
 
 	<ul class="article-category-list"><li class="article-category-list-item"><a class="article-category-list-link" href="/categories/源码分析/">源码分析</a></li></ul>
 
-            
+
         </h5>
     </div>
 
-    
+
 
 </header>
 
 
 <div class="container body-wrap">
-    
+
     <aside class="post-widget">
         <nav class="post-toc-wrap" id="post-toc">
             <h4>TOC</h4>
             <ol class="post-toc"><li class="post-toc-item post-toc-level-1"><a class="post-toc-link" href="#TabLayout-源码解析"><span class="post-toc-number">1.</span> <span class="post-toc-text">TabLayout 源码解析</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#1-功能介绍"><span class="post-toc-number">1.1.</span> <span class="post-toc-text">1. 功能介绍</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#1-1-TabLayout"><span class="post-toc-number">1.1.1.</span> <span class="post-toc-text">1.1 TabLayout</span></a></li><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#1-2-TabLayout使用"><span class="post-toc-number">1.1.2.</span> <span class="post-toc-text">1.2 TabLayout使用</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#1-2-1-TabLayout单独使用"><span class="post-toc-number">1.1.2.1.</span> <span class="post-toc-text">1.2.1 TabLayout单独使用</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#1-2-2-与ViewPager搭配使用"><span class="post-toc-number">1.1.2.2.</span> <span class="post-toc-text">1.2.2 与ViewPager搭配使用</span></a></li></ol></li></ol></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#2-总体设计"><span class="post-toc-number">1.2.</span> <span class="post-toc-text">2. 总体设计</span></a></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#3-详细设计"><span class="post-toc-number">1.3.</span> <span class="post-toc-text">3. 详细设计</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#3-1-类关系图"><span class="post-toc-number">1.3.1.</span> <span class="post-toc-text">3.1 类关系图</span></a></li><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#3-2-分析"><span class="post-toc-number">1.3.2.</span> <span class="post-toc-text">3.2 分析</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#3-2-1-TabLayout子View唯一性保证"><span class="post-toc-number">1.3.2.1.</span> <span class="post-toc-text">3.2.1 TabLayout子View唯一性保证</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#3-2-2-与ViewPager搭配使用"><span class="post-toc-number">1.3.2.2.</span> <span class="post-toc-text">3.2.2 与ViewPager搭配使用</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#3-2-3-ViewPager与TabLayout的Tab及indicaotr协同滚动"><span class="post-toc-number">1.3.2.3.</span> <span class="post-toc-text">3.2.3 ViewPager与TabLayout的Tab及indicaotr协同滚动</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-5"><a class="post-toc-link" href="#3-2-3-1-TabLayout的Indicator协同滚动"><span class="post-toc-number">1.3.2.3.1.</span> <span class="post-toc-text">3.2.3.1 TabLayout的Indicator协同滚动</span></a></li><li class="post-toc-item post-toc-level-5"><a class="post-toc-link" href="#3-2-3-2-TabLayout的TabView协同滚动"><span class="post-toc-number">1.3.2.3.2.</span> <span class="post-toc-text">3.2.3.2 TabLayout的TabView协同滚动</span></a></li></ol></li></ol></li><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#3-2-4-Tab选中状态"><span class="post-toc-number">1.3.3.</span> <span class="post-toc-text">3.2.4 Tab选中状态</span></a></li></ol></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#4-开源项目中的使用"><span class="post-toc-number">1.4.</span> <span class="post-toc-text">4. 开源项目中的使用</span></a></li></ol></li></ol>
         </nav>
     </aside>
-    
+
 <article id="post-TabLayout源码解析"
   class="post-article article-type-post fade" itemprop="blogPost">
 
@@ -226,18 +224,18 @@ var _hmt = _hmt || [];
         <div class="post-meta">
             <time class="post-time" title="2017-07-26 20:06:13" datetime="2017-07-26T12:06:13.000Z"  itemprop="datePublished">2017-07-26</time>
 
-            
+
 	<ul class="article-category-list"><li class="article-category-list-item"><a class="article-category-list-link" href="/categories/源码分析/">源码分析</a></li></ul>
 
 
 
-            
+
 <span id="busuanzi_container_page_pv" title="文章总阅读量" style='display:none'>
     <i class="icon icon-eye icon-pr"></i><span id="busuanzi_value_page_pv"></span>
 </span>
 
 
-            
+
 
         </div>
         <div class="post-content" id="post-content" itemprop="postContent">
@@ -317,13 +315,13 @@ var _hmt = _hmt || [];
 
         <blockquote class="post-copyright">
     <div class="content">
-        
+
 <span class="post-time">
     Last updated: <time datetime="2017-07-26T12:06:32.545Z" itemprop="dateUpdated">2017-07-26 20:06:32</time>
 </span><br>
 
 
-        
+
     </div>
             <footer>
                 <a href="/">
@@ -333,7 +331,7 @@ var _hmt = _hmt || [];
             </footer>
 </blockquote>
 
-        
+
 <div class="page-reward">
     <a id="rewardBtn" href="javascript:;" class="page-reward-btn waves-effect waves-circle waves-light">赏</a>
 </div>
@@ -341,7 +339,7 @@ var _hmt = _hmt || [];
 
 
         <div class="post-footer">
-            
+
 	<ul class="article-tag-list">
         <li class="article-tag-list-item">
             <a class="article-tag-list-link" href="/tags/Android/">Android</a>
@@ -352,9 +350,9 @@ var _hmt = _hmt || [];
     </ul>
 
 
-            
+
 <div class="page-share-wrap">
-    
+
 
 <div class="page-share" id="pageShare">
     <ul class="reset share-icons">
@@ -403,30 +401,30 @@ var _hmt = _hmt || [];
         </div>
     </div>
 
-    
+
 <nav class="post-nav flex-row flex-justify-between">
-  
+
     <div class="waves-block waves-effect prev">
       <a href="/2017/07/26/TextView源码解析/" id="post-prev" class="post-nav-link">
         <div class="tips"><i class="icon icon-angle-left icon-lg icon-pr"></i> Prev</div>
         <h4 class="title">TextView源码解析</h4>
       </a>
     </div>
-  
 
-  
+
+
     <div class="waves-block waves-effect next">
       <a href="/2017/07/26/SwipeRefreshLayout源码分析/" id="post-next" class="post-nav-link">
         <div class="tips">Next <i class="icon icon-angle-right icon-lg icon-pl"></i></div>
         <h4 class="title">SwipeRefreshLayout源码分析</h4>
       </a>
     </div>
-  
+
 </nav>
 
 
 
-    
+
 
 
 <section class="comments" id="comments">
@@ -475,7 +473,7 @@ var _hmt = _hmt || [];
                 <span class="reward-toggle-item alipay">支付宝</span>
             </div>
         </label>
-        
+
     </div>
 </div>
 
@@ -609,4 +607,3 @@ lazyScripts.push('//s95.cnzz.com/z_stat.php?id=1261686164&web_id=1261686164')
 
 
 </body>
-</html>
