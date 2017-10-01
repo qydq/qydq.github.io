@@ -31,7 +31,7 @@
 <p><img src="http://omvbl46i3.bkt.clouddn.com/17-9-3/5379561.jpg" alt=""></p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -76,7 +76,7 @@
 <p><img src="http://omvbl46i3.bkt.clouddn.com/17-9-3/47946394.jpg" alt=""></p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -116,7 +116,7 @@
 </blockquote>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3084,7 +3084,7 @@
 <pre><code>版权归原作者所有，这里仅做收集整理，欢迎自由转载-非商用-非衍生-保持署名和链接。
 </code></pre><hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3181,7 +3181,7 @@
 </blockquote>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3263,7 +3263,7 @@
 <h3 id="6-个人评价"><a href="#6-个人评价" class="headerlink" title="6. 个人评价"></a>6. 个人评价</h3><p><code>ViewDragHelper</code>的出现,大大简化了我们开发相关触摸和拖拽功能的复杂度和代码量,帮助我们比较容易的实现各种效果,让我们开发酷炫的交互更加容易了。但是从一些开源项目中发现,<code>ViewDragHelper</code>中还是有一些不足之处,比如给<code>Scroller</code>提供了一个固定的<code>Interpolator</code>,导致如果我们想实现例如反弹效果的话,还要把<code>ViewDragHelper</code>的代码拷贝一份并修改<code>Interpolator</code>,这样做肯定是不太好的.当然建议我们自己修改一个<code>ViewDragHelper</code>后如果项目里有多处使用,可以包装成一个提供给我们自己项目的模块使用,防止出现更多的多余代码</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3345,7 +3345,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <h2 id="8-总结"><a href="#8-总结" class="headerlink" title="8.总结"></a>8.总结</h2><p>一个展示文本+文本编辑器功能的控件需要做的事情很多，要对文本进行排版、处理不同的段落风格、处理段落内的不同emoji和span、进行折行计算，然后还需要做文本编辑、文本选择等。而TextView把这些事情明确分工给不同的类。这样不仅仅把复杂问题拆分成了一个个简单的小功能，同时也大大增加了可扩展性。</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3434,7 +3434,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 </ul>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3522,7 +3522,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>分析 SwipeRefreshLayout 的流程就是按照平时我们自定义 <code>ViewGroup</code> 的流程，但是其中也有好多需要我们借鉴的地方，如何使用 NestedScrolling相关机制 ，多点触控的处理，onMeasure 中减去了 padding，如何判断子 View 是否可滚动，如何确定 ViewGroup 中某一个 View 的索引等。<br>此外，一个好的下拉刷新框架不仅仅要兼容各种滚动的子控件，还要考虑自己要兼容 NestedScrollingChild 的情况，比如放到 CooCoordinatorLayout 的情况，目前大多数开源的下拉刷新好像都没有达到这个要求，一般都是只考虑了内部嵌套滚动子视图的情况，没有考虑自己作为滚动子视图的情况。</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3615,7 +3615,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <p>如果我哪里分析错了，请大家及时纠正我，谢谢。</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3689,7 +3689,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <h2 id="4-OverScroller解析"><a href="#4-OverScroller解析" class="headerlink" title="4. OverScroller解析"></a>4. OverScroller解析</h2><p><code>OverScroller</code>是对<code>Scroller</code>的拓展，它在<code>Scroller</code>的基础上拓展出了更多的方法。<code>OverScroller</code>的<code>fling</code>方法支持滑动到终点之后并超出一段距离并返回，类似于弹性效果。另外一个<code>springBack()</code>方法是指将指定的点平滑滚动到指定的终点上。这个终点由设置的参数决定。原理我们就不再探究了，大家可以自行研究这两个类的差别。最后具体的使用方法在文章最上面的<code>demo</code>里都有提供。可以<code>clone</code>下来帮助理解。</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3815,7 +3815,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <p><a href="https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/article/LruCache%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md" target="_blank" rel="external">原文链接</a></p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -3942,7 +3942,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <h2 id="License"><a href="#License" class="headerlink" title="License"></a>License</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div></pre></td><td class="code"><pre><div class="line">The MIT License (MIT)</div><div class="line"></div><div class="line">Copyright (c) 2016 Rowandjj</div><div class="line"></div><div class="line">Permission is hereby granted, free of charge, to any person obtaining a copy</div><div class="line">of this software and associated documentation files (the &quot;Software&quot;), to deal</div><div class="line">in the Software without restriction, including without limitation the rights</div><div class="line">to use, copy, modify, merge, publish, distribute, sublicense, and/or sell</div><div class="line">copies of the Software, and to permit persons to whom the Software is</div><div class="line">furnished to do so, subject to the following conditions:</div><div class="line"></div><div class="line">The above copyright notice and this permission notice shall be included in all</div><div class="line">copies or substantial portions of the Software.</div><div class="line"></div><div class="line">THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR</div><div class="line">IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,</div><div class="line">FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE</div><div class="line">AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER</div><div class="line">LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,</div><div class="line">OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE</div><div class="line">SOFTWARE.</div></pre></td></tr></table></figure>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -4087,7 +4087,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <p>这两个特性导致的子View之间的依赖关系让界面的交互更有意思。有兴趣的同学可以再去看<code>AppBarLayout</code>、<code>FloatingActionButton</code>、<code>SnackBar</code>的源码~~</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -4150,7 +4150,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 </ul>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -4217,7 +4217,7 @@ nSetupParagraph(b.mNativePtr, chs, paraEnd - paraStart,
 <h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="http://blog.csdn.net/luoshengyang/article/details/6745181" target="_blank" rel="external">Android应用程序绑定服务（bindService）的过程源代码分析</a></p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -4454,7 +4454,7 @@ inflater.inflate(R.layout.view, root, true);
 <p>5. 完善 binder 驱动内容，补充关系图</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -4593,7 +4593,7 @@ inflater.inflate(R.layout.view, root, true);
 <h2 id="7-总结"><a href="#7-总结" class="headerlink" title="7. 总结"></a>7. 总结</h2><p>尽管AsyncTask现在已经很少使用了，但是它的一些设计思路可以借鉴到我们的框架中。比如我们的代码中尽量设计灵活一些，就像AysnTask里面存在串行、并行的操作一样，提供用户同的api，让用户在不同的场景下选择不同的业务逻辑处理。</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -4748,7 +4748,7 @@ inflater.inflate(R.layout.view, root, true);
 <p>如果还有更好玩更好用的插件欢迎fork + pull request</p>
 <hr>
 <p>如果你有兴趣加入我们，请直接关注公众号 LikeTip ，或者加 QQ 群：317195350</p>
-<p><img src="/arts/likeqy_group.png" alt=""></p>
+<p><img src="/img/likeqy_group.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
