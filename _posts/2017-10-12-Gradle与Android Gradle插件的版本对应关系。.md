@@ -1,4 +1,8 @@
-2017-10-12-Gradle与Android Gradle插件的版本对应关系。
+---
+title:  "Gradle与Android Gradle插件的版本对应关系。"
+date:   2017-10-12 20:32
+categories: _post
+---
 
 # Gradle可以作为Android studio中的插件使用。
 
