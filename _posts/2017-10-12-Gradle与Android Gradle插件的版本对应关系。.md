@@ -26,14 +26,14 @@ categories: _post
 # 那么在哪里指定Andorid gradle的插件版本呢？
 
 （1）在最外层的build.gradle文件中
-
+```groovy
 buildscript {
   ...
   dependencies {
     classpath 'com.android.tools.build:gradle:2.3.2'
   }
 }
-
+```
 （2）Andorid studio 中选择File > Project Structure > Project 
 
 # Gradle插件下载的地址
@@ -46,7 +46,8 @@ distributionBase=GRADLE_USER_HOME
 distributionPath=wrapper/dists
 zipStoreBase=GRADLE_USER_HOME
 zipStorePath=wrapper/dists
-distributionUrl=https\://services.gradle.org/distributions/gradle-2.2.1-all.zip```
+distributionUrl=https\://services.gradle.org/distributions/gradle-2.2.1-all.zip
+```
 
 distributionUrl 为[gradlew插件下载地址](https://services.gradle.org/distributions) 
 
@@ -64,12 +65,12 @@ https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle
 备注： 需要自备梯子（qiang） 。
 
 
-
+```groovy
 The run dex in process, the Gradle daemon needs a larger heap.
 It currently has 2048 MB.
 For faster builds, increase the maximum heap size for the Gradle daemon to at least 4608 MB (based on the dexOptions.javaMaxHeapSize = 4g).
 
 To do this set org.gradle.jvmargs=-Xmx4608M in the project gradle.properties.
-
+```
 
 ---晴雨【qy】-- 
