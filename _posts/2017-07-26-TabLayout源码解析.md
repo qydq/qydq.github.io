@@ -54,7 +54,7 @@ categories: _post
 
         <link rel="alternative" href="/atom.xml" title="likeqy.com" type="application/atom+xml">
 
-    <link rel="shortcut icon" href="/_res/icon/err.png">
+    <link rel="shortcut icon" href="/res/err.png">
     <link rel="stylesheet" href="/css/style.css?v=1.5.2">
     <script>window.lazyScripts=[]</script>
 
@@ -80,11 +80,11 @@ var _hmt = _hmt || [];
                id="menu-off">
                 <i class="icon icon-lg icon-close"></i>
             </a>
-            <div class="brand-wrap" style="background-image:url(/_res/icon/index-page-topleft-bg.jpg)">
+            <div class="brand-wrap" style="background-image:url(/res/index-page-topleft-bg.jpg)">
                 <div class="brand" style="
           width: 300px;">
                     <a href="/" class="avatar waves-effect waves-circle waves-light">
-                        <img src="/_res/icon/index-page-likeqy.jpg">
+                        <img src="/res/index-page-likeqy.jpg">
                     </a>
                     <hgroup class="introduce">
                         <h5 class="nickname">likeqy</h5>
@@ -302,9 +302,9 @@ var _hmt = _hmt || [];
                 发现文章，代码有误、对内容有疑问，请在<a href="https://github.com/qydq/issues/issues"
                                       class="post-more waves-effect waves-button">Issue</a>上面提单，技术讨论可以给我Email，欢迎关注左边<a
                     href="http://open.weixin.qq.com/qr/code/?username=liketip">微信公众号</a>或加<a
-                    href="https://github.com/qydq/qydq.github.io/blob/master/_res/icon/e_group.png?raw=true">QQ群</a>获取更多信息。
+                    href="https://github.com/qydq/qydq.github.io/blob/master/res/e_group.png?raw=true">QQ群</a>获取更多信息。
                 <br>
-            <p><img src="/_res/icon/likeqy_group.png" alt=""></p>
+            <p><img src="/res/likeqy_group.png" alt=""></p>
 
 
         <blockquote class="post-copyright">
@@ -319,7 +319,7 @@ var _hmt = _hmt || [];
     </div>
             <footer>
                 <a href="/">
-                    <img src="/_res/icon/index-page-topleft-bg.jpg" alt="晴雨【qy】">
+                    <img src="/res/index-page-topleft-bg.jpg" alt="晴雨【qy】">
                     晴雨【qy】
                 </a>
             </footer>
@@ -351,7 +351,7 @@ var _hmt = _hmt || [];
 <div class="page-share" id="pageShare">
     <ul class="reset share-icons">
       <li>
-        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://likeqy.com/2017/07/26/TabLayout源码解析/&title=《TabLayout源码解析》 — likeqy.com&pic=https://likeqy.com/_res/icon/kotlin_250x250.jpg" data-title="微博">
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://likeqy.com/2017/07/26/TabLayout源码解析/&title=《TabLayout源码解析》 — likeqy.com&pic=https://likeqy.com/res/kotlin_250x250.jpg" data-title="微博">
           <i class="icon icon-weibo"></i>
         </a>
       </li>
@@ -405,13 +405,13 @@ var _hmt = _hmt || [];
     <div class="reward-content">
 
         <div class="reward-code">
-            <img id="rewardCode" src="/_res/icon/alipay.png" alt="打赏二维码">
+            <img id="rewardCode" src="/res/alipay.png" alt="打赏二维码">
         </div>
 
         <label class="reward-toggle">
             <input id="rewardToggle" type="checkbox" class="reward-toggle-check"
-                   data-wechat="/_res/icon/wechart_pay.png"
-                   data-alipay="/_res/icon/alipay.png">
+                   data-wechat="/res/wechart_pay.png"
+                   data-alipay="/res/alipay.png">
             <div class="reward-toggle-ctrol">
                 <span class="reward-toggle-item wechat">微信</span>
                 <span class="reward-toggle-label"></span>
@@ -466,7 +466,7 @@ var _hmt = _hmt || [];
 <div class="global-share" id="globalShare">
     <ul class="reset share-icons">
       <li>
-        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://likeqy.com/2017/07/26/TabLayout源码解析/&title=《TabLayout源码解析》 — likeqy.com&pic=https://likeqy.com/_res/icon/kotlin_250x250.jpg" data-title="微博">
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://likeqy.com/2017/07/26/TabLayout源码解析/&title=《TabLayout源码解析》 — likeqy.com&pic=https://likeqy.com/res/kotlin_250x250.jpg" data-title="微博">
           <i class="icon icon-weibo"></i>
         </a>
       </li>
