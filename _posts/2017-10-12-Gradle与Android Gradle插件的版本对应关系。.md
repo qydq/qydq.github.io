@@ -1,8 +1,4 @@
----
-title:  "Gradle与Android Gradle插件的版本对应关系。"
-date:   2017-10-12 10:32
-categories:_post
----
+2017-10-12-Gradle与Android Gradle插件的版本对应关系。
 
 # Gradle可以作为Android studio中的插件使用。
 
@@ -56,6 +52,14 @@ https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle
 
 
 备注： 需要自备梯子（qiang） 。
+
+
+
+The run dex in process, the Gradle daemon needs a larger heap.
+It currently has 2048 MB.
+For faster builds, increase the maximum heap size for the Gradle daemon to at least 4608 MB (based on the dexOptions.javaMaxHeapSize = 4g).
+
+To do this set org.gradle.jvmargs=-Xmx4608M in the project gradle.properties.
 
 
 ---晴雨【qy】-- 
