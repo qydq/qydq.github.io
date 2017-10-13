@@ -8,25 +8,28 @@
 
 下图的表格是Andorid Gradle插件的版本和Gradle版本的对应关系。为了最好的编译表现，你应该使用最新的Gradle插件版本和与之对应的最新的Andorid Gradle 插件的版本。
 
-    | Plugin version        | Required Gradle version    | 
-    | :--------:   | :-----:   | 
-    | 1.0.0 - 1.1.3       | 2.2.1 - 2.3      | 
-    | 1.2.0 - 1.3.1      | 2.2.1 - 2.9      | 
-    | 1.5.0      | 2.2.1 - 2.13      | 
-    | 2.0.0 - 2.1.2      | 2.10 - 2.13      | 
-    | 2.1.3 - 2.2.3      | 2.14.1+      |
-    | 2.3.0+      | 3.3+      |
+| Plugin version        | Required Gradle version    | 
+| :--------:   | :-----:   | 
+| 1.0.0 - 1.1.3       | 2.2.1 - 2.3      | 
+| 1.2.0 - 1.3.1      | 2.2.1 - 2.9      | 
+| 1.5.0      | 2.2.1 - 2.13      | 
+| 2.0.0 - 2.1.2      | 2.10 - 2.13      | 
+| 2.1.3 - 2.2.3      | 2.14.1+      |
+| 2.3.0+      | 3.3+      |
 
 *注释:左侧是Andorid gradle插件的版本，右侧是gradle的版本。*
 
 # 那么在哪里指定Andorid gradle的插件版本呢？
+
 （1）在最外层的build.gradle文件中
+
 buildscript {
   ...
   dependencies {
     classpath 'com.android.tools.build:gradle:2.3.2'
   }
 }
+
 （2）Andorid studio 中选择File > Project Structure > Project 
 
 # Gradle插件下载的地址
@@ -34,19 +37,22 @@ buildscript {
 在你项目的gradle文件下/wrapper/gradle-wrapper.properties 打开就可以看到如下内容：
 或者我的电脑：C:\Users\sunshuntao\.gradle\wrapper\dists\gradle-2.4-all
 
-`distributionBase=GRADLE_USER_HOME
+```groovy
+distributionBase=GRADLE_USER_HOME
 distributionPath=wrapper/dists
 zipStoreBase=GRADLE_USER_HOME
 zipStorePath=wrapper/dists
-distributionUrl=https\://services.gradle.org/distributions/gradle-2.2.1-all.zip`
+distributionUrl=https\://services.gradle.org/distributions/gradle-2.2.1-all.zip```
 
-distributionUrl 为![gradlew插件下载地址](https://services.gradle.org/distributions) ：https://services.gradle.org/distributions
+distributionUrl 为[gradlew插件下载地址](https://services.gradle.org/distributions) 
+
+https://services.gradle.org/distributions
 
 gradle plugin 和 android gradle plugin version对应关系在网上搜一大片，可是
 
 # 那么在哪里能找到最新的版本对应关系呢？
 
-![Gradle与Android Gradle插件的版本对应关系-官网地址](https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle)
+[Gradle与Android Gradle插件的版本对应关系-官网地址](https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle)
 
 https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle
 
