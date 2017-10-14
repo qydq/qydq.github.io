@@ -1,6 +1,6 @@
 ---
 title:  "Android TextView属性（持更）"
-date:   2015-011-04 14:30
+date:   2015-11-04 14:30
 categories: _posts
 ---
 
