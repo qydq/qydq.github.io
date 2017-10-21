@@ -283,9 +283,37 @@ var _hmt = _hmt || [];
         </p>
 
         <p>
-            我和我朋友，Linux 大牛
+            我和我朋友，Linux 大牛　　　　<div class="page-reward">
+        <a id="rewardBtn" href="javascript:;"
+           class="page-reward-btn waves-effect waves-circle waves-light">赏</a>
+    </div>
         </p>
+        <div id="reward" class="page-modal reward-lay">
+            <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
+            <h3 class="reward-title">
+                <i class="icon icon-quote-left"></i>
+                奖励一杯咖啡!
+                <i class="icon icon-quote-right"></i>
+            </h3>
+            <div class="reward-content">
 
+                <div class="reward-code">
+                    <img id="rewardCode" src="/res/qydq_an_alipay.png" alt="打赏二维码">
+                </div>
+
+                <label class="reward-toggle">
+                    <input id="rewardToggle" type="checkbox" class="reward-toggle-check"
+                           data-wechat="/res/wechart_pay.png"
+                           data-alipay="/res/alipay.png">
+                    <div class="reward-toggle-ctrol">
+                        <span class="reward-toggle-item wechat">微信</span>
+                        <span class="reward-toggle-label"></span>
+                        <span class="reward-toggle-item alipay">支付宝</span>
+                    </div>
+                </label>
+
+            </div>
+        </div>
     </div>
 
     <img src="../res/friendanme.jpg">
