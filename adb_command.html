@@ -1,0 +1,759 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#通用adb命令adb_command.md">通用adb命令[adb_command.md]</a>
+<ul>
+<li><a href="#写在前面：">写在前面：</a></li>
+<li><a href="#日志语言正反斜杠解释">日志语言正反斜杠解释</a></li>
+<li><a href="#一：adb常用命令">一：adb常用命令</a></li>
+<li><a href="#二：adb高级命令">二：adb高级命令</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="通用adb命令adb_command.md">通用adb命令[adb_command.md]</h1>
+<p>多系统通用adb操作命令，创建时间：2019-06-25 21:54，作者：sunst。</p>
+<h2 id="写在前面：">写在前面：</h2>
+<p>小团子是我这一辈子最爱的人，希望有一天能再次跟她重逢winter is comming</p>
+<p>本备忘录📕：记录android中adb多系统操作相关命令anLff[anLff]</p>
+<p>本备忘录📕：同步github/qydq.github.io/:=<a href="https://qydq.github.io/adb_command.md">adb_command.md</a></p>
+<p><strong>ps:</strong></p>
+<blockquote>
+<p>所有adb命令中如：<code>com.sunst.ff/com.sunst.ff.TestActivity</code>,<code>com.sunst.ff</code>是程序的包名，<code>TestActivity</code>是程序Activity类名。</p>
+</blockquote>
+<h2 id="日志语言正反斜杠解释">日志语言正反斜杠解释</h2>
+<p><strong>日志：</strong></p>
+<blockquote>
+<p>Log.d(“sunst888” + TAG, "into onConnectionSuspended : ");</p>
+</blockquote>
+<p><a href="https://zhihu.com/people/qydq"><strong>oobe中设置系统语言可以参考：</strong></a></p>
+<pre><code>Locale local = new Locale("zh", "CN");  
+new Locale("zh","TW");  
+new Locale("en");  
+new Locale("en","US");  
+new Locale("en","UK");  
+new Locale("ja", "JP");  
+new Locale("ar","SA");  
+  
+getResources().getConfiguration().locale.getCountry().equals("TW")  
+</code></pre>
+<p><strong>正反斜杠：</strong></p>
+<ul>
+<li>正斜杠 : ///////////</li>
+<li>反斜杠 : \\\\\\</li>
+</ul>
+<p>在Windows系统中，正斜杠/表示除法，用来进行整除运算；反斜杠\用来表示目录。</p>
+<p>在Unix系统中，正斜杠/表示目录；反斜杠\表示跳脱字符将特殊字符变成一般字符（如enter,$,空格等）</p>
+<p><strong>注：</strong></p>
+<blockquote>
+<p>不管是pull还是push对device来说，目录路径使用反斜杠\\\\</p>
+</blockquote>
+<h2 id="一：adb常用命令">一：adb常用命令</h2>
+<p><strong>ps:</strong></p>
+<blockquote>
+<p>常用命令和后面总结的命令有重复是正常的</p>
+</blockquote>
+<h3 id="早期常用命令">1.早期常用命令</h3>
+<p><strong>mac电脑操作技巧</strong></p>
+<blockquote>
+<p>commond+shift+G,跳出前往文件夹的窗口<br>
+<strong>window</strong><br>
+msconfig修改系统引导<br>
+命令窗口快捷打开windows+R</p>
+</blockquote>
+<p><strong>说明：以下操作是一样的</strong></p>
+<blockquote>
+<p>adb shell rm -rf /data/app/com.huawei.recsys/base.apk<br>
+adb shell<br>
+rm -rf /data/app/com.huawei.recsys/base.apk</p>
+</blockquote>
+<h4 id="查看是否连接手机">(1).查看是否连接手机</h4>
+<blockquote>
+<p>adb devices</p>
+</blockquote>
+<h4 id="将设备改为可读可写">(2).将设备改为可读可写</h4>
+<blockquote>
+<p>adb remount</p>
+</blockquote>
+<p>显示remount succeeded就代表命令执行成功；</p>
+<h4 id="进入指定的device的shell">(3).进入指定的device的shell</h4>
+<blockquote>
+<p>adb shell</p>
+</blockquote>
+<p>或者</p>
+<blockquote>
+<p>adb -s ********* shell</p>
+</blockquote>
+<h4 id="查看当前目录命令">(4).查看当前目录命令</h4>
+<blockquote>
+<p>pwd</p>
+</blockquote>
+<h4 id="adb-查看所有安装的包">(5).adb 查看所有安装的包</h4>
+<blockquote>
+<p>pm list packages</p>
+</blockquote>
+<h4 id="根据某个关键字查找包">(6).根据某个关键字查找包</h4>
+<blockquote>
+<p>pm list packages | grep tencent</p>
+</blockquote>
+<h4 id="查看包安装位置">(7).查看包安装位置</h4>
+<blockquote>
+<p>pm list packages -f<br>
+pm list packages -f | grep tencent<br>
+adb shell pm list packages -f | grep tencent</p>
+</blockquote>
+<h4 id="adb-push">(8).adb push</h4>
+<ul>
+<li>.把E盘folder文件夹 拷贝到设备sdcard目录xfolder下（xfolder为新建</li>
+</ul>
+<blockquote>
+<p>adb push E:\sunst\folder /sdcard/xfolder</p>
+</blockquote>
+<p>Tips：folder中的文件love.txt也放进去在xfolder目录</p>
+<ul>
+<li>.将folder下的文件夹拷贝到机器sunst文件夹中</li>
+</ul>
+<blockquote>
+<p>adb push E:\sunst\folder. /sdcard/sunst</p>
+</blockquote>
+<ul>
+<li>.将folder整个文件拷贝到sunst文件夹中</li>
+</ul>
+<blockquote>
+<p>adb push E:\sunst. /sdcard/sunst</p>
+</blockquote>
+<ul>
+<li>.将文件love.txt拷贝到sunst文件夹中并重新命名为newlovet.txt</li>
+</ul>
+<blockquote>
+<p>adb push E:\sunst\test.txt sdcard/sunst/copytest.txt</p>
+</blockquote>
+<h4 id="adb-pull">(9).adb pull</h4>
+<blockquote>
+<p>adb pull sdcard/sunst/copytest.txt E:/sunst/<br>
+adb pull sdcard/sunst/copytest.txt E:\sunst\xixi.txt 并重命名</p>
+</blockquote>
+<blockquote>
+<p>adb pull /data/app/com.tencent.tbs-1/base.apk ~ 直接把设备文件拷贝到根目录</p>
+</blockquote>
+<blockquote>
+<p>adb pull sdcard\sunst\copytest.txt（错误写法)</p>
+</blockquote>
+<p><strong>备注：</strong></p>
+<blockquote>
+<p><strong>不管是pull还是push对device来说，目录路径使用反斜杠</strong></p>
+</blockquote>
+<h4 id="adb命令查询apk是否在运行">(10).adb命令查询apk是否在运行</h4>
+<blockquote>
+<p>linux下：adb shell ps | grep [apk包名]<br>
+windows下：adb shell ps | findstr [apk包名]</p>
+</blockquote>
+<p>执行命令后如果有显示你搜索的apk包名，那说明正在运行，否则就是没有运行</p>
+<h4 id="当前目录下查找文件">(11).当前目录下查找文件</h4>
+<ul>
+<li>.查找文件中带有should_search_name字段</li>
+</ul>
+<blockquote>
+<p>find . -name “*.java” | xargs grep -ir “should_srearch_name”</p>
+</blockquote>
+<ul>
+<li>.查找文件</li>
+</ul>
+<blockquote>
+<p>find . -name “sunst”<br>
+find . -name “<em>un</em>”#使用通配符</p>
+</blockquote>
+<p><strong>说明:</strong></p>
+<blockquote>
+<p>find命令用于查找文件，后面的“."代表当前目录，-name是find命令的参数，后面接要搜索的文件名。</p>
+</blockquote>
+<h4 id="adb查看当前栈顶activity">(12).adb查看当前栈顶Activity</h4>
+<blockquote>
+<p>adb shell dumpsys activity | grep “Run”</p>
+</blockquote>
+<h3 id="后期常用命令">2.后期常用命令</h3>
+<p>adb reboot bootloader<br>
+fastboot devices<br>
+fastboot continue</p>
+<p>一次烧写boot，system，recovery分区，创建包含boot.img，system.img，recovery.img文件的zip包。</p>
+<blockquote>
+<p>执行：fastboot update {*.zip}</p>
+</blockquote>
+<p>**注：**华为手机解锁命令: fastboot oem unlock 解锁码</p>
+<h4 id="、快速查看settingsprovider数据库表信息：">(1)、快速查看SettingsProvider数据库表信息：</h4>
+<blockquote>
+<p>adb shell settings list [system][secure][global]</p>
+</blockquote>
+<h4 id="、依据name查看settingsprovider数据库表格">(2)、依据Name查看SettingsProvider数据库表格</h4>
+<blockquote>
+<p>adb shell settings get [system][secure][global] [Name]</p>
+</blockquote>
+<h4 id="、依据name向对应的数据库中插入value">(3)、依据Name向对应的数据库中插入value</h4>
+<blockquote>
+<p>adb shell settings put [system][secure][global] [Name] [Value]</p>
+</blockquote>
+<h4 id="、查看启动页面intent部分详情以及确认请求部分详情">(4)、查看启动页面intent部分详情以及确认请求部分详情</h4>
+<blockquote>
+<p>adb logcat -v time -s “ActivityManager”</p>
+</blockquote>
+<h3 id="adb命令注意事项">2.adb命令注意事项</h3>
+<p>(1).push某个文件到目标板时，可通过如下命令，将目标目录临时变更为可读写模式：</p>
+<ul>
+<li>解决方法（1）：</li>
+</ul>
+<blockquote>
+<p>adb shell<br>
+mount -o remount -rw /system</p>
+</blockquote>
+<ul>
+<li>解决方法（2）：</li>
+</ul>
+<blockquote>
+<p>adb root<br>
+adb remount</p>
+</blockquote>
+<h2 id="二：adb高级命令">二：adb高级命令</h2>
+<h3 id="dump命令相关">1.dump命令相关</h3>
+<h4 id="列出所有">(1).列出所有</h4>
+<blockquote>
+<p>adb shell dumpsys</p>
+</blockquote>
+<h4 id="获得手机里面某个apk的应用信息、版本信息">(2).获得手机里面某个apk的应用信息、版本信息</h4>
+<blockquote>
+<p>adb shell dumpsys package com.sunst.ff.packagename<br>
+adb shell dumpsys package &gt; ./package.txt</p>
+</blockquote>
+<h4 id="获取包名对应的pms信息">(3).获取包名对应的PMS信息</h4>
+<blockquote>
+<p>adb shell dumpsys package {包名}</p>
+</blockquote>
+<h4 id="显示当前展示页面的信息，可以用于确认启动activity的包名等信息">(4).显示当前展示页面的信息，可以用于确认启动activity的包名等信息</h4>
+<blockquote>
+<p>adb shell dumpsys window visible</p>
+</blockquote>
+<h4 id="显示activity详情">(5).显示activity详情</h4>
+<blockquote>
+<p>adb shell dumpsys activity com.android.settings/com.android.settings.Settings</p>
+</blockquote>
+<h4 id="显示系统组件详情">(6).显示系统组件详情</h4>
+<ul>
+<li>显示服务详情</li>
+</ul>
+<blockquote>
+<p>adb shell dumpsys activity service com.android.settings/.SettingsDumpService</p>
+</blockquote>
+<ul>
+<li>显示系统服务详情</li>
+</ul>
+<blockquote>
+<p>adb shell dumpsys notification</p>
+</blockquote>
+<ul>
+<li>显示Provider服务详情：</li>
+</ul>
+<blockquote>
+<p>adb shell dumpsys activity provider com.android.providers.settings/com.android.providers.settings.SettingsProvider</p>
+</blockquote>
+<h4 id="抓取手指点击事件时间">(7).抓取手指点击事件时间</h4>
+<blockquote>
+<p>adb logcat -v time -s InputDispatcher</p>
+</blockquote>
+<p><strong>输出案例：</strong></p>
+<pre><code>07-29 11:04:56.258 I/ViewRootImpl( 8295): finishMotionEvent: handled = true stage=10:  
+View Post IME stage,inputElapseTime=2 eventTime = 68608867  
+downTime = 68608867 title= com.android.launcher3/com.android.launcher3.Launcher  
+</code></pre>
+<h4 id="输出ams-intent请求信息：">(8).输出AMS intent请求信息：</h4>
+<blockquote>
+<p>adb logcat -v time -s “ActivityManager”</p>
+</blockquote>
+<p><strong>输出案例：</strong></p>
+<pre><code>07-29 11:29:48.520 I/ActivityManager( 6692): START u0 {act=android.intent.action.MAIN  
+cat=[android.intent.category.LAUNCHER] flg=0x10200000  
+mCallingUid=10012 cmp=com.android.settings/.Settings bnds=[1056,1804][1392,2222] (has extras)}  
+from uid 10012 on display 0  
+</code></pre>
+<h4 id="输出页面启动时间">(9).输出页面启动时间</h4>
+<blockquote>
+<p>adb logcat -v time -s “ActivityManager” |grep Display</p>
+</blockquote>
+<p><strong>输出案例：</strong></p>
+<pre><code>07-29 11:18:16.557 I/ActivityManager( 1579): Displayed com.android.settings/.SubSettings: +299ms  
+</code></pre>
+<h4 id="开机向导不正常导致home键和返回键不可用修正方案：">(10).开机向导不正常导致HOME键和返回键不可用修正方案：</h4>
+<blockquote>
+<p>adb shell settings put global device_provisioned 1<br>
+adb shell settings put secure user_setup_complete 1</p>
+</blockquote>
+<h4 id="获得intent请求来源以及activityresult目标详细log信息">(11).获得Intent请求来源以及activityResult目标详细log信息</h4>
+<blockquote>
+<p>[adb shell dumpsys activity a] [adb shell dumpsys activity]<br>
+adb shell dumpsys activity -d list：</p>
+</blockquote>
+<p><strong>输出案例：</strong></p>
+<pre><code>ENABLE_THERMAL = true  
+0 . DEBUG_ALL = false  
+1 . DEBUG_BACKUP = false  
+2 . DEBUG_BROADCAST = false  
+3 . DEBUG_BROADCAST_LIGHT = false  
+4 . DEBUG_BROADCAST_BACKGROUND = false  
+5 . DEBUG_CLEANUP = false  
+6 . DEBUG_CONFIGURATION = false  
+7 . DEBUG_FOCUS = false  
+8 . DEBUG_IMMERSIVE = false  
+9 . DEBUG_LOCKSCREEN = false  
+10. DEBUG_LRU = false  
+11. DEBUG_MU = false  
+13. DEBUG_OOM_ADJ = false  
+14. DEBUG_PAUSE = false  
+15. DEBUG_POWER = false  
+16. DEBUG_POWER_QUICK = false  
+17. DEBUG_PROCESSES = false  
+18. DEBUG_PROCESS_OBSERVERS = false  
+19. DEBUG_PROVIDER = false  
+20. DEBUG_RESULTS = false  
+21. DEBUG_SERVICE = false  
+22. DEBUG_SERVICE_EXECUTING = false  
+23. DEBUG_STACK = true  
+24. DEBUG_SWITCH = true  
+25. DEBUG_TASKS = true  
+26. DEBUG_THUMBNAILS = false  
+27. DEBUG_TRANSITION = false  
+28. DEBUG_URI_PERMISSION = false  
+29. DEBUG_USER_LEAVING = false  
+30. DEBUG_VISIBILITY = false  
+31. DEBUG_PSS = false  
+32. DEBUG_RECENTS = false  
+33. DEBUG_THERMAL = false  
+34. DEBUG_ADD_REMOVE = false  
+35. DEBUG_APP = false  
+36. DEBUG_CONTAINERS = false  
+37. DEBUG_IDLE = false  
+38. DEBUG_RELEASE = false  
+39. DEBUG_SAVED_STATE = false  
+40. DEBUG_SCREENSHOTS = false  
+41. DEBUG_STATES = false  
+42. DEBUG_VISIBLE_BEHIND = false  
+</code></pre>
+<p><strong>ps:</strong></p>
+<p>可以选择将如下三项打开：</p>
+<ol start="23">
+<li>DEBUG_STACK = true</li>
+<li>DEBUG_SWITCH = true</li>
+<li>DEBUG_TASKS = true</li>
+</ol>
+<h4 id="使用如下命令抓取log信息：">(12).使用如下命令抓取log信息：</h4>
+<blockquote>
+<p>adb logcat -v time -s “ActivityManager”</p>
+</blockquote>
+<p><strong>log备注：</strong></p>
+<pre><code>01-02 05:47:11.624 12182 13492 I ActivityManager: START u0 {mCallingUid=1000 cmp=com.android.settings/.ChooseLockPattern (has extras)} from uid 1000 on display 0  
+01-02 05:47:11.624 12182 13492 I ActivityManager: sourceRecord = ActivityRecord{82c19d8 u0 com.android.settings/.ChooseLockGeneric$InternalActivity, isShadow:false t3}  
+01-02 05:47:11.624 12182 13492 D ActivityManager: startActivityLocked skipCheckAccessControl = true  
+01-02 05:47:11.634 12182 13492 I ActivityManager: startActivityUnchecked mReusedActivity=null r=ActivityRecord{a5b9d3b u0 com.android.settings/.ChooseLockPattern, isShadow:false t-1}  
+01-02 05:47:11.636 12182 13492 V ActivityManager: Starting new activity ActivityRecord{a5b9d3b u0 com.android.settings/.ChooseLockPattern, isShadow:false t3} in existing task TaskRecord{9629e54 #3 A=com.android.settings, isShadow:false U=0 StackId=1 sz=4} from source ActivityRecord{82c19d8 u0 com.android.settings/.ChooseLockGeneric$InternalActivity, isShadow:false t3}  
+</code></pre>
+<p><strong>ps：</strong></p>
+<blockquote>
+<p>SourceRecord=开头的字串</p>
+</blockquote>
+<h4 id="事件被消费：">(13).事件被消费：</h4>
+<blockquote>
+<p>adb logcat -v threadtime -s ViewRootImpl</p>
+</blockquote>
+<p><strong>可以看到如下log：</strong></p>
+<pre><code>04-25 01:57:21.441 11173 11173 I ViewRootImpl: finishKeyEvent: handled = true keycode = 4 name=KEYCODE_BACK stage=10: View Post IME stage,inputElapseTime=4 eventTime = 4616876 downTime = 4616876 title= com.android.settings/com.android.settings.Settings  
+04-25 01:57:21.840 2920 2920 I ViewRootImpl: updateImmersive mode: gain focus  
+</code></pre>
+<h4 id="随机产生事件给某个应用程序-随机产生500个事件给程序。你会发现你的程序不断的被点击，旋转！">(14).随机产生事件给某个应用程序, 随机产生500个事件给程序。你会发现你的程序不断的被点击，旋转！</h4>
+<blockquote>
+<p>adb shell monkey -p com.sunst.ff.pakagename -v 500</p>
+</blockquote>
+<h3 id="pm命令相关">2.pm命令相关</h3>
+<blockquote>
+<p>adb shell<br>
+pm grant com.provision.wearprovision.activity android.permission.CHANGE_CONFIGURATION</p>
+</blockquote>
+<blockquote>
+<p>adb shell pm grant com.provision.wearprovision.activity android.permission.CHANGE_CONFIGURATION</p>
+</blockquote>
+<p>pm工具为包管理（package manager）的简称，可以使用pm工具来执行应用的安装和查询应用包的信息、系统权限、控制应用</p>
+<blockquote>
+<p>pm工具是Android开发与测试过程中必不可少的工具</p>
+</blockquote>
+<h4 id="shell命令格式：">(1).shell命令格式：</h4>
+<blockquote>
+<p>pm [command]</p>
+</blockquote>
+<h4 id="包名信息查询">(2).包名信息查询</h4>
+<blockquote>
+<p>pm list packages [options] [FILTER]</p>
+</blockquote>
+<p>打印所有的已经安装的应用的包名，如果设置了文件过滤则值显示包含过滤文字的内容</p>
+
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-f</td>
+<td><code>'显示每个包的文件位置'</code></td>
+</tr>
+<tr>
+<td>-d</td>
+<td><code>"使用过滤器，只显示禁用的应用的包名"</code></td>
+</tr>
+<tr>
+<td>-e</td>
+<td><code>使用过滤器，只显示可用的应用的包名</code></td>
+</tr>
+<tr>
+<td>-s</td>
+<td><code>使用过滤器，只显示系统应用的包名</code></td>
+</tr>
+<tr>
+<td>-3</td>
+<td><code>使用过滤器，只显示第三方应用的包名</code></td>
+</tr>
+<tr>
+<td>-i</td>
+<td><code>查看应用的安装者</code></td>
+</tr>
+</tbody>
+</table><h4 id="权限基础">(3).权限基础</h4>
+<pre><code>&lt;permission android:description="string resource"  
+android:icon="drable resource"  
+android:label="string resource"  
+android:name="string"  
+android:permissionGroup="string"  
+android:protectionLevel=["normal"|"dangerous"|"signature"|"signatureOrSystem"]/&gt;  
+</code></pre>
+<p>protectionLevel</p>
+<p><strong>说明</strong></p>
+<p>normal 表示权限是低风险的，不会对系统，用户或其他应用程序造成危害<br>
+dangerous 表示权限是高风险的，系统将可能要球用户输入相关信息，才会授予此权限<br>
+signature 表示只有当应用程序所用数字签名与声明引用权限的应用程序所用签名相同时，才能将权限授予给它<br>
+signatureOrSystem 需要签名或者系统级应用（放置在/system/app目录下）才能赋予权限<br>
+system 系统级应用（放置在/system/app目录下）才能赋予权限<br>
+自定义权限 应用自行定义的权限</p>
+<h4 id="权限查询">(4).权限查询</h4>
+<ul>
+<li>打印所有已知的权限组</li>
+</ul>
+<blockquote>
+<p>pm list permission-groups</p>
+</blockquote>
+<ul>
+<li>打印权限</li>
+</ul>
+<blockquote>
+<p>pm list permissions [options] [GROUP]</p>
+</blockquote>
+<p><strong>Tips:</strong></p>
+<p>参数可以组合使用例如：pm list permissions –g -d</p>
+
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-g</td>
+<td><code>按组进行列出权限</code></td>
+</tr>
+<tr>
+<td>-f</td>
+<td><code>打印所有信息</code></td>
+</tr>
+<tr>
+<td>-s</td>
+<td><code>简短的摘要</code></td>
+</tr>
+<tr>
+<td>-d</td>
+<td><code>只有危险的权限列表</code></td>
+</tr>
+<tr>
+<td>-u</td>
+<td><code>只有权限的用户将看到列表用户自定义权限</code></td>
+</tr>
+</tbody>
+</table><h4 id="授权与取消">(5).授权与取消</h4>
+<ul>
+<li>授权</li>
+</ul>
+<blockquote>
+<p>pm grant  android.permission.READ_CONTACTS</p>
+</blockquote>
+<ul>
+<li>取消</li>
+</ul>
+<blockquote>
+<p>pm revoke  android.permission.READ_CONTACTS</p>
+</blockquote>
+<p><strong>Tips:</strong></p>
+<p>所谓的授权是指你的apk里面已有的权限进行授权，相当于启用的概念</p>
+<h4 id="测试包与apk路径查询">(6).测试包与apk路径查询</h4>
+<ul>
+<li>列出所有的instrumentation测试包</li>
+</ul>
+<blockquote>
+<p>pm list instrumentation</p>
+</blockquote>
+<ul>
+<li>打印指定包名的apk路径</li>
+</ul>
+<blockquote>
+<p>pm path PACKAGE_NAME</p>
+</blockquote>
+<h4 id="系统功能与支持库查询">(7).系统功能与支持库查询</h4>
+<ul>
+<li>打印系统的所有功能列出所有硬件相关信息</li>
+</ul>
+<blockquote>
+<p>pm list feature<br>
+*打印当前设备所支持的所有库<br>
+pm list libraries</p>
+</blockquote>
+<h4 id="打印包的系统状态信息">**(8).打印包的系统状态信息</h4>
+<blockquote>
+<p>pm dump PACKAGE</p>
+</blockquote>
+<h4 id="安装与卸载">(9).安装与卸载</h4>
+<ul>
+<li>安装</li>
+</ul>
+<blockquote>
+<p>pm install [-lrtsfd] [-i PACKAGE] [PATH]</p>
+</blockquote>
+<p>通过指定路径安装apk到手机中(与adb install不同的是adb install安装的.apk是在你的电脑上，而pm install安装的apk是存储在你的手机中)</p>
+<p>首先将test.apk文件push到手机目录中比如/data/local/tmp</p>
+<blockquote>
+<p>adb shell pm install /data/local/tmp/test.apk #安装<br>
+adb shell pm install –r /data/local/tmp/test.apk #重新安装</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-l</td>
+<td><code>锁定应用程序</code></td>
+</tr>
+<tr>
+<td>-r</td>
+<td><code>重新安装应用，且保留应用数据</code></td>
+</tr>
+<tr>
+<td>-t</td>
+<td><code>允许测试apk被安装</code></td>
+</tr>
+<tr>
+<td>-i</td>
+<td><code>指定安装包的包名</code></td>
+</tr>
+<tr>
+<td>-s</td>
+<td><code>安装到sd卡</code></td>
+</tr>
+<tr>
+<td>-f</td>
+<td><code>安装到系统内置存储中（默认安装位置）</code></td>
+</tr>
+<tr>
+<td>-d</td>
+<td><code>允许降级安装（同一应用低级换高级）</code></td>
+</tr>
+<tr>
+<td>-g</td>
+<td><code>授予应用程序清单中列出的所有权限（只有6.0系统可用）</code></td>
+</tr>
+</tbody>
+</table><ul>
+<li>卸载</li>
+</ul>
+<blockquote>
+<p>pm uninstall [options] </p>
+</blockquote>
+<p>参数-k 卸载应用且保留数据与缓存（如果不加-k则全部删除）</p>
+<h4 id="其它相关命令">(10).其它相关命令</h4>
+<ul>
+<li>清除应用数据</li>
+</ul>
+<blockquote>
+<p>pm clear &lt;PACKAGE_NAME&gt;</p>
+</blockquote>
+<ul>
+<li>禁用和启用应用</li>
+</ul>
+<blockquote>
+<p>pm enable &lt;PACKAGE_OR_COMPONENT&gt;可用<br>
+pm disenable &lt;PACKAGE_OR_COMPONENT&gt;不可用（直接就找不到应用了）<br>
+pm disenable-user [options] &lt;PACKAGE_OR_COMPONENT&gt;不可用（会显示已停用)</p>
+</blockquote>
+<ul>
+<li>隐藏与恢复应用<br>
+pm hide PACKAGE_OR_COMPONENT 隐藏package或component<br>
+pm unhide PACKAGE_OR_CONPONENT恢复可见package或component</li>
+</ul>
+<p><strong>Tips:</strong></p>
+<p>被隐藏应用在应用管理中变得不可见，桌面图标也会消失</p>
+<h3 id="am命令相关">3.am命令相关</h3>
+<h4 id="用adb启动apk">(1).用adb启动apk</h4>
+<ul>
+<li>启动1</li>
+</ul>
+<blockquote>
+<p>adb shell am start -n com.sunst.ff/com.sunst.ff.MainActivity</p>
+</blockquote>
+<ul>
+<li>启动2</li>
+</ul>
+<blockquote>
+<p>adb shell monkey -p com.sunst.ff -c android.intent.category.LAUNCHER 1</p>
+</blockquote>
+<ul>
+<li>启动3</li>
+</ul>
+<blockquote>
+<p>adb shell am start -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -n com.sunst.ff.packagename/com.sunst.ff.packagename.TestActivity<br>
+adb shell am start -n com.sunst.ff/com.sunst.ff.TestActivity</p>
+</blockquote>
+<ul>
+<li>启动4</li>
+</ul>
+<blockquote>
+<p>adb shell am start -n com.sunst.ff/.TestActivity</p>
+</blockquote>
+<h4 id="adb关闭">(2)adb关闭</h4>
+<blockquote>
+<p>adb shell am force-stop 包名</p>
+</blockquote>
+<h3 id="ota命令相关">4.ota命令相关</h3>
+<p>ota是空中下载技术，就是完成手机升级的术语，具体可参考<a href="https://zhihu.com/people/qydq">我知乎</a>，</p>
+<p><strong>在操作中，可以通过部分重启来节省时间。在cmd中执行如下命令：</strong></p>
+<blockquote>
+<p>abd shell//进入adb shell 模式<br>
+am restart //重启系统（非完全重启）</p>
+</blockquote>
+<h4 id="手机正常启动后，命令行模式下输入">(1).手机正常启动后，命令行模式下输入</h4>
+<blockquote>
+<p>adb reboot bootloader</p>
+</blockquote>
+<p>该命令会自动进入<code>fastboot模式</code></p>
+<h4 id="接着：">(2).接着：</h4>
+<blockquote>
+<p>fastboot devices</p>
+</blockquote>
+<p>查看是否有设备 或者adb devices</p>
+<h4 id="erase-擦除命令">(3).erase 擦除命令</h4>
+<blockquote>
+<p>fastboot erase system<br>
+fastboot erase cache<br>
+fastboot erase config<br>
+fastboot erase data<br>
+fastboot erase logs<br>
+fastboot erase factory</p>
+</blockquote>
+<h4 id="格式化">(4).格式化</h4>
+<blockquote>
+<p>fastboot format data # 格式化 data 分区</p>
+</blockquote>
+<h4 id="加载一些镜像">(5).加载一些镜像</h4>
+<blockquote>
+<p>fastboot flash boot boot.img # 刷入 boot 分区</p>
+</blockquote>
+<blockquote>
+<p>fastboot flash system system.img # 刷入 system 分区</p>
+</blockquote>
+<blockquote>
+<p>fastboot flash recovery recovery.img # 刷入 recovery 分区</p>
+</blockquote>
+<blockquote>
+<p>fastboot flashall #烧写所有分区，注意：此命令会在当前目录中查找所有img文件，将这些img文件烧写到所有对应的分区中，并重新启动手机。</p>
+</blockquote>
+<h4 id="设备锁">(6). 设备锁</h4>
+<blockquote>
+<p>fastboot flashing lock # 设备上锁，刷机完毕</p>
+</blockquote>
+<blockquote>
+<p>fastboot flashing unlock #6.0以上设备 设备必须解锁，开始刷机（这个不同的手机厂商不同）</p>
+</blockquote>
+<h4 id="重启">(7).重启</h4>
+<blockquote>
+<p>fastboot reboot</p>
+</blockquote>
+<h4 id="自动重启设备">(8).自动重启设备</h4>
+<blockquote>
+<p>fastboot continue</p>
+</blockquote>
+<h4 id="重启到bootloader，刷机用">(9).重启到bootloader，刷机用</h4>
+<blockquote>
+<p>fastboot reboot-bootloader</p>
+</blockquote>
+<h4 id="其它命令">(10).其它命令</h4>
+<p>也可以采用adb shell模式下的<code>dd命令</code>来刷recovery.img</p>
+<blockquote>
+<p>adb shell<br>
+su</p>
+</blockquote>
+<ul>
+<li>高通平台：</li>
+</ul>
+<blockquote>
+<p>dd if=/data/local/tmp/recovery.img of=/dev/block/platform/msm_sdcc.1/by-name/recovery</p>
+</blockquote>
+<ul>
+<li>MTK平台：</li>
+</ul>
+<blockquote>
+<p>dd if=/data/local/tmp/recovery.img of=/dev/recovery</p>
+</blockquote>
+<ul>
+<li>英伟达nvidia平台：</li>
+</ul>
+<blockquote>
+<p>dd if=/data/local/tmp/recovery.img of=/dev/block/platform/sdhci-tegra.3/by-name/SOS</p>
+</blockquote>
+<blockquote>
+<p>reboot recovery</p>
+</blockquote>
+<p><strong>Tips：</strong></p>
+<blockquote>
+<p>adb reboot recovery 也可以让手机开机进入<code>recovery模式</code></p>
+</blockquote>
+<p>=====================================================================================================</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
