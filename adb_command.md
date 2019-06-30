@@ -1,8 +1,6 @@
-# 通用adb命令[adb_command.md]
-
+## 通用adb命令[adb_command.md]
 多系统通用adb操作命令，创建时间：2019-06-25 21:54，作者：sunst。
-
-## 写在前面：
+### 写在前面：
 
 小团子是我这一辈子最爱的人，希望有一天能再次跟她重逢winter is comming
 
@@ -12,8 +10,7 @@
 
 **ps:**
 >所有adb命令中如：```com.sunst.ff/com.sunst.ff.TestActivity```,```com.sunst.ff```是程序的包名，```TestActivity```是程序Activity类名。
-
-## 日志语言正反斜杠解释
+### 日志语言正反斜杠解释
 **日志：**
 >Log.d("sunst888" + TAG, "into onConnectionSuspended : ");
 
@@ -39,11 +36,10 @@ getResources().getConfiguration().locale.getCountry().equals("TW")
 
 **注：**
 >不管是pull还是push对device来说，目录路径使用反斜杠\\\\\\\\
-
-## 一：adb常用命令
+### 一：adb常用命令
 **ps:**
 >常用命令和后面总结的命令有重复是正常的
-### 1.早期常用命令
+#### 1.早期常用命令
 **mac电脑操作技巧**
 >commond+shift+G,跳出前往文件夹的窗口
 
@@ -56,28 +52,28 @@ getResources().getConfiguration().locale.getCountry().equals("TW")
 >adb shell
 >rm -rf /data/app/com.huawei.recsys/base.apk
 
-#### (1).查看是否连接手机
+##### (1).查看是否连接手机
 >adb devices
 #### (2).将设备改为可读可写
 >adb remount
 
 显示remount succeeded就代表命令执行成功；
-#### (3).进入指定的device的shell
+##### (3).进入指定的device的shell
 >adb shell
 
 或者
 >adb -s ********* shell
-#### (4).查看当前目录命令
+##### (4).查看当前目录命令
 >pwd
 #### (5).adb 查看所有安装的包
 >pm list packages
-#### (6).根据某个关键字查找包
+##### (6).根据某个关键字查找包
 >pm list packages | grep tencent
-#### (7).查看包安装位置
+##### (7).查看包安装位置
 >pm list packages -f
 >pm list packages -f | grep tencent
 >adb shell pm list packages -f | grep tencent
-#### (8).adb push
+##### (8).adb push
 * .把E盘folder文件夹 拷贝到设备sdcard目录xfolder下（xfolder为新建
 
 >adb push E:\sunst\folder /sdcard/xfolder
@@ -96,7 +92,7 @@ Tips：folder中的文件love.txt也放进去在xfolder目录
 
 >adb push E:\sunst\test.txt sdcard/sunst/copytest.txt
 
-#### (9).adb pull
+##### (9).adb pull
 >adb pull sdcard/sunst/copytest.txt E:/sunst/
 >adb pull sdcard/sunst/copytest.txt E:\sunst\xixi.txt 并重命名
 
@@ -106,13 +102,13 @@ Tips：folder中的文件love.txt也放进去在xfolder目录
 
 **备注：**
 >**不管是pull还是push对device来说，目录路径使用反斜杠**
-#### (10).adb命令查询apk是否在运行
+##### (10).adb命令查询apk是否在运行
 >linux下：adb shell ps | grep [apk包名]
 >windows下：adb shell ps | findstr [apk包名]
 
 执行命令后如果有显示你搜索的apk包名，那说明正在运行，否则就是没有运行
 
-#### (11).当前目录下查找文件
+##### (11).当前目录下查找文件
 
 * .查找文件中带有should_search_name字段
 >find . -name "*.java" | xargs grep -ir "should_srearch_name"
@@ -124,9 +120,9 @@ Tips：folder中的文件love.txt也放进去在xfolder目录
 **说明:**
 >find命令用于查找文件，后面的“."代表当前目录，-name是find命令的参数，后面接要搜索的文件名。
 
-#### (12).adb查看当前栈顶Activity
+##### (12).adb查看当前栈顶Activity
 >adb shell dumpsys activity | grep "Run"
-### 2.后期常用命令
+#### 2.后期常用命令
 adb reboot bootloader
 fastboot devices
 fastboot continue
@@ -136,19 +132,15 @@ fastboot continue
 >执行：fastboot update {*.zip}
 
 **注：**华为手机解锁命令: fastboot oem unlock 解锁码
-#### (1)、快速查看SettingsProvider数据库表信息：
+##### (1)、快速查看SettingsProvider数据库表信息：
 >adb shell settings list [system][secure][global]
-
-#### (2)、依据Name查看SettingsProvider数据库表格
+##### (2)、依据Name查看SettingsProvider数据库表格
 >adb shell settings get [system][secure][global] [Name]
-
-#### (3)、依据Name向对应的数据库中插入value
+##### (3)、依据Name向对应的数据库中插入value
 >adb shell settings put [system][secure][global] [Name] [Value]
-
-#### (4)、查看启动页面intent部分详情以及确认请求部分详情
+##### (4)、查看启动页面intent部分详情以及确认请求部分详情
 >adb logcat -v time -s "ActivityManager"
-
-### 3.adb命令注意事项
+#### 3.adb命令注意事项
 (1).push某个文件到目标板时，可通过如下命令，将目标目录临时变更为可读写模式：
 * 解决方法（1）：
 >adb shell
@@ -158,25 +150,20 @@ fastboot continue
 >adb root
 >adb remount
 
-## 二：adb高级命令
-### 1.dump命令相关
-#### (1).列出所有
+### 二：adb高级命令
+#### 1.dump命令相关
+##### (1).列出所有
 >adb shell dumpsys
-
-#### (2).获得手机里面某个apk的应用信息、版本信息
+##### (2).获得手机里面某个apk的应用信息、版本信息
 >adb shell dumpsys package com.sunst.ff.packagename
 >adb shell dumpsys package > ./package.txt
-
-#### (3).获取包名对应的PMS信息
+##### (3).获取包名对应的PMS信息
 >adb shell dumpsys package {包名}
-
-#### (4).显示当前展示页面的信息，可以用于确认启动activity的包名等信息
+##### (4).显示当前展示页面的信息，可以用于确认启动activity的包名等信息
 >adb shell dumpsys window visible
-
-#### (5).显示activity详情
+##### (5).显示activity详情
 >adb shell dumpsys activity com.android.settings/com.android.settings.Settings
-
-#### (6).显示系统组件详情
+##### (6).显示系统组件详情
 * 显示服务详情
 >adb shell dumpsys activity service com.android.settings/.SettingsDumpService
 
@@ -186,7 +173,7 @@ fastboot continue
 * 显示Provider服务详情：
 >adb shell dumpsys activity provider com.android.providers.settings/com.android.providers.settings.SettingsProvider
 
-#### (7).抓取手指点击事件时间
+##### (7).抓取手指点击事件时间
 >adb logcat -v time -s InputDispatcher
 
 **输出案例：**
@@ -195,7 +182,7 @@ fastboot continue
 View Post IME stage,inputElapseTime=2 eventTime = 68608867
 downTime = 68608867 title= com.android.launcher3/com.android.launcher3.Launcher
 ```
-#### (8).输出AMS intent请求信息：
+##### (8).输出AMS intent请求信息：
 >adb logcat -v time -s "ActivityManager"
 
 **输出案例：**
@@ -205,18 +192,18 @@ cat=[android.intent.category.LAUNCHER] flg=0x10200000
 mCallingUid=10012 cmp=com.android.settings/.Settings bnds=[1056,1804][1392,2222] (has extras)}
 from uid 10012 on display 0
 ```
-#### (9).输出页面启动时间
+##### (9).输出页面启动时间
 >adb logcat -v time -s "ActivityManager" |grep Display
 
 **输出案例：**
 ```
 07-29 11:18:16.557 I/ActivityManager( 1579): Displayed com.android.settings/.SubSettings: +299ms
 ```
-#### (10).开机向导不正常导致HOME键和返回键不可用修正方案：
+##### (10).开机向导不正常导致HOME键和返回键不可用修正方案：
 >adb shell settings put global device_provisioned 1
 >adb shell settings put secure user_setup_complete 1
 
-#### (11).获得Intent请求来源以及activityResult目标详细log信息
+##### (11).获得Intent请求来源以及activityResult目标详细log信息
 >[adb shell dumpsys activity a] [adb shell dumpsys activity]
 >adb shell dumpsys activity -d list：
 
@@ -274,7 +261,7 @@ ENABLE_THERMAL = true
 24. DEBUG_SWITCH = true
 25. DEBUG_TASKS = true
 
-#### (12).使用如下命令抓取log信息：
+##### (12).使用如下命令抓取log信息：
 
 >adb logcat -v time -s "ActivityManager"
 
@@ -291,7 +278,7 @@ ENABLE_THERMAL = true
 
 >SourceRecord=开头的字串
 
-#### (13).事件被消费：
+##### (13).事件被消费：
 >adb logcat -v threadtime -s ViewRootImpl
 
 **可以看到如下log：**
@@ -300,10 +287,10 @@ ENABLE_THERMAL = true
 04-25 01:57:21.840 2920 2920 I ViewRootImpl: updateImmersive mode: gain focus
 ```
 
-#### (14).随机产生事件给某个应用程序, 随机产生500个事件给程序。你会发现你的程序不断的被点击，旋转！
+##### (14).随机产生事件给某个应用程序, 随机产生500个事件给程序。你会发现你的程序不断的被点击，旋转！
 >adb shell monkey -p com.sunst.ff.pakagename -v 500
 
-### 2.pm命令相关
+#### 2.pm命令相关
 
 >adb shell
 >pm grant com.provision.wearprovision.activity android.permission.CHANGE_CONFIGURATION
@@ -314,11 +301,11 @@ pm工具为包管理（package manager）的简称，可以使用pm工具来执�
 
 >pm工具是Android开发与测试过程中必不可少的工具
 
-#### (1).shell命令格式：
+##### (1).shell命令格式：
 
 >pm [command]
 
-#### (2).包名信息查询
+##### (2).包名信息查询
 
 >pm list packages [options] [FILTER]
 
@@ -333,7 +320,7 @@ pm工具为包管理（package manager）的简称，可以使用pm工具来执�
 |-3 |`使用过滤器，只显示第三方应用的包名`|
 |-i |`查看应用的安装者`|
 
-#### (3).权限基础
+##### (3).权限基础
 ```
 <permission android:description="string resource"
 android:icon="drable resource"
@@ -353,8 +340,7 @@ signatureOrSystem 需要签名或者系统级应用（放置在/system/app目录
 system 系统级应用（放置在/system/app目录下）才能赋予权限
 自定义权限 应用自行定义的权限
 
-#### (4).权限查询
-
+##### (4).权限查询
 * 打印所有已知的权限组
 >pm list permission-groups
 
@@ -372,7 +358,7 @@ system 系统级应用（放置在/system/app目录下）才能赋予权限
 |-d |`只有危险的权限列表` |
 |-u |`只有权限的用户将看到列表用户自定义权限`|
 
-#### (5).授权与取消
+##### (5).授权与取消
 
 * 授权
 >pm grant <packageName> android.permission.READ_CONTACTS
@@ -384,7 +370,7 @@ system 系统级应用（放置在/system/app目录下）才能赋予权限
 
 所谓的授权是指你的apk里面已有的权限进行授权，相当于启用的概念
 
-#### (6).测试包与apk路径查询
+##### (6).测试包与apk路径查询
 
 * 列出所有的instrumentation测试包
 >pm list instrumentation
@@ -392,18 +378,18 @@ system 系统级应用（放置在/system/app目录下）才能赋予权限
 * 打印指定包名的apk路径
 >pm path PACKAGE_NAME
 
-#### (7).系统功能与支持库查询
+##### (7).系统功能与支持库查询
 
 * 打印系统的所有功能列出所有硬件相关信息
 >pm list feature
 *打印当前设备所支持的所有库
 >pm list libraries
 
-#### **(8).打印包的系统状态信息
+##### **(8).打印包的系统状态信息
 
 >pm dump PACKAGE
 
-#### (9).安装与卸载
+##### (9).安装与卸载
 
 * 安装
 >pm install [-lrtsfd] [-i PACKAGE] [PATH]
@@ -432,7 +418,7 @@ system 系统级应用（放置在/system/app目录下）才能赋予权限
 
 参数-k 卸载应用且保留数据与缓存（如果不加-k则全部删除）
 
-#### (10).其它相关命令
+##### (10).其它相关命令
 
 * 清除应用数据
 >pm clear <PACKAGE_NAME>
@@ -449,11 +435,8 @@ pm unhide PACKAGE_OR_CONPONENT恢复可见package或component
 **Tips:**
 
 被隐藏应用在应用管理中变得不可见，桌面图标也会消失
-
-### 3.am命令相关
-
-#### (1).用adb启动apk
-
+#### 3.am命令相关
+##### (1).用adb启动apk
 * 启动1
 >adb shell am start -n com.sunst.ff/com.sunst.ff.MainActivity
 
@@ -467,32 +450,27 @@ pm unhide PACKAGE_OR_CONPONENT恢复可见package或component
 * 启动4
 >adb shell am start -n com.sunst.ff/.TestActivity
 
-#### (2)adb关闭
+##### (2)adb关闭
 >adb shell am force-stop 包名
 
-### 4.ota命令相关
-
+#### 4.ota命令相关
 ota是空中下载技术，就是完成手机升级的术语，具体可参考[我知乎](https://zhihu.com/people/qydq)，
 
 **在操作中，可以通过部分重启来节省时间。在cmd中执行如下命令：**
-
 >abd shell//进入adb shell 模式
 >am restart //重启系统（非完全重启）
 
-#### (1).手机正常启动后，命令行模式下输入
-
+##### (1).手机正常启动后，命令行模式下输入
 >adb reboot bootloader
 
 该命令会自动进入```fastboot模式```
 
-#### (2).接着：
-
+##### (2).接着：
 >fastboot devices
 
 查看是否有设备 或者adb devices
 
-#### (3).erase 擦除命令
-
+##### (3).erase 擦除命令
 >fastboot erase system
 >fastboot erase cache
 >fastboot erase config
@@ -500,12 +478,10 @@ ota是空中下载技术，就是完成手机升级的术语，具体可参考[�
 >fastboot erase logs
 >fastboot erase factory
 
-#### (4).格式化
-
+##### (4).格式化
 >fastboot format data # 格式化 data 分区
 
-#### (5).加载一些镜像
-
+##### (5).加载一些镜像
 >fastboot flash boot boot.img # 刷入 boot 分区
 
 >fastboot flash system system.img # 刷入 system 分区
@@ -514,46 +490,37 @@ ota是空中下载技术，就是完成手机升级的术语，具体可参考[�
 
 >fastboot flashall #烧写所有分区，注意：此命令会在当前目录中查找所有img文件，将这些img文件烧写到所有对应的分区中，并重新启动手机。
 
-#### (6). 设备锁
-
+##### (6). 设备锁
 >fastboot flashing lock # 设备上锁，刷机完毕
 
 >fastboot flashing unlock #6.0以上设备 设备必须解锁，开始刷机（这个不同的手机厂商不同）
 
-#### (7).重启
-
+##### (7).重启
 >fastboot reboot
 
-#### (8).自动重启设备
-
+##### (8).自动重启设备
 >fastboot continue
 
-#### (9).重启到bootloader，刷机用
-
+##### (9).重启到bootloader，刷机用
 >fastboot reboot-bootloader
 
-#### (10).其它命令
-
+##### (10).其它命令
 也可以采用adb shell模式下的```dd命令```来刷recovery.img
 >adb shell
 >su
 
 * 高通平台：
-
 >dd if=/data/local/tmp/recovery.img of=/dev/block/platform/msm_sdcc.1/by-name/recovery
 
 * MTK平台：
-
 >dd if=/data/local/tmp/recovery.img of=/dev/recovery
 
 * 英伟达nvidia平台：
-
 >dd if=/data/local/tmp/recovery.img of=/dev/block/platform/sdhci-tegra.3/by-name/SOS
 
 >reboot recovery
 
 **Tips：**
-
 >adb reboot recovery 也可以让手机开机进入```recovery模式```
 
 =====================================================================================================
