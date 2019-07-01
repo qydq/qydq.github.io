@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome file</title>
+  <title>通用adb命令[adb_command.md]</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -29,14 +29,16 @@
     <div class="stackedit__html">
       <h1 id="通用adb命令adb_command.md">通用adb命令[adb_command.md]</h1>
 <p>多系统通用adb操作命令，创建时间：2019-06-25 21:54，作者：sunst。</p>
+<p><strong>ps:adb命令中如</strong></p>
+<blockquote>
+<p>com.sunst.ff/com.sunst.ff.TestActivity</p>
+</blockquote>
+<p>1.com.sunst.ff是程序的包名。<br>
+2.TestActivity是程序Activity类名。</p>
 <h2 id="写在前面：">写在前面：</h2>
 <p>小团子是我这一辈子最爱的人，希望有一天能再次跟她重逢winter is comming</p>
 <p>本备忘录📕：记录android中adb多系统操作相关命令anLff[anLff]</p>
 <p>本备忘录📕：同步github/qydq.github.io/:=<a href="https://qydq.github.io/adb_command.md">adb_command.md</a></p>
-<p><strong>ps:</strong></p>
-<blockquote>
-<p>所有adb命令中如：<code>com.sunst.ff/com.sunst.ff.TestActivity</code>,<code>com.sunst.ff</code>是程序的包名，<code>TestActivity</code>是程序Activity类名。</p>
-</blockquote>
 <h2 id="日志语言正反斜杠解释">日志语言正反斜杠解释</h2>
 <p><strong>日志：</strong></p>
 <blockquote>
@@ -72,9 +74,11 @@ getResources().getConfiguration().locale.getCountry().equals("TW")
 <h3 id="早期常用命令">1.早期常用命令</h3>
 <p><strong>mac电脑操作技巧</strong></p>
 <blockquote>
-<p>commond+shift+G,跳出前往文件夹的窗口<br>
-<strong>window</strong><br>
-msconfig修改系统引导<br>
+<p>commond+shift+G,跳出前往文件夹的窗口</p>
+</blockquote>
+<p><strong>window</strong></p>
+<blockquote>
+<p>msconfig修改系统引导<br>
 命令窗口快捷打开windows+R</p>
 </blockquote>
 <p><strong>说明：以下操作是一样的</strong></p>
@@ -104,7 +108,7 @@ rm -rf /data/app/com.huawei.recsys/base.apk</p>
 <blockquote>
 <p>pwd</p>
 </blockquote>
-<h4 id="adb-查看所有安装的包">(5).adb 查看所有安装的包</h4>
+<h4 id="adb查看所有安装的包">(5).adb查看所有安装的包</h4>
 <blockquote>
 <p>pm list packages</p>
 </blockquote>
@@ -120,26 +124,26 @@ adb shell pm list packages -f | grep tencent</p>
 </blockquote>
 <h4 id="adb-push">(8).adb push</h4>
 <ul>
-<li>.把E盘folder文件夹 拷贝到设备sdcard目录xfolder下（xfolder为新建</li>
+<li>把E盘folder文件夹 拷贝到设备sdcard目录xfolder下（xfolder为新建</li>
 </ul>
 <blockquote>
 <p>adb push E:\sunst\folder /sdcard/xfolder</p>
 </blockquote>
 <p>Tips：folder中的文件love.txt也放进去在xfolder目录</p>
 <ul>
-<li>.将folder下的文件夹拷贝到机器sunst文件夹中</li>
+<li>将folder下的文件夹拷贝到机器sunst文件夹中</li>
 </ul>
 <blockquote>
 <p>adb push E:\sunst\folder. /sdcard/sunst</p>
 </blockquote>
 <ul>
-<li>.将folder整个文件拷贝到sunst文件夹中</li>
+<li>将folder整个文件拷贝到sunst文件夹中</li>
 </ul>
 <blockquote>
 <p>adb push E:\sunst. /sdcard/sunst</p>
 </blockquote>
 <ul>
-<li>.将文件love.txt拷贝到sunst文件夹中并重新命名为newlovet.txt</li>
+<li>将文件love.txt拷贝到sunst文件夹中并重新命名为newlovet.txt</li>
 </ul>
 <blockquote>
 <p>adb push E:\sunst\test.txt sdcard/sunst/copytest.txt</p>
@@ -167,13 +171,13 @@ windows下：adb shell ps | findstr [apk包名]</p>
 <p>执行命令后如果有显示你搜索的apk包名，那说明正在运行，否则就是没有运行</p>
 <h4 id="当前目录下查找文件">(11).当前目录下查找文件</h4>
 <ul>
-<li>.查找文件中带有should_search_name字段</li>
+<li>查找文件中带有should_search_name字段</li>
 </ul>
 <blockquote>
 <p>find . -name “*.java” | xargs grep -ir “should_srearch_name”</p>
 </blockquote>
 <ul>
-<li>.查找文件</li>
+<li>查找文件</li>
 </ul>
 <blockquote>
 <p>find . -name “sunst”<br>
@@ -212,7 +216,7 @@ fastboot continue</p>
 <blockquote>
 <p>adb logcat -v time -s “ActivityManager”</p>
 </blockquote>
-<h3 id="adb命令注意事项">2.adb命令注意事项</h3>
+<h3 id="adb命令注意事项">3.adb命令注意事项</h3>
 <p>(1).push某个文件到目标板时，可通过如下命令，将目标目录临时变更为可读写模式：</p>
 <ul>
 <li>解决方法（1）：</li>
@@ -702,10 +706,8 @@ fastboot erase factory</p>
 </blockquote>
 <h4 id="设备锁">(6). 设备锁</h4>
 <blockquote>
-<p>fastboot flashing lock # 设备上锁，刷机完毕</p>
-</blockquote>
-<blockquote>
-<p>fastboot flashing unlock #6.0以上设备 设备必须解锁，开始刷机（这个不同的手机厂商不同）</p>
+<p>fastboot flashing lock # 设备上锁，刷机完毕<br>
+fastboot flashing unlock #6.0以上设备 设备必须解锁，开始刷机（这个不同的手机厂商不同）</p>
 </blockquote>
 <h4 id="重启">(7).重启</h4>
 <blockquote>
@@ -750,7 +752,7 @@ su</p>
 <blockquote>
 <p>adb reboot recovery 也可以让手机开机进入<code>recovery模式</code></p>
 </blockquote>
-<p>=====================================================================================================</p>
+<p>===================================================================================================</p>
 
     </div>
   </div>
