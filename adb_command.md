@@ -1,4 +1,3 @@
-<link href="markdown.css" rel="stylesheet"></link>
 # 通用adb命令[adb_command.md]
 多系统通用adb操作命令，创建时间：2019-06-25 21:54，作者：sunst。
 
