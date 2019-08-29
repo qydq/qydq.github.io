@@ -11,7 +11,7 @@ url: "http://memleaks.info"
 #  isso: "comments.mysite.org"
 
 style:
-  body: 'white'
+  body: 'dark'
   margin: 20%
   padding: 20%
   nav: "#222"
