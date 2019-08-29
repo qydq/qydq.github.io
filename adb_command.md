@@ -9,7 +9,8 @@
 ## 写在前面：
 小团子是我这一辈子最爱的人，希望有一天能再次跟她重逢winter is comming
 
-本备忘录📕：记录android中adb多系统操作相关命令anLff[anLff]
+本备忘录📕：记录android中ad
+lsb多系统操作相关命令anLff[anLff]
 
 本备忘录📕：同步github/qydq.github.io/:=[adb_command.md](https://qydq.github.io/adb_command.md)
 ## 日志语言正反斜杠解释
